@@ -1,0 +1,745 @@
+game_id,saison,league,gameday,venue,team,team_table_position,opponent,opponent_table_position,result,player_position,goal_minute,goal_score,goal_type
+1,2004,Segunda División B - Grupo III (-20/21),2,H,FC Barcelona B,1,FC Girona,5,1:2,LA,65',1:2,Linksschuss
+2,2004,Segunda División B - Grupo III (-20/21),4,H,FC Barcelona B,1,Espanyol Barcelona B,17,2:0,LA,88',2:0,Linksschuss
+3,2004,Segunda División B - Grupo III (-20/21),10,A,FC Barcelona B,1,Villajoyosa CF,8,2:1,OM,2',0:1,Ohne weitere Angaben
+4,2004,Segunda División B - Grupo III (-20/21),14,A,FC Barcelona B,1,UE Figueres,15,2:2,OM,20',0:1,Ohne weitere Angaben
+5,2004,Segunda División B - Grupo III (-20/21),17,H,FC Barcelona B,1,CD Alcoyano,11,2:0,MS,40',2:0,Linksschuss
+6,2004,Segunda División B - Grupo III (-20/21),33,H,FC Barcelona B,1,UE Figueres,11,2:2,OM,15',2:0,Rechtsschuss
+7,2004,LaLiga,34,H,FC Barcelona,1,Albacete Balompié,19,2:0,MS,90'+1,2:0,Linksschuss
+8,2005,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Panathinaikos Athen,,5:0,RA,34',3:0,Linksschuss
+9,2005,LaLiga,13,H,FC Barcelona,1,Racing Santander,18,4:1,RA,51',2:0,Linksschuss
+10,2005,LaLiga,19,H,FC Barcelona,1,Athletic Bilbao,19,2:1,RA,50',2:1,Linksschuss
+11,2005,LaLiga,20,H,FC Barcelona,1,Deportivo Alavés,19,2:0,MS,82',2:0,Linksschuss
+12,2005,LaLiga,21,A,FC Barcelona,1,RCD Mallorca,17,0:3,MS,75',0:2,Rechtsschuss
+12,2005,LaLiga,21,A,FC Barcelona,1,RCD Mallorca,17,0:3,MS,83',0:3,Linksschuss
+13,2005,Copa del Rey,Viertelfinale,H,FC Barcelona,,Real Saragossa ,,2:1,MS,42',1:0,Kopfball
+14,2005,LaLiga,24,H,FC Barcelona,1,Real Betis Sevilla,15,5:1,RA,84',5:1,Linksschuss
+15,2006,LaLiga,1,A,FC Barcelona,2,Celta Vigo,18,2:3,LA,59',1:2,Linksschuss
+16,2006,LaLiga,2,H,FC Barcelona,4,CA Osasuna,19,3:0,RA,36',3:0,Linksschuss
+17,2006,UEFA Champions League,Gruppenphase,A,FC Barcelona,,SV Werder Bremen,,1:1,RA,89',1:1,Linksschuss
+18,2006,LaLiga,6,H,FC Barcelona,1,FC Sevilla,3,3:1,RA,80',3:1,Rechtsschuss
+19,2006,LaLiga,26,H,FC Barcelona,2,Real Madrid,4,3:3,RA,11',1:1,Linksschuss
+19,2006,LaLiga,26,H,FC Barcelona,2,Real Madrid,4,3:3,RA,28',2:2,Linksschuss
+19,2006,LaLiga,26,H,FC Barcelona,2,Real Madrid,4,3:3,RA,90'+1,3:3,Linksschuss
+20,2006,LaLiga,27,A,FC Barcelona,1,Recreativo Huelva,7,0:4,RA,86',0:4,Linksschuss
+21,2006,LaLiga,28,H,FC Barcelona,1,Deportivo La Coruna ,12,2:1,RA,45',1:0,Linksschuss
+22,2006,Copa del Rey,Halbfinale,H,FC Barcelona,,FC Getafe,,5:2,RA,29',2:0,Sololauf
+22,2006,Copa del Rey,Halbfinale,H,FC Barcelona,,FC Getafe,,5:2,RA,45',3:0,Linksschuss
+23,2006,LaLiga,35,A,FC Barcelona,2,Atlético Madrid,6,0:6,RA,39',0:1,Linksschuss
+23,2006,LaLiga,35,A,FC Barcelona,2,Atlético Madrid,6,0:6,RA,80',0:5,Linksschuss
+24,2006,LaLiga,37,H,FC Barcelona,2,Espanyol Barcelona,12,2:2,RA,43',1:1,Ohne weitere Angaben
+24,2006,LaLiga,37,H,FC Barcelona,2,Espanyol Barcelona,12,2:2,RA,57',2:1,Rechtsschuss
+25,2006,LaLiga,38,A,FC Barcelona,2,Gimnàstic de Tarragona ,20,1:5,RA,34',0:2,Linksschuss
+25,2006,LaLiga,38,A,FC Barcelona,2,Gimnàstic de Tarragona ,20,1:5,RA,51',0:4,Linksschuss
+26,2007,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Olympique Lyon,,3:0,RA,82',2:0,Linksschuss
+27,2007,LaLiga,4,H,FC Barcelona,5,FC Sevilla,2,2:1,RA,72',1:0,Linksschuss
+27,2007,LaLiga,4,H,FC Barcelona,5,FC Sevilla,2,2:1,RA,79',2:0,Elfmeter
+28,2007,LaLiga,5,H,FC Barcelona,4,Real Saragossa ,8,4:1,RA,5',1:0,Linksschuss
+28,2007,LaLiga,5,H,FC Barcelona,4,Real Saragossa ,8,4:1,RA,10',2:1,Linksschuss
+29,2007,LaLiga,6,A,FC Barcelona,4,UD Levante,20,1:4,RA,50',0:4,Linksschuss
+30,2007,UEFA Champions League,Gruppenphase,A,FC Barcelona,,VfB Stuttgart,,0:2,RA,66',0:2,abgefälschter Torschuss
+31,2007,LaLiga,7,H,FC Barcelona,4,Atlético Madrid,5,3:0,RA,19',2:0,Linksschuss
+32,2007,LaLiga,9,H,FC Barcelona,4,UD Almería,9,2:0,RA,80',2:0,Elfmeter
+33,2007,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Glasgow Rangers,,2:0,RA,41',2:0,Abstauber
+34,2007,LaLiga,13,H,FC Barcelona,3,Recreativo Huelva,17,3:0,RA,81',3:0,Elfmeter
+35,2007,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Olympique Lyon,,2:2,RA,58',1:2,Elfmeter
+36,2007,UEFA Champions League,Achtelfinale,A,FC Barcelona,,Celtic Glasgow,,2:3,RA,18',1:1,Linksschuss
+36,2007,UEFA Champions League,Achtelfinale,A,FC Barcelona,,Celtic Glasgow,,2:3,RA,79',2:3,Linksschuss
+37,2007,LaLiga,25,H,FC Barcelona,2,UD Levante,20,5:1,RA,44',2:1,Linksschuss
+38,2007,LaLiga,35,H,FC Barcelona,3,FC Valencia,13,6:0,RA,5',1:0,Elfmeter
+39,2008,LaLiga,2,H,FC Barcelona,16,Racing Santander,12,1:1,RA,70',1:0,Elfmeter
+40,2008,LaLiga,3,A,FC Barcelona,17,Sporting Gijón,20,1:6,RA,85',1:5,Linksschuss
+40,2008,LaLiga,3,A,FC Barcelona,17,Sporting Gijón,20,1:6,RA,89',1:6,Kopfball
+41,2008,LaLiga,5,A,FC Barcelona,6,Espanyol Barcelona,8,1:2,RA,90',1:2,Elfmeter
+42,2008,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Shakhtar Donetsk,,1:2,RA,87',1:1,Rechtsschuss
+42,2008,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Shakhtar Donetsk,,1:2,RA,90'+2,1:2,Linksschuss
+43,2008,LaLiga,6,H,FC Barcelona,5,Atlético Madrid,7,6:1,RA,8',3:0,Direkter Freistoß
+44,2008,UEFA Champions League,Gruppenphase,A,FC Barcelona,,FC Basel 1893,,0:5,MS,4',0:1,Linksschuss
+45,2008,LaLiga,9,A,FC Barcelona,2,FC Málaga,6,1:4,RA,19',1:2,Linksschuss
+46,2008,UEFA Champions League,Gruppenphase,H,FC Barcelona,,FC Basel 1893,,1:1,RA,61',1:0,Linksschuss
+47,2008,Copa del Rey,4.Runde,H,FC Barcelona,,Benidorm CD,,1:0,RA,86',1:0,Elfmeternachschuss
+48,2008,LaLiga,11,A,FC Barcelona,1,Recreativo Huelva,17,0:2,RA,51',0:1,Linksschuss
+49,2008,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Sporting Lissabon,,2:5,RA,49',0:3,Linksschuss
+50,2008,LaLiga,13,A,FC Barcelona,1,FC Sevilla,5,0:3,RA,78',0:2,Linksschuss
+50,2008,LaLiga,13,A,FC Barcelona,1,FC Sevilla,5,0:3,RA,90'+2,0:3,Linksschuss
+51,2008,LaLiga,15,H,FC Barcelona,1,Real Madrid,5,2:0,RA,89',2:0,Kontertor
+52,2008,Copa del Rey,Achtelfinale,A,FC Barcelona,,Atlético Madrid,,1:3,RA,11',0:1,Linksschuss
+52,2008,Copa del Rey,Achtelfinale,A,FC Barcelona,,Atlético Madrid,,1:3,RA,57',0:2,Elfmeter
+52,2008,Copa del Rey,Achtelfinale,A,FC Barcelona,,Atlético Madrid,,1:3,RA,79',1:3,Rechtsschuss
+53,2008,LaLiga,18,A,FC Barcelona,1,CA Osasuna,20,2:3,RA,84',2:3,Linksschuss
+54,2008,LaLiga,19,H,FC Barcelona,1,Deportivo La Coruna ,7,5:0,RA,21',1:0,Linksschuss
+55,2008,LaLiga,20,H,FC Barcelona,1,CD Numancia ,17,4:1,RA,49',1:0,Linksschuss
+55,2008,LaLiga,20,H,FC Barcelona,1,CD Numancia ,17,4:1,RA,76',4:1,Rechtsschuss
+56,2008,LaLiga,21,A,FC Barcelona,1,Racing Santander,9,1:2,RA,65',1:1,Rechtsschuss
+56,2008,LaLiga,21,A,FC Barcelona,1,Racing Santander,9,1:2,RA,81',1:2,Rechtsschuss
+57,2008,LaLiga,25,A,FC Barcelona,1,Atlético Madrid,7,4:3,RA,30',0:2,Linksschuss
+58,2008,Copa del Rey,Halbfinale,A,FC Barcelona,,RCD Mallorca,,1:1,RA,81',1:1,Linksschuss
+59,2008,LaLiga,26,H,FC Barcelona,1,Athletic Bilbao,11,2:0,RA,31',2:0,Elfmeter
+60,2008,UEFA Champions League,Achtelfinale,H,FC Barcelona,,Olympique Lyon,,5:2,RA,40',3:0,Linksschuss
+61,2008,LaLiga,28,H,FC Barcelona,1,FC Málaga,6,6:0,RA,26',2:0,Rechtsschuss
+62,2008,UEFA Champions League,Viertelfinale,H,FC Barcelona,,FC Bayern München,,4:0,RA,9',1:0,Linksschuss
+62,2008,UEFA Champions League,Viertelfinale,H,FC Barcelona,,FC Bayern München,,4:0,RA,38',3:0,Rechtsschuss
+63,2008,LaLiga,31,A,FC Barcelona,1,FC Getafe,14,0:1,RA,18',0:1,Linksschuss
+64,2008,LaLiga,33,A,FC Barcelona,1,FC Valencia,4,2:2,RA,23',0:1,Linksschuss
+65,2008,LaLiga,34,A,FC Barcelona,1,Real Madrid,2,2:6,MS,35',1:3,Linksschuss
+65,2008,LaLiga,34,A,FC Barcelona,1,Real Madrid,2,2:6,MS,75',2:5,Linksschuss
+66,2008,Copa del Rey,Finale,H,FC Barcelona,,Athletic Bilbao,,4:1,RA,55',2:1,Linksschuss
+67,2008,UEFA Champions League,Finale,H,FC Barcelona,,Manchester United,,2:0,RA,70',2:0,Kopfball
+68,2009,Supercopa,Finale,H,FC Barcelona,,Athletic Bilbao,,3:0,RA,50',1:0,Rechtsschuss
+68,2009,Supercopa,Finale,H,FC Barcelona,,Athletic Bilbao,,3:0,RA,68',2:0,Elfmeter
+69,2009,LaLiga,2,A,FC Barcelona,2,FC Getafe,1,0:2,RA,78',0:2,Kopfball
+70,2009,LaLiga,3,H,FC Barcelona,1,Atlético Madrid,17,5:2,RA,15',2:0,Linksschuss
+70,2009,LaLiga,3,H,FC Barcelona,1,Atlético Madrid,17,5:2,RA,90'+3,5:2,Rechtsschuss
+71,2009,LaLiga,4,A,FC Barcelona,2,Racing Santander,10,1:4,RA,23',0:2,Linksschuss
+71,2009,LaLiga,4,A,FC Barcelona,2,Racing Santander,10,1:4,RA,63',0:4,Linksschuss
+72,2009,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Dynamo Kyiv,,2:0,RA,25',1:0,Linksschuss
+73,2009,LaLiga,8,H,FC Barcelona,1,Real Saragossa ,13,6:1,RA,80',5:1,Linksschuss
+74,2009,LaLiga,10,H,FC Barcelona,1,RCD Mallorca,5,4:2,RA,86',4:1,Elfmeter
+75,2009,Copa del Rey,4.Runde,H,FC Barcelona,,Cultural Leonesa,,5:0,RA,64',4:0,Linksschuss
+76,2009,LaLiga,13,A,FC Barcelona,1,Deportivo La Coruna ,5,1:3,RA,26',0:1,Linksschuss
+76,2009,LaLiga,13,A,FC Barcelona,1,Deportivo La Coruna ,5,1:3,RA,80',1:2,Kopfball
+77,2009,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Dynamo Kyiv,,1:2,RA,86',1:2,Direkter Freistoß
+78,2009,FIFA Klub-WM,Halbfinale,A,FC Barcelona,,CF Atlante,,1:3,RA,55',1:2,Linksschuss
+79,2009,FIFA Klub-WM,Finale,A,FC Barcelona,,Club Estudiantes de La Plata,,1:2  n.V.,RA,110',1:2,Brust
+80,2009,LaLiga,17,A,FC Barcelona,1,CD Teneriffa,17,0:5,RA,36',0:1,Linksschuss
+80,2009,LaLiga,17,A,FC Barcelona,1,CD Teneriffa,17,0:5,RA,45',0:3,Rechtsschuss
+80,2009,LaLiga,17,A,FC Barcelona,1,CD Teneriffa,17,0:5,RA,75',0:4,Linksschuss
+81,2009,LaLiga,18,H,FC Barcelona,1,FC Sevilla,5,4:0,RA,85',3:0,Linksschuss
+81,2009,LaLiga,18,H,FC Barcelona,1,FC Sevilla,5,4:0,RA,90'+1,4:0,Linksschuss
+82,2009,LaLiga,19,A,FC Barcelona,1,Real Valladolid,17,0:3,RA,54',0:3,Linksschuss
+83,2009,LaLiga,21,H,FC Barcelona,1,FC Getafe,7,2:1,RA,7',1:0,Linksschuss
+84,2009,LaLiga,24,H,FC Barcelona,1,FC Málaga,12,2:1,OM,84',2:1,Rechtsschuss
+85,2009,LaLiga,25,A,FC Barcelona,1,UD Almería,13,2:2,RA,42',1:1,Direkter Freistoß
+85,2009,LaLiga,25,A,FC Barcelona,1,UD Almería,13,2:2,RA,66',2:2,Linksschuss
+86,2009,LaLiga,26,H,FC Barcelona,1,FC Valencia,3,3:0,MS,56',1:0,Linksschuss
+86,2009,LaLiga,26,H,FC Barcelona,1,FC Valencia,3,3:0,MS,80',2:0,Linksschuss
+86,2009,LaLiga,26,H,FC Barcelona,1,FC Valencia,3,3:0,MS,82',3:0,Rechtsschuss
+87,2009,UEFA Champions League,Achtelfinale,H,FC Barcelona,,VfB Stuttgart,,4:0,MS,13',1:0,Linksschuss
+87,2009,UEFA Champions League,Achtelfinale,H,FC Barcelona,,VfB Stuttgart,,4:0,MS,56',3:0,Linksschuss
+88,2009,LaLiga,27,A,FC Barcelona,1,Real Saragossa ,17,2:4,RA,4',0:1,Kopfball
+88,2009,LaLiga,27,A,FC Barcelona,1,Real Saragossa ,17,2:4,RA,65',0:2,Linksschuss
+88,2009,LaLiga,27,A,FC Barcelona,1,Real Saragossa ,17,2:4,RA,78',0:3,Linksschuss
+89,2009,LaLiga,30,H,FC Barcelona,1,Athletic Bilbao,6,4:1,MS,67',4:0,Linksschuss
+90,2009,UEFA Champions League,Viertelfinale,H,FC Barcelona,,FC Arsenal,,4:1,MS,21',1:1,Linksschuss
+90,2009,UEFA Champions League,Viertelfinale,H,FC Barcelona,,FC Arsenal,,4:1,MS,37',2:1,Rechtsschuss
+90,2009,UEFA Champions League,Viertelfinale,H,FC Barcelona,,FC Arsenal,,4:1,MS,42',3:1,Linksschuss
+90,2009,UEFA Champions League,Viertelfinale,H,FC Barcelona,,FC Arsenal,,4:1,MS,88',4:1,Sololauf
+91,2009,LaLiga,31,A,FC Barcelona,1,Real Madrid,2,0:2,MS,32',0:1,Rechtsschuss
+92,2009,LaLiga,35,A,FC Barcelona,1,FC Villarreal,6,1:4,MS,18',0:1,Linksschuss
+92,2009,LaLiga,35,A,FC Barcelona,1,FC Villarreal,6,1:4,MS,87',1:4,Linksschuss
+93,2009,LaLiga,36,H,FC Barcelona,1,CD Teneriffa,18,4:1,RA,16',1:0,Rechtsschuss
+93,2009,LaLiga,36,H,FC Barcelona,1,CD Teneriffa,18,4:1,RA,90'+3,4:1,Rechtsschuss
+94,2009,LaLiga,37,A,FC Barcelona,1,FC Sevilla,4,2:3,MS,5',0:1,Linksschuss
+95,2009,LaLiga,38,H,FC Barcelona,1,Real Valladolid,16,4:0,MS,61',3:0,Rechtsschuss
+95,2009,LaLiga,38,H,FC Barcelona,1,Real Valladolid,16,4:0,MS,74',4:0,Linksschuss
+96,2010,Supercopa,Finale,H,FC Barcelona,,FC Sevilla,,4:0,RA,25',2:0,Linksschuss
+96,2010,Supercopa,Finale,H,FC Barcelona,,FC Sevilla,,4:0,RA,43',3:0,Rechtsschuss
+96,2010,Supercopa,Finale,H,FC Barcelona,,FC Sevilla,,4:0,RA,90'+1,4:0,Linksschuss
+97,2010,LaLiga,1,A,FC Barcelona,1,Racing Santander,12,0:3,RA,3',0:1,Linksschuss
+98,2010,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Panathinaikos Athen,,5:1,MS,22',1:1,Linksschuss
+98,2010,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Panathinaikos Athen,,5:1,MS,45',3:1,Linksschuss
+99,2010,LaLiga,3,A,FC Barcelona,11,Atlético Madrid,1,1:2,MS,12',0:1,Linksschuss
+100,2010,LaLiga,6,H,FC Barcelona,3,RCD Mallorca,11,1:1,MS,20',1:0,Linksschuss
+101,2010,UEFA Champions League,Gruppenphase,H,FC Barcelona,,FC Kopenhagen,,2:0,MS,18',1:0,Linksschuss
+101,2010,UEFA Champions League,Gruppenphase,H,FC Barcelona,,FC Kopenhagen,,2:0,MS,90'+1,2:0,Linksschuss
+102,2010,LaLiga,8,A,FC Barcelona,2,Real Saragossa ,20,0:2,MS,41',0:1,Linksschuss
+102,2010,LaLiga,8,A,FC Barcelona,2,Real Saragossa ,20,0:2,MS,65',0:2,Linksschuss
+103,2010,LaLiga,9,H,FC Barcelona,3,FC Sevilla,6,5:0,RA,4',1:0,Linksschuss
+103,2010,LaLiga,9,H,FC Barcelona,3,FC Sevilla,6,5:0,RA,63',4:0,Linksschuss
+104,2010,UEFA Champions League,Gruppenphase,A,FC Barcelona,,FC Kopenhagen,,1:1,RA,31',0:1,Rechtsschuss
+105,2010,LaLiga,10,A,FC Barcelona,2,FC Getafe,10,1:3,MS,23',0:1,Linksschuss
+106,2010,Copa del Rey,4.Runde,H,FC Barcelona,,Club Atlético de Ceuta,,5:1,RA,67',5:1,Linksschuss
+107,2010,LaLiga,11,H,FC Barcelona,2,FC Villarreal,3,3:1,MS,58',2:1,Rechtsschuss
+107,2010,LaLiga,11,H,FC Barcelona,2,FC Villarreal,3,3:1,MS,83',3:1,Linksschuss
+108,2010,LaLiga,12,A,FC Barcelona,2,UD Almería,18,0:8,MS,16',0:1,Linksschuss
+108,2010,LaLiga,12,A,FC Barcelona,2,UD Almería,18,0:8,MS,36',0:5,Abstauber
+108,2010,LaLiga,12,A,FC Barcelona,2,UD Almería,18,0:8,MS,67',0:7,Abstauber
+109,2010,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Panathinaikos Athen,,0:3,MS,63',0:2,Linksschuss
+110,2010,LaLiga,14,A,FC Barcelona,1,CA Osasuna,12,0:3,MS,64',0:2,Linksschuss
+110,2010,LaLiga,14,A,FC Barcelona,1,CA Osasuna,12,0:3,MS,82',0:3,Elfmeter
+111,2010,LaLiga,15,H,FC Barcelona,1,Real Sociedad San Sebastián,6,5:0,MS,46',3:0,Linksschuss
+111,2010,LaLiga,15,H,FC Barcelona,1,Real Sociedad San Sebastián,6,5:0,MS,86',4:0,Linksschuss
+112,2010,LaLiga,18,A,FC Barcelona,1,Deportivo La Coruna ,12,0:4,MS,51',0:2,Direkter Freistoß
+113,2010,Copa del Rey,Viertelfinale,H,FC Barcelona,,Real Betis Sevilla,,5:0,MS,44',1:0,Linksschuss
+113,2010,Copa del Rey,Viertelfinale,H,FC Barcelona,,Real Betis Sevilla,,5:0,MS,63',2:0,Linksschuss
+113,2010,Copa del Rey,Viertelfinale,H,FC Barcelona,,Real Betis Sevilla,,5:0,MS,73',3:0,Linksschuss
+114,2010,Copa del Rey,Viertelfinale,A,FC Barcelona,,Real Betis Sevilla,,3:1,RA,37',2:1,Linksschuss
+115,2010,LaLiga,20,H,FC Barcelona,1,Racing Santander,14,3:0,MS,33',2:0,Elfmeter
+116,2010,Copa del Rey,Halbfinale,H,FC Barcelona,,UD Almería,,5:0,MS,9',1:0,Linksschuss
+116,2010,Copa del Rey,Halbfinale,H,FC Barcelona,,UD Almería,,5:0,MS,15',3:0,Linksschuss
+117,2010,LaLiga,21,A,FC Barcelona,1,Hércules Alicante,12,0:3,MS,87',0:2,Linksschuss
+117,2010,LaLiga,21,A,FC Barcelona,1,Hércules Alicante,12,0:3,MS,89',0:3,Linksschuss
+118,2010,LaLiga,22,H,FC Barcelona,1,Atlético Madrid,8,3:0,MS,16',1:0,Linksschuss
+118,2010,LaLiga,22,H,FC Barcelona,1,Atlético Madrid,8,3:0,MS,28',2:0,Linksschuss
+118,2010,LaLiga,22,H,FC Barcelona,1,Atlético Madrid,8,3:0,MS,78',3:0,Linksschuss
+119,2010,LaLiga,24,H,FC Barcelona,1,Athletic Bilbao,5,2:1,MS,78',2:1,Rechtsschuss
+120,2010,LaLiga,25,A,FC Barcelona,1,RCD Mallorca,11,0:3,MS,38',0:1,Kopfball
+121,2010,LaLiga,26,A,FC Barcelona,1,FC Valencia,3,0:1,MS,77',0:1,Linksschuss
+122,2010,UEFA Champions League,Achtelfinale,H,FC Barcelona,,FC Arsenal,,3:1,MS,49',1:0,Linksschuss
+122,2010,UEFA Champions League,Achtelfinale,H,FC Barcelona,,FC Arsenal,,3:1,MS,72',3:1,Elfmeter
+123,2010,LaLiga,31,H,FC Barcelona,1,UD Almería,20,3:1,MS,52',1:1,Elfmeter
+123,2010,LaLiga,31,H,FC Barcelona,1,UD Almería,20,3:1,MS,90'+1,3:1,Linksschuss
+124,2010,UEFA Champions League,Viertelfinale,A,FC Barcelona,,Shakhtar Donetsk,,0:1,MS,42',0:1,Linksschuss
+125,2010,LaLiga,32,A,FC Barcelona,1,Real Madrid,2,1:1,MS,53',0:1,Elfmeter
+126,2010,LaLiga,33,H,FC Barcelona,1,CA Osasuna,16,2:0,MS,87',2:0,Rechtsschuss
+127,2010,UEFA Champions League,Halbfinale,A,FC Barcelona,,Real Madrid,,0:2,MS,76',0:1,Linksschuss
+127,2010,UEFA Champions League,Halbfinale,A,FC Barcelona,,Real Madrid,,0:2,MS,87',0:2,Sololauf
+128,2010,UEFA Champions League,Finale,H,FC Barcelona,,Manchester United,,3:1,MS,54',2:1,Linksschuss
+129,2011,Supercopa,Finale,A,FC Barcelona,,Real Madrid,,2:2,MS,45',1:2,Linksschuss
+130,2011,Supercopa,Finale,H,FC Barcelona,,Real Madrid,,3:2,MS,44',2:1,Rechtsschuss
+130,2011,Supercopa,Finale,H,FC Barcelona,,Real Madrid,,3:2,MS,88',3:2,Linksschuss
+131,2011,UEFA Super Cup,Finale,H,FC Barcelona,,FC Porto,,2:0,MS,39',1:0,Linksschuss
+132,2011,LaLiga,2,H,FC Barcelona,2,FC Villarreal,5,5:0,MS,51',4:0,Rechtsschuss
+132,2011,LaLiga,2,H,FC Barcelona,2,FC Villarreal,5,5:0,MS,74',5:0,Linksschuss
+133,2011,LaLiga,4,H,FC Barcelona,2,CA Osasuna,8,8:0,MS,5',1:0,Linksschuss
+133,2011,LaLiga,4,H,FC Barcelona,2,CA Osasuna,8,8:0,MS,41',5:0,Linksschuss
+133,2011,LaLiga,4,H,FC Barcelona,2,CA Osasuna,8,8:0,MS,79',8:0,Linksschuss
+134,2011,LaLiga,6,H,FC Barcelona,2,Atlético Madrid,4,5:0,MS,26',3:0,Linksschuss
+134,2011,LaLiga,6,H,FC Barcelona,2,Atlético Madrid,4,5:0,MS,78',4:0,Linksschuss
+134,2011,LaLiga,6,H,FC Barcelona,2,Atlético Madrid,4,5:0,MS,90'+1,5:0,Linksschuss
+135,2011,UEFA Champions League,Gruppenphase,A,FC Barcelona,,BATE Borisov,,0:5,MS,38',0:3,Kopfball
+135,2011,UEFA Champions League,Gruppenphase,A,FC Barcelona,,BATE Borisov,,0:5,MS,56',0:4,Linksschuss
+136,2011,LaLiga,8,H,FC Barcelona,1,Racing Santander,18,3:0,MS,11',1:0,Rechtsschuss
+136,2011,LaLiga,8,H,FC Barcelona,1,Racing Santander,18,3:0,MS,69',3:0,Rechtsschuss
+137,2011,LaLiga,11,H,FC Barcelona,2,RCD Mallorca,11,5:0,MS,13',1:0,Elfmeter
+137,2011,LaLiga,11,H,FC Barcelona,2,RCD Mallorca,11,5:0,MS,21',2:0,Rechtsschuss
+137,2011,LaLiga,11,H,FC Barcelona,2,RCD Mallorca,11,5:0,MS,30',3:0,Linksschuss
+138,2011,UEFA Champions League,Gruppenphase,A,FC Barcelona,,FC Viktoria Pilsen,,0:4,MS,24',0:1,Elfmeter
+138,2011,UEFA Champions League,Gruppenphase,A,FC Barcelona,,FC Viktoria Pilsen,,0:4,MS,45'+2,0:2,Linksschuss
+138,2011,UEFA Champions League,Gruppenphase,A,FC Barcelona,,FC Viktoria Pilsen,,0:4,MS,90'+2,0:4,Linksschuss
+139,2011,LaLiga,12,A,FC Barcelona,2,Athletic Bilbao,11,2:2,MS,90',2:2,Linksschuss
+140,2011,LaLiga,13,H,FC Barcelona,2,Real Saragossa ,16,4:0,MS,43',2:0,Rechtsschuss
+141,2011,UEFA Champions League,Gruppenphase,A,FC Barcelona,,AC Mailand,,2:3,MS,31',1:2,Elfmeter
+142,2011,LaLiga,17,H,FC Barcelona,2,Rayo Vallecano,15,4:0,MS,49',4:0,Linksschuss
+143,2011,LaLiga,15,H,FC Barcelona,2,UD Levante,4,5:0,MS,55',4:0,Linksschuss
+144,2011,FIFA Klub-WM,Finale,A,FC Barcelona,,FC Santos,,0:4,RA,17',0:1,Linksschuss
+144,2011,FIFA Klub-WM,Finale,A,FC Barcelona,,FC Santos,,0:4,RA,82',0:4,Linksschuss
+145,2011,Copa del Rey,Achtelfinale,H,FC Barcelona,,CA Osasuna,,4:0,MS,71',3:0,Kopfball
+145,2011,Copa del Rey,Achtelfinale,H,FC Barcelona,,CA Osasuna,,4:0,MS,90',4:0,Linksschuss
+146,2011,LaLiga,19,H,FC Barcelona,2,Real Betis Sevilla,10,4:2,MS,12',2:0,Rechtsschuss
+146,2011,LaLiga,19,H,FC Barcelona,2,Real Betis Sevilla,10,4:2,MS,86',4:2,Elfmeter
+147,2011,LaLiga,1,A,FC Barcelona,2,FC Málaga,4,1:4,MS,32',0:1,Kopfball
+147,2011,LaLiga,1,A,FC Barcelona,2,FC Málaga,4,1:4,MS,51',0:3,Linksschuss
+147,2011,LaLiga,1,A,FC Barcelona,2,FC Málaga,4,1:4,MS,77',0:4,Linksschuss
+148,2011,LaLiga,22,H,FC Barcelona,2,Real Sociedad San Sebastián,14,2:1,MS,72',2:0,Linksschuss
+149,2011,UEFA Champions League,Achtelfinale,A,FC Barcelona,,Bayer 04 Leverkusen,,1:3,MS,88',1:3,Linksschuss
+150,2011,LaLiga,24,H,FC Barcelona,2,FC Valencia,3,5:1,MS,21',1:1,Linksschuss
+150,2011,LaLiga,24,H,FC Barcelona,2,FC Valencia,3,5:1,MS,27',2:1,Abstauber
+150,2011,LaLiga,24,H,FC Barcelona,2,FC Valencia,3,5:1,MS,75',3:1,Linksschuss
+150,2011,LaLiga,24,H,FC Barcelona,2,FC Valencia,3,5:1,MS,84',4:1,Linksschuss
+151,2011,LaLiga,25,A,FC Barcelona,2,Atlético Madrid,6,1:2,MS,79',1:2,Direkter Freistoß
+152,2011,UEFA Champions League,Achtelfinale,H,FC Barcelona,,Bayer 04 Leverkusen,,7:1,MS,25',1:0,Linksschuss
+152,2011,UEFA Champions League,Achtelfinale,H,FC Barcelona,,Bayer 04 Leverkusen,,7:1,MS,42',2:0,Linksschuss
+152,2011,UEFA Champions League,Achtelfinale,H,FC Barcelona,,Bayer 04 Leverkusen,,7:1,MS,50',3:0,Rechtsschuss
+152,2011,UEFA Champions League,Achtelfinale,H,FC Barcelona,,Bayer 04 Leverkusen,,7:1,MS,58',5:0,Linksschuss
+152,2011,UEFA Champions League,Achtelfinale,H,FC Barcelona,,Bayer 04 Leverkusen,,7:1,MS,85',7:0,Linksschuss
+153,2011,LaLiga,27,A,FC Barcelona,2,Racing Santander,18,0:2,MS,29',0:1,Linksschuss
+153,2011,LaLiga,27,A,FC Barcelona,2,Racing Santander,18,0:2,MS,56',0:2,Elfmeter
+154,2011,LaLiga,28,A,FC Barcelona,2,FC Sevilla,14,0:2,MS,25',0:2,Linksschuss
+155,2011,LaLiga,29,H,FC Barcelona,2,FC Granada,14,5:3,MS,16',2:0,Linksschuss
+155,2011,LaLiga,29,H,FC Barcelona,2,FC Granada,14,5:3,MS,66',3:2,Linksschuss
+155,2011,LaLiga,29,H,FC Barcelona,2,FC Granada,14,5:3,MS,85',5:2,Linksschuss
+156,2011,LaLiga,30,A,FC Barcelona,2,RCD Mallorca,9,0:2,MS,25',0:1,Direkter Freistoß
+157,2011,LaLiga,31,H,FC Barcelona,2,Athletic Bilbao,12,2:0,MS,57',2:0,Elfmeter
+158,2011,UEFA Champions League,Viertelfinale,H,FC Barcelona,,AC Mailand,,3:1,RA,11',1:0,Elfmeter
+158,2011,UEFA Champions League,Viertelfinale,H,FC Barcelona,,AC Mailand,,3:1,RA,42',2:1,Elfmeter
+159,2011,LaLiga,32,A,FC Barcelona,2,Real Saragossa ,18,1:4,MS,39',1:2,Linksschuss
+159,2011,LaLiga,32,A,FC Barcelona,2,Real Saragossa ,18,1:4,MS,86',1:3,Elfmeter
+160,2011,LaLiga,33,H,FC Barcelona,2,FC Getafe,7,4:0,MS,44',2:0,Linksschuss
+161,2011,LaLiga,34,A,FC Barcelona,2,UD Levante,5,1:2,MS,64',1:1,Linksschuss
+161,2011,LaLiga,34,A,FC Barcelona,2,UD Levante,5,1:2,MS,73',1:2,Elfmeter
+162,2011,LaLiga,36,A,FC Barcelona,2,Rayo Vallecano,17,0:7,MS,16',0:1,Linksschuss
+162,2011,LaLiga,36,A,FC Barcelona,2,Rayo Vallecano,17,0:7,MS,88',0:7,Linksschuss
+163,2011,LaLiga,20,H,FC Barcelona,2,FC Málaga,10,4:1,MS,34',2:1,Elfmeter
+163,2011,LaLiga,20,H,FC Barcelona,2,FC Málaga,10,4:1,MS,60',3:1,Elfmeter
+163,2011,LaLiga,20,H,FC Barcelona,2,FC Málaga,10,4:1,MS,63',4:1,Linksschuss
+164,2011,LaLiga,37,H,FC Barcelona,2,Espanyol Barcelona,13,4:0,MS,11',1:0,Direkter Freistoß
+164,2011,LaLiga,37,H,FC Barcelona,2,Espanyol Barcelona,13,4:0,MS,63',2:0,Elfmeter
+164,2011,LaLiga,37,H,FC Barcelona,2,Espanyol Barcelona,13,4:0,MS,73',3:0,Linksschuss
+164,2011,LaLiga,37,H,FC Barcelona,2,Espanyol Barcelona,13,4:0,MS,78',4:0,Elfmeter
+165,2011,Copa del Rey,Finale,H,FC Barcelona,,Athletic Bilbao,,3:0,MS,20',2:0,Rechtsschuss
+166,2012,LaLiga,1,H,FC Barcelona,1,Real Sociedad San Sebastián,4,5:1,MS,11',2:1,Linksschuss
+166,2012,LaLiga,1,H,FC Barcelona,1,Real Sociedad San Sebastián,4,5:1,MS,16',3:1,Linksschuss
+167,2012,Supercopa,Finale,H,FC Barcelona,,Real Madrid,,3:2,MS,70',2:1,Elfmeter
+168,2012,LaLiga,2,A,FC Barcelona,1,CA Osasuna,19,1:2,MS,76',1:1,Linksschuss
+168,2012,LaLiga,2,A,FC Barcelona,1,CA Osasuna,19,1:2,MS,80',1:2,Linksschuss
+169,2012,Supercopa,Finale,A,FC Barcelona,,Real Madrid,,2:1,MS,45',2:1,Direkter Freistoß
+170,2012,LaLiga,4,A,FC Barcelona,1,FC Getafe,9,1:4,MS,74',0:2,Elfmeter
+170,2012,LaLiga,4,A,FC Barcelona,1,FC Getafe,9,1:4,MS,78',0:3,Linksschuss
+171,2012,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Spartak Moskau,,3:2,MS,71',2:2,Linksschuss
+171,2012,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Spartak Moskau,,3:2,MS,80',3:2,Kopfball
+172,2012,LaLiga,7,H,FC Barcelona,1,Real Madrid,6,2:2,MS,31',1:1,Linksschuss
+172,2012,LaLiga,7,H,FC Barcelona,1,Real Madrid,6,2:2,MS,60',2:1,Direkter Freistoß
+173,2012,LaLiga,8,A,FC Barcelona,1,Deportivo La Coruna ,18,4:5,MS,17',0:3,Linksschuss
+173,2012,LaLiga,8,A,FC Barcelona,1,Deportivo La Coruna ,18,4:5,MS,43',2:4,Linksschuss
+173,2012,LaLiga,8,A,FC Barcelona,1,Deportivo La Coruna ,18,4:5,MS,76',3:5,Linksschuss
+174,2012,LaLiga,9,A,FC Barcelona,1,Rayo Vallecano,12,0:5,MS,48',0:2,Linksschuss
+174,2012,LaLiga,9,A,FC Barcelona,1,Rayo Vallecano,12,0:5,MS,89',0:5,Rechtsschuss
+175,2012,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Celtic Glasgow,,2:1,MS,90'+1,2:1,Abstauber
+176,2012,LaLiga,11,A,FC Barcelona,1,RCD Mallorca,13,2:4,MS,43',0:2,Linksschuss
+176,2012,LaLiga,11,A,FC Barcelona,1,RCD Mallorca,13,2:4,MS,70',2:4,Linksschuss
+177,2012,LaLiga,12,H,FC Barcelona,1,Real Saragossa ,10,3:1,MS,15',1:0,Linksschuss
+177,2012,LaLiga,12,H,FC Barcelona,1,Real Saragossa ,10,3:1,MS,60',3:1,Linksschuss
+178,2012,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Spartak Moskau,,0:3,MS,27',0:2,Rechtsschuss
+178,2012,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Spartak Moskau,,0:3,MS,39',0:3,Linksschuss
+179,2012,LaLiga,13,A,FC Barcelona,1,UD Levante,4,0:4,MS,46',0:1,Linksschuss
+179,2012,LaLiga,13,A,FC Barcelona,1,UD Levante,4,0:4,MS,51',0:2,Linksschuss
+180,2012,LaLiga,14,H,FC Barcelona,1,Athletic Bilbao,14,5:1,MS,25',2:0,Linksschuss
+180,2012,LaLiga,14,H,FC Barcelona,1,Athletic Bilbao,14,5:1,MS,70',5:1,Rechtsschuss
+181,2012,LaLiga,15,A,FC Barcelona,1,Real Betis Sevilla,4,1:2,MS,16',0:1,Linksschuss
+181,2012,LaLiga,15,A,FC Barcelona,1,Real Betis Sevilla,4,1:2,MS,25',0:2,Linksschuss
+182,2012,Copa del Rey,Achtelfinale,A,FC Barcelona,,FC Córdoba,,0:2,MS,10',0:1,Linksschuss
+182,2012,Copa del Rey,Achtelfinale,A,FC Barcelona,,FC Córdoba,,0:2,MS,73',0:2,Linksschuss
+183,2012,LaLiga,16,H,FC Barcelona,1,Atlético Madrid,2,4:1,MS,58',3:1,Linksschuss
+183,2012,LaLiga,16,H,FC Barcelona,1,Atlético Madrid,2,4:1,MS,88',4:1,Linksschuss
+184,2012,LaLiga,17,A,FC Barcelona,1,Real Valladolid,8,1:3,MS,59',0:2,Linksschuss
+185,2012,LaLiga,18,H,FC Barcelona,1,Espanyol Barcelona,18,4:0,MS,28',4:0,Elfmeter
+186,2012,LaLiga,19,A,FC Barcelona,1,FC Málaga,4,1:3,MS,26',0:1,Rechtsschuss
+187,2012,Copa del Rey,Viertelfinale,H,FC Barcelona,,FC Málaga,,2:2,MS,29',1:1,Linksschuss
+188,2012,LaLiga,20,A,FC Barcelona,1,Real Sociedad San Sebastián,9,3:2,MS,6',0:1,Linksschuss
+189,2012,Copa del Rey,Viertelfinale,A,FC Barcelona,,FC Málaga,,2:4,MS,79',2:4,Kopfball
+190,2012,LaLiga,21,H,FC Barcelona,1,CA Osasuna,18,5:1,MS,11',1:0,Rechtsschuss
+190,2012,LaLiga,21,H,FC Barcelona,1,CA Osasuna,18,5:1,MS,28',2:1,Elfmeter
+190,2012,LaLiga,21,H,FC Barcelona,1,CA Osasuna,18,5:1,MS,56',4:1,Linksschuss
+190,2012,LaLiga,21,H,FC Barcelona,1,CA Osasuna,18,5:1,MS,58',5:1,Linksschuss
+191,2012,LaLiga,22,A,FC Barcelona,1,FC Valencia,8,1:1,MS,39',1:1,Elfmeter
+192,2012,LaLiga,23,H,FC Barcelona,1,FC Getafe,11,6:1,MS,13',2:0,Linksschuss
+193,2012,LaLiga,24,A,FC Barcelona,1,FC Granada,15,1:2,MS,49',1:1,Linksschuss
+193,2012,LaLiga,24,A,FC Barcelona,1,FC Granada,15,1:2,MS,73',1:2,Direkter Freistoß
+194,2012,LaLiga,25,H,FC Barcelona,1,FC Sevilla,10,2:1,MS,60',2:1,Linksschuss
+195,2012,LaLiga,26,A,FC Barcelona,1,Real Madrid,3,2:1,MS,18',1:1,Linksschuss
+196,2012,LaLiga,27,H,FC Barcelona,1,Deportivo La Coruna ,20,2:0,MS,88',2:0,Linksschuss
+197,2012,UEFA Champions League,Achtelfinale,H,FC Barcelona,,AC Mailand,,4:0,MS,5',1:0,Linksschuss
+197,2012,UEFA Champions League,Achtelfinale,H,FC Barcelona,,AC Mailand,,4:0,MS,40',2:0,Linksschuss
+198,2012,LaLiga,28,H,FC Barcelona,1,Rayo Vallecano,8,3:1,MS,40',2:0,Linksschuss
+198,2012,LaLiga,28,H,FC Barcelona,1,Rayo Vallecano,8,3:1,MS,57',3:0,Linksschuss
+199,2012,LaLiga,29,A,FC Barcelona,1,Celta Vigo,19,2:2,MS,73',1:2,Linksschuss
+200,2012,UEFA Champions League,Viertelfinale,A,FC Barcelona,,FC Paris Saint-Germain,,2:2,MS,38',0:1,Linksschuss
+201,2012,LaLiga,33,A,FC Barcelona,1,Athletic Bilbao,14,2:2,MS,67',1:1,Linksschuss
+202,2012,LaLiga,34,H,FC Barcelona,1,Real Betis Sevilla,7,4:2,MS,60',3:2,Direkter Freistoß
+202,2012,LaLiga,34,H,FC Barcelona,1,Real Betis Sevilla,7,4:2,MS,71',4:2,Linksschuss
+203,2013,LaLiga,1,H,FC Barcelona,2,UD Levante,10,7:0,MS,13',2:0,Linksschuss
+203,2013,LaLiga,1,H,FC Barcelona,2,UD Levante,10,7:0,MS,42',5:0,Elfmeter
+204,2013,LaLiga,3,A,FC Barcelona,1,FC Valencia,10,2:3,MS,11',0:1,Linksschuss
+204,2013,LaLiga,3,A,FC Barcelona,1,FC Valencia,10,2:3,MS,38',0:2,Rechtsschuss
+204,2013,LaLiga,3,A,FC Barcelona,1,FC Valencia,10,2:3,MS,41',0:3,Linksschuss
+205,2013,LaLiga,4,H,FC Barcelona,1,FC Sevilla,16,3:2,MS,75',2:0,Linksschuss
+206,2013,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Ajax Amsterdam,,4:0,MS,22',1:0,Direkter Freistoß
+206,2013,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Ajax Amsterdam,,4:0,MS,55',2:0,Linksschuss
+206,2013,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Ajax Amsterdam,,4:0,MS,75',4:0,Linksschuss
+207,2013,LaLiga,6,H,FC Barcelona,1,Real Sociedad San Sebastián,7,4:1,MS,8',2:0,Kopfball
+208,2013,LaLiga,7,A,FC Barcelona,1,UD Almería,19,0:2,MS,21',0:1,Linksschuss
+209,2013,UEFA Champions League,Gruppenphase,A,FC Barcelona,,AC Mailand,,1:1,MS,23',1:1,Linksschuss
+210,2013,UEFA Champions League,Gruppenphase,H,FC Barcelona,,AC Mailand,,3:1,MS,30',1:0,Elfmeter
+210,2013,UEFA Champions League,Gruppenphase,H,FC Barcelona,,AC Mailand,,3:1,MS,83',3:1,Linksschuss
+211,2013,Copa del Rey,Achtelfinale,H,FC Barcelona,,FC Getafe,,4:0,MS,90',3:0,Linksschuss
+211,2013,Copa del Rey,Achtelfinale,H,FC Barcelona,,FC Getafe,,4:0,MS,90'+2,4:0,Linksschuss
+212,2013,Copa del Rey,Achtelfinale,A,FC Barcelona,,FC Getafe,,0:2,MS,43',0:1,Rechtsschuss
+212,2013,Copa del Rey,Achtelfinale,A,FC Barcelona,,FC Getafe,,0:2,MS,63',0:2,Linksschuss
+213,2013,LaLiga,22,H,FC Barcelona,1,FC Valencia,10,2:3,MS,54',2:2,Elfmeter
+214,2013,LaLiga,23,A,FC Barcelona,2,FC Sevilla,7,1:4,MS,44',1:2,Linksschuss
+214,2013,LaLiga,23,A,FC Barcelona,2,FC Sevilla,7,1:4,MS,56',1:3,Linksschuss
+215,2013,Copa del Rey,Halbfinale,A,FC Barcelona,,Real Sociedad San Sebastián,,1:1,MS,27',0:1,Sololauf
+216,2013,LaLiga,24,H,FC Barcelona,1,Rayo Vallecano,19,6:0,MS,36',2:0,Linksschuss
+216,2013,LaLiga,24,H,FC Barcelona,1,Rayo Vallecano,19,6:0,MS,68',5:0,Linksschuss
+217,2013,UEFA Champions League,Achtelfinale,A,FC Barcelona,,Manchester City,,0:2,MS,54',0:1,Elfmeter
+218,2013,LaLiga,25,A,FC Barcelona,1,Real Sociedad San Sebastián,6,3:1,MS,36',1:1,Linksschuss
+219,2013,LaLiga,26,H,FC Barcelona,2,UD Almería,15,4:1,MS,24',2:0,Direkter Freistoß
+220,2013,UEFA Champions League,Achtelfinale,H,FC Barcelona,,Manchester City,,2:1,MS,67',1:0,Linksschuss
+221,2013,LaLiga,28,H,FC Barcelona,3,CA Osasuna,13,7:0,MS,18',1:0,Linksschuss
+221,2013,LaLiga,28,H,FC Barcelona,3,CA Osasuna,13,7:0,MS,63',4:0,Linksschuss
+221,2013,LaLiga,28,H,FC Barcelona,3,CA Osasuna,13,7:0,MS,88',6:0,Rechtsschuss
+222,2013,LaLiga,29,A,FC Barcelona,3,Real Madrid,1,3:4,MS,42',2:2,Linksschuss
+222,2013,LaLiga,29,A,FC Barcelona,3,Real Madrid,1,3:4,MS,65',3:3,Elfmeter
+222,2013,LaLiga,29,A,FC Barcelona,3,Real Madrid,1,3:4,MS,84',3:4,Elfmeter
+223,2013,LaLiga,30,H,FC Barcelona,3,Celta Vigo,12,3:0,MS,30',2:0,Rechtsschuss
+224,2013,LaLiga,31,A,FC Barcelona,2,Espanyol Barcelona,8,0:1,MS,77',0:1,Elfmeter
+225,2013,LaLiga,32,H,FC Barcelona,2,Real Betis Sevilla,20,3:1,MS,15',1:0,Elfmeter
+225,2013,LaLiga,32,H,FC Barcelona,2,Real Betis Sevilla,20,3:1,MS,86',3:1,Elfmeternachschuss
+226,2013,LaLiga,34,H,FC Barcelona,3,Athletic Bilbao,4,2:1,MS,74',2:1,Direkter Freistoß
+227,2013,LaLiga,35,A,FC Barcelona,2,FC Villarreal,7,2:3,MS,83',2:3,Rechtsschuss
+228,2013,LaLiga,36,H,FC Barcelona,2,FC Getafe,16,2:2,MS,23',1:0,Linksschuss
+229,2014,LaLiga,1,H,FC Barcelona,1,FC Elche,13,3:0,MS,42',1:0,Linksschuss
+229,2014,LaLiga,1,H,FC Barcelona,1,FC Elche,13,3:0,MS,64',3:0,Linksschuss
+230,2014,LaLiga,4,A,FC Barcelona,1,UD Levante,19,0:5,MS,77',0:5,Rechtsschuss
+231,2014,LaLiga,6,H,FC Barcelona,3,FC Granada,8,6:0,MS,62',4:0,Kopfball
+231,2014,LaLiga,6,H,FC Barcelona,3,FC Granada,8,6:0,MS,82',6:0,Rechtsschuss
+232,2014,UEFA Champions League,Gruppenphase,A,FC Barcelona,,FC Paris Saint-Germain,,3:2,RA,12',1:1,Linksschuss
+233,2014,LaLiga,7,A,FC Barcelona,1,Rayo Vallecano,10,0:2,MS,35',0:1,Linksschuss
+234,2014,LaLiga,8,H,FC Barcelona,1,SD Eibar,10,3:0,MS,74',3:0,Linksschuss
+235,2014,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Ajax Amsterdam,,3:1,MS,24',2:0,Linksschuss
+236,2014,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Ajax Amsterdam,,0:2,RA,36',0:1,Kopfball
+236,2014,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Ajax Amsterdam,,0:2,RA,76',0:2,Linksschuss
+237,2014,LaLiga,12,H,FC Barcelona,2,FC Sevilla,5,5:1,RA,21',1:0,Direkter Freistoß
+237,2014,LaLiga,12,H,FC Barcelona,2,FC Sevilla,5,5:1,RA,73',4:1,Abstauber
+237,2014,LaLiga,12,H,FC Barcelona,2,FC Sevilla,5,5:1,RA,78',5:1,Linksschuss
+238,2014,UEFA Champions League,Gruppenphase,A,FC Barcelona,,APOEL Nikosia,,0:4,MS,38',0:2,Rechtsschuss
+238,2014,UEFA Champions League,Gruppenphase,A,FC Barcelona,,APOEL Nikosia,,0:4,MS,58',0:3,Rechtsschuss
+238,2014,UEFA Champions League,Gruppenphase,A,FC Barcelona,,APOEL Nikosia,,0:4,MS,87',0:4,Rechtsschuss
+239,2014,LaLiga,14,H,FC Barcelona,2,Espanyol Barcelona,12,5:1,RA,45'+1,1:1,Linksschuss
+239,2014,LaLiga,14,H,FC Barcelona,2,Espanyol Barcelona,12,5:1,RA,50',2:1,Rechtsschuss
+239,2014,LaLiga,14,H,FC Barcelona,2,Espanyol Barcelona,12,5:1,RA,81',5:1,Rechtsschuss
+240,2014,UEFA Champions League,Gruppenphase,H,FC Barcelona,,FC Paris Saint-Germain,,3:1,OM,19',1:1,Rechtsschuss
+241,2014,LaLiga,16,H,FC Barcelona,2,FC Córdoba,18,5:0,RA,82',4:0,Rechtsschuss
+241,2014,LaLiga,16,H,FC Barcelona,2,FC Córdoba,18,5:0,RA,90',5:0,Rechtsschuss
+242,2014,Copa del Rey,Achtelfinale,H,FC Barcelona,,FC Elche,,5:0,RA,45',3:0,Elfmeter
+243,2014,LaLiga,18,H,FC Barcelona,2,Atlético Madrid,3,3:1,RA,87',3:1,Linksschuss
+244,2014,LaLiga,19,A,FC Barcelona,2,Deportivo La Coruna ,16,0:4,RA,11',0:1,Kopfball
+244,2014,LaLiga,19,A,FC Barcelona,2,Deportivo La Coruna ,16,0:4,RA,33',0:2,Linksschuss
+244,2014,LaLiga,19,A,FC Barcelona,2,Deportivo La Coruna ,16,0:4,RA,62',0:3,Linksschuss
+245,2014,Copa del Rey,Viertelfinale,H,FC Barcelona,,Atlético Madrid,,1:0,RA,85',1:0,Elfmeternachschuss
+246,2014,LaLiga,20,A,FC Barcelona,2,FC Elche,17,0:6,MS,55',0:2,Elfmeter
+246,2014,LaLiga,20,A,FC Barcelona,2,FC Elche,17,0:6,MS,88',0:5,Linksschuss
+247,2014,LaLiga,21,H,FC Barcelona,2,FC Villarreal,6,3:2,RA,55',3:2,Rechtsschuss
+248,2014,LaLiga,22,A,FC Barcelona,2,Athletic Bilbao,12,2:5,RA,15',0:1,Direkter Freistoß
+249,2014,Copa del Rey,Halbfinale,H,FC Barcelona,,FC Villarreal,,3:1,RA,41',1:0,Linksschuss
+250,2014,LaLiga,23,H,FC Barcelona,2,UD Levante,17,5:0,MS,38',2:0,Rechtsschuss
+250,2014,LaLiga,23,H,FC Barcelona,2,UD Levante,17,5:0,MS,59',3:0,Rechtsschuss
+250,2014,LaLiga,23,H,FC Barcelona,2,UD Levante,17,5:0,MS,65',4:0,Elfmeter
+251,2014,LaLiga,25,A,FC Barcelona,2,FC Granada,19,1:3,RA,70',1:3,Rechtsschuss
+252,2014,LaLiga,26,H,FC Barcelona,2,Rayo Vallecano,11,6:1,RA,56',3:0,Elfmeter
+252,2014,LaLiga,26,H,FC Barcelona,2,Rayo Vallecano,11,6:1,RA,63',4:0,Abstauber
+252,2014,LaLiga,26,H,FC Barcelona,2,Rayo Vallecano,11,6:1,RA,68',5:0,Linksschuss
+253,2014,LaLiga,27,A,FC Barcelona,1,SD Eibar,14,0:2,RA,31',0:1,Elfmeter
+253,2014,LaLiga,27,A,FC Barcelona,1,SD Eibar,14,0:2,RA,55',0:2,Kopfball
+254,2014,LaLiga,30,H,FC Barcelona,1,UD Almería,19,4:0,RA,33',1:0,Linksschuss
+255,2014,LaLiga,31,A,FC Barcelona,1,FC Sevilla,5,2:2,RA,15',0:1,Linksschuss
+256,2014,LaLiga,32,H,FC Barcelona,1,FC Valencia,4,2:0,RA,90'+4,2:0,Linksschuss
+257,2014,LaLiga,33,A,FC Barcelona,1,Espanyol Barcelona,9,0:2,RA,25',0:2,Linksschuss
+258,2014,LaLiga,34,H,FC Barcelona,1,FC Getafe,13,6:0,RA,9',1:0,Elfmeter
+258,2014,LaLiga,34,H,FC Barcelona,1,FC Getafe,13,6:0,RA,47',6:0,Linksschuss
+259,2014,LaLiga,35,A,FC Barcelona,1,FC Córdoba,20,0:8,RA,47',0:3,Kopfball
+259,2014,LaLiga,35,A,FC Barcelona,1,FC Córdoba,20,0:8,RA,80',0:6,Linksschuss
+260,2014,UEFA Champions League,Halbfinale,H,FC Barcelona,,FC Bayern München,,3:0,RA,77',1:0,Linksschuss
+260,2014,UEFA Champions League,Halbfinale,H,FC Barcelona,,FC Bayern München,,3:0,RA,80',2:0,Rechtsschuss
+261,2014,LaLiga,37,A,FC Barcelona,1,Atlético Madrid,3,0:1,RA,65',0:1,Linksschuss
+262,2014,LaLiga,38,H,FC Barcelona,1,Deportivo La Coruna ,17,2:2,RA,5',1:0,Kopfball
+262,2014,LaLiga,38,H,FC Barcelona,1,Deportivo La Coruna ,17,2:2,RA,59',2:0,Rechtsschuss
+263,2014,Copa del Rey,Finale,A,FC Barcelona,,Athletic Bilbao,,1:3,RA,20',0:1,Sololauf
+263,2014,Copa del Rey,Finale,A,FC Barcelona,,Athletic Bilbao,,1:3,RA,74',0:3,Linksschuss
+264,2015,UEFA Super Cup,Finale,H,FC Barcelona,,FC Sevilla,,5:4  n.V.,RA,7',1:1,Direkter Freistoß
+264,2015,UEFA Super Cup,Finale,H,FC Barcelona,,FC Sevilla,,5:4  n.V.,RA,16',2:1,Direkter Freistoß
+265,2015,Supercopa,Finale,H,FC Barcelona,,Athletic Bilbao,,1:1,RA,43',1:0,Linksschuss
+266,2015,LaLiga,3,A,FC Barcelona,4,Atlético Madrid,3,1:2,RA,77',1:2,Linksschuss
+267,2015,LaLiga,4,H,FC Barcelona,1,UD Levante,13,4:1,HS,61',3:0,Elfmeter
+267,2015,LaLiga,4,H,FC Barcelona,1,UD Levante,13,4:1,HS,90',4:1,Linksschuss
+268,2015,UEFA Champions League,Gruppenphase,H,FC Barcelona,,AS Rom,,6:1,RA,18',2:0,Linksschuss
+268,2015,UEFA Champions League,Gruppenphase,H,FC Barcelona,,AS Rom,,6:1,RA,60',5:0,Abstauber
+269,2015,LaLiga,13,H,FC Barcelona,1,Real Sociedad San Sebastián,14,4:0,RA,90'+1,4:0,Linksschuss
+270,2015,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Bayer 04 Leverkusen,,1:1,RA,20',0:1,Rechtsschuss
+271,2015,LaLiga,15,H,FC Barcelona,1,Deportivo La Coruna ,6,2:2,RA,39',1:0,Direkter Freistoß
+272,2015,FIFA Klub-WM,Finale,A,FC Barcelona,,CA River Plate,,0:3,RA,36',0:1,Linksschuss
+273,2015,LaLiga,17,H,FC Barcelona,1,Real Betis Sevilla,12,4:0,RA,33',2:0,Rechtsschuss
+274,2015,Copa del Rey,Achtelfinale,H,FC Barcelona,,Espanyol Barcelona,,4:1,RA,13',1:1,Linksschuss
+274,2015,Copa del Rey,Achtelfinale,H,FC Barcelona,,Espanyol Barcelona,,4:1,RA,44',2:1,Direkter Freistoß
+275,2015,LaLiga,19,H,FC Barcelona,1,FC Granada,17,4:0,RA,8',1:0,Linksschuss
+275,2015,LaLiga,19,H,FC Barcelona,1,FC Granada,17,4:0,RA,14',2:0,Linksschuss
+275,2015,LaLiga,19,H,FC Barcelona,1,FC Granada,17,4:0,RA,58',3:0,Abstauber
+276,2015,LaLiga,20,H,FC Barcelona,1,Athletic Bilbao,8,6:0,RA,7',1:0,Elfmeter
+277,2015,LaLiga,21,A,FC Barcelona,1,FC Málaga,12,1:2,RA,51',1:2,Linksschuss
+278,2015,LaLiga,22,H,FC Barcelona,1,Atlético Madrid,2,2:1,RA,30',1:1,Linksschuss
+279,2015,Copa del Rey,Halbfinale,H,FC Barcelona,,FC Valencia,,7:0,RA,29',3:0,Linksschuss
+279,2015,Copa del Rey,Halbfinale,H,FC Barcelona,,FC Valencia,,7:0,RA,59',4:0,Linksschuss
+279,2015,Copa del Rey,Halbfinale,H,FC Barcelona,,FC Valencia,,7:0,RA,74',5:0,Linksschuss
+280,2015,LaLiga,24,H,FC Barcelona,1,Celta Vigo,7,6:1,RA,28',1:0,Direkter Freistoß
+281,2015,LaLiga,16,A,FC Barcelona,1,Sporting Gijón,15,1:3,RA,25',0:1,Linksschuss
+281,2015,LaLiga,16,A,FC Barcelona,1,Sporting Gijón,15,1:3,RA,31',1:2,Linksschuss
+282,2015,UEFA Champions League,Achtelfinale,A,FC Barcelona,,FC Arsenal,,0:2,RA,71',0:1,Linksschuss
+282,2015,UEFA Champions League,Achtelfinale,A,FC Barcelona,,FC Arsenal,,0:2,RA,83',0:2,Elfmeter
+283,2015,LaLiga,26,H,FC Barcelona,1,FC Sevilla,5,2:1,RA,31',1:1,Direkter Freistoß
+284,2015,LaLiga,27,A,FC Barcelona,1,Rayo Vallecano,16,1:5,RA,23',0:2,Linksschuss
+284,2015,LaLiga,27,A,FC Barcelona,1,Rayo Vallecano,16,1:5,RA,53',0:3,Linksschuss
+284,2015,LaLiga,27,A,FC Barcelona,1,Rayo Vallecano,16,1:5,RA,72',1:4,Linksschuss
+285,2015,LaLiga,28,A,FC Barcelona,1,SD Eibar,8,0:4,RA,42',0:2,Linksschuss
+285,2015,LaLiga,28,A,FC Barcelona,1,SD Eibar,8,0:4,RA,76',0:3,Elfmeter
+286,2015,LaLiga,29,H,FC Barcelona,1,FC Getafe,16,6:0,MS,41',4:0,Linksschuss
+287,2015,UEFA Champions League,Achtelfinale,H,FC Barcelona,,FC Arsenal,,3:1,RA,86',3:1,Linksschuss
+288,2015,LaLiga,33,H,FC Barcelona,1,FC Valencia,14,1:2,RA,63',1:2,Linksschuss
+289,2015,LaLiga,34,A,FC Barcelona,1,Deportivo La Coruna ,13,0:8,RA,73',0:6,Linksschuss
+290,2015,LaLiga,35,H,FC Barcelona,1,Sporting Gijón,18,6:0,RA,13',1:0,Kopfball
+291,2015,LaLiga,37,H,FC Barcelona,1,Espanyol Barcelona,14,5:0,RA,8',1:0,Direkter Freistoß
+292,2016,Supercopa,Finale,H,FC Barcelona,,FC Sevilla,,3:0,RA,55',3:0,Kopfball
+293,2016,LaLiga,1,H,FC Barcelona,2,Real Betis Sevilla,15,6:2,RA,37',2:1,Linksschuss
+293,2016,LaLiga,1,H,FC Barcelona,2,Real Betis Sevilla,15,6:2,RA,58',5:1,Linksschuss
+294,2016,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Celtic Glasgow,,7:0,RA,3',1:0,Linksschuss
+294,2016,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Celtic Glasgow,,7:0,RA,27',2:0,Linksschuss
+294,2016,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Celtic Glasgow,,7:0,RA,60',5:0,Linksschuss
+295,2016,LaLiga,4,A,FC Barcelona,5,CD Leganés,11,1:5,RA,15',0:1,Linksschuss
+295,2016,LaLiga,4,A,FC Barcelona,5,CD Leganés,11,1:5,RA,55',0:4,Elfmeter
+296,2016,LaLiga,8,H,FC Barcelona,4,Deportivo La Coruna ,13,4:0,RA,58',4:0,Linksschuss
+297,2016,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Manchester City,,4:0,RA,17',1:0,Linksschuss
+297,2016,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Manchester City,,4:0,RA,61',2:0,Linksschuss
+297,2016,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Manchester City,,4:0,RA,69',3:0,Linksschuss
+298,2016,LaLiga,9,A,FC Barcelona,4,FC Valencia,14,2:3,RA,22',0:1,Linksschuss
+298,2016,LaLiga,9,A,FC Barcelona,4,FC Valencia,14,2:3,RA,90'+4,2:3,Elfmeter
+299,2016,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Manchester City,,3:1,RA,21',0:1,Linksschuss
+300,2016,LaLiga,11,A,FC Barcelona,2,FC Sevilla,4,1:2,RA,43',1:1,Linksschuss
+301,2016,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Celtic Glasgow,,0:2,RA,24',0:1,Linksschuss
+301,2016,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Celtic Glasgow,,0:2,RA,55',0:2,Elfmeter
+302,2016,LaLiga,13,A,FC Barcelona,2,Real Sociedad San Sebastián,5,1:1,RA,59',1:1,Linksschuss
+303,2016,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Borussia Mönchengladbach,,4:0,RA,16',1:0,Linksschuss
+304,2016,LaLiga,15,A,FC Barcelona,2,CA Osasuna,20,0:3,RA,72',0:2,Linksschuss
+304,2016,LaLiga,15,A,FC Barcelona,2,CA Osasuna,20,0:3,RA,90'+2,0:3,Linksschuss
+305,2016,LaLiga,16,H,FC Barcelona,2,Espanyol Barcelona,9,4:1,RA,90',4:1,Linksschuss
+306,2016,Copa del Rey,Achtelfinale,A,FC Barcelona,,Athletic Bilbao,,2:1,RA,52',2:1,Direkter Freistoß
+307,2016,LaLiga,17,A,FC Barcelona,2,FC Villarreal,4,1:1,RA,90',1:1,Direkter Freistoß
+308,2016,Copa del Rey,Achtelfinale,H,FC Barcelona,,Athletic Bilbao,,3:1,RA,78',3:1,Direkter Freistoß
+309,2016,LaLiga,18,H,FC Barcelona,3,UD Las Palmas,8,5:0,RA,52',2:0,Rechtsschuss
+310,2016,LaLiga,19,A,FC Barcelona,3,SD Eibar,9,0:4,RA,50',0:2,Linksschuss
+311,2016,Copa del Rey,Viertelfinale,H,FC Barcelona,,Real Sociedad San Sebastián,,5:2,RA,55',2:0,Elfmeter
+312,2016,Copa del Rey,Halbfinale,A,FC Barcelona,,Atlético Madrid,,1:2,RA,33',0:2,Linksschuss
+313,2016,LaLiga,21,H,FC Barcelona,2,Athletic Bilbao,7,3:0,RA,40',2:0,Direkter Freistoß
+314,2016,LaLiga,22,A,FC Barcelona,2,Deportivo Alavés,12,0:6,RA,59',0:3,Linksschuss
+315,2016,LaLiga,23,H,FC Barcelona,2,CD Leganés,17,2:1,RA,4',1:0,Rechtsschuss
+315,2016,LaLiga,23,H,FC Barcelona,2,CD Leganés,17,2:1,RA,90',2:1,Elfmeter
+316,2016,LaLiga,24,A,FC Barcelona,2,Atlético Madrid,4,1:2,RA,86',1:2,Linksschuss
+317,2016,LaLiga,25,H,FC Barcelona,2,Sporting Gijón,18,6:1,RA,9',1:0,Kopfball
+318,2016,LaLiga,26,H,FC Barcelona,2,Celta Vigo,10,5:0,OM,24',1:0,Linksschuss
+318,2016,LaLiga,26,H,FC Barcelona,2,Celta Vigo,10,5:0,OM,64',5:0,Linksschuss
+319,2016,UEFA Champions League,Achtelfinale,H,FC Barcelona,,FC Paris Saint-Germain,,6:1,OM,50',3:0,Elfmeter
+320,2016,LaLiga,28,H,FC Barcelona,2,FC Valencia,13,4:2,OM,45',2:1,Elfmeter
+320,2016,LaLiga,28,H,FC Barcelona,2,FC Valencia,13,4:2,OM,53',3:2,Rechtsschuss
+321,2016,LaLiga,30,H,FC Barcelona,2,FC Sevilla,4,3:0,RA,28',2:0,Rechtsschuss
+321,2016,LaLiga,30,H,FC Barcelona,2,FC Sevilla,4,3:0,RA,33',3:0,Linksschuss
+322,2016,LaLiga,32,H,FC Barcelona,2,Real Sociedad San Sebastián,6,3:2,RA,17',1:0,Linksschuss
+322,2016,LaLiga,32,H,FC Barcelona,2,Real Sociedad San Sebastián,6,3:2,RA,37',2:0,Abstauber
+323,2016,LaLiga,33,A,FC Barcelona,2,Real Madrid,1,2:3,RA,33',1:1,Linksschuss
+323,2016,LaLiga,33,A,FC Barcelona,2,Real Madrid,1,2:3,RA,90'+2,2:3,Linksschuss
+324,2016,LaLiga,34,H,FC Barcelona,2,CA Osasuna,20,7:1,OM,12',1:0,Linksschuss
+324,2016,LaLiga,34,H,FC Barcelona,2,CA Osasuna,20,7:1,OM,61',4:1,Linksschuss
+325,2016,LaLiga,36,H,FC Barcelona,2,FC Villarreal,5,4:1,RA,45',2:1,Linksschuss
+325,2016,LaLiga,36,H,FC Barcelona,2,FC Villarreal,5,4:1,RA,82',4:1,Elfmeter
+326,2016,LaLiga,38,H,FC Barcelona,2,SD Eibar,8,4:2,RA,75',3:2,Elfmeter
+326,2016,LaLiga,38,H,FC Barcelona,2,SD Eibar,8,4:2,RA,90'+2,4:2,Rechtsschuss
+327,2016,Copa del Rey,Finale,H,FC Barcelona,,Deportivo Alavés,,3:1,RA,30',1:0,Linksschuss
+328,2017,Supercopa,Finale,H,FC Barcelona,,Real Madrid,,1:3,RA,77',1:1,Elfmeter
+329,2017,LaLiga,2,A,FC Barcelona,2,Deportivo Alavés,16,0:2,MS,55',0:1,Linksschuss
+329,2017,LaLiga,2,A,FC Barcelona,2,Deportivo Alavés,16,0:2,MS,66',0:2,Linksschuss
+330,2017,LaLiga,3,H,FC Barcelona,2,Espanyol Barcelona,13,5:0,MS,26',1:0,Linksschuss
+330,2017,LaLiga,3,H,FC Barcelona,2,Espanyol Barcelona,13,5:0,MS,35',2:0,Rechtsschuss
+330,2017,LaLiga,3,H,FC Barcelona,2,Espanyol Barcelona,13,5:0,MS,67',3:0,Linksschuss
+331,2017,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Juventus Turin,,3:0,MS,45',1:0,Linksschuss
+331,2017,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Juventus Turin,,3:0,MS,69',3:0,Linksschuss
+332,2017,LaLiga,5,H,FC Barcelona,1,SD Eibar,10,6:1,MS,21',1:0,Elfmeter
+332,2017,LaLiga,5,H,FC Barcelona,1,SD Eibar,10,6:1,MS,59',4:1,Linksschuss
+332,2017,LaLiga,5,H,FC Barcelona,1,SD Eibar,10,6:1,MS,62',5:1,Linksschuss
+332,2017,LaLiga,5,H,FC Barcelona,1,SD Eibar,10,6:1,MS,87',6:1,Linksschuss
+333,2017,LaLiga,7,H,FC Barcelona,1,UD Las Palmas,15,3:0,HS,70',2:0,Linksschuss
+333,2017,LaLiga,7,H,FC Barcelona,1,UD Las Palmas,15,3:0,HS,77',3:0,Linksschuss
+334,2017,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Olympiakos Piräus,,3:1,MS,61',2:0,Direkter Freistoß
+335,2017,LaLiga,10,A,FC Barcelona,1,Athletic Bilbao,11,0:2,HS,37',0:1,Linksschuss
+336,2017,LaLiga,14,H,FC Barcelona,1,Celta Vigo,9,2:2,HS,22',1:1,Linksschuss
+337,2017,LaLiga,15,A,FC Barcelona,1,FC Villarreal,6,0:2,RA,83',0:2,Linksschuss
+338,2017,LaLiga,17,A,FC Barcelona,1,Real Madrid,3,0:3,HS,64',0:2,Elfmeter
+339,2017,LaLiga,18,H,FC Barcelona,1,UD Levante,16,3:0,HS,12',1:0,Linksschuss
+340,2017,Copa del Rey,Achtelfinale,H,FC Barcelona,,Celta Vigo,,5:0,HS,13',1:0,Linksschuss
+340,2017,Copa del Rey,Achtelfinale,H,FC Barcelona,,Celta Vigo,,5:0,HS,15',2:0,Linksschuss
+341,2017,LaLiga,19,A,FC Barcelona,1,Real Sociedad San Sebastián,14,2:4,HS,85',2:4,Direkter Freistoß
+342,2017,LaLiga,20,A,FC Barcelona,1,Real Betis Sevilla,8,0:5,HS,64',0:2,Linksschuss
+342,2017,LaLiga,20,A,FC Barcelona,1,Real Betis Sevilla,8,0:5,HS,80',0:4,Linksschuss
+343,2017,Copa del Rey,Viertelfinale,H,FC Barcelona,,Espanyol Barcelona,,2:0,HS,25',2:0,abgefälschter Torschuss
+344,2017,LaLiga,21,H,FC Barcelona,1,Deportivo Alavés,16,2:1,HS,84',2:1,Direkter Freistoß
+345,2017,UEFA Champions League,Achtelfinale,A,FC Barcelona,,FC Chelsea,,1:1,HS,75',1:1,Linksschuss
+346,2017,LaLiga,25,H,FC Barcelona,1,FC Girona,8,6:1,HS,30',2:1,Linksschuss
+346,2017,LaLiga,25,H,FC Barcelona,1,FC Girona,8,6:1,HS,36',3:1,Direkter Freistoß
+347,2017,LaLiga,26,A,FC Barcelona,1,UD Las Palmas,18,1:1,HS,21',0:1,Direkter Freistoß
+348,2017,LaLiga,27,H,FC Barcelona,1,Atlético Madrid,2,1:0,HS,26',1:0,Direkter Freistoß
+349,2017,UEFA Champions League,Achtelfinale,H,FC Barcelona,,FC Chelsea,,3:0,HS,3',1:0,Rechtsschuss
+349,2017,UEFA Champions League,Achtelfinale,H,FC Barcelona,,FC Chelsea,,3:0,HS,63',3:0,Linksschuss
+350,2017,LaLiga,29,H,FC Barcelona,1,Athletic Bilbao,12,2:0,HS,30',2:0,Linksschuss
+351,2017,LaLiga,30,A,FC Barcelona,1,FC Sevilla,6,2:2,RA,89',2:2,Linksschuss
+352,2017,LaLiga,31,H,FC Barcelona,1,CD Leganés,12,3:1,HS,27',1:0,Direkter Freistoß
+352,2017,LaLiga,31,H,FC Barcelona,1,CD Leganés,12,3:1,HS,32',2:0,Linksschuss
+352,2017,LaLiga,31,H,FC Barcelona,1,CD Leganés,12,3:1,HS,87',3:1,Linksschuss
+353,2017,Copa del Rey,Finale,A,FC Barcelona,,FC Sevilla,,0:5,HS,31',0:2,Linksschuss
+354,2017,LaLiga,35,A,FC Barcelona,1,Deportivo La Coruna ,18,2:4,HS,38',0:2,Linksschuss
+354,2017,LaLiga,35,A,FC Barcelona,1,Deportivo La Coruna ,18,2:4,HS,82',2:3,Rechtsschuss
+354,2017,LaLiga,35,A,FC Barcelona,1,Deportivo La Coruna ,18,2:4,HS,85',2:4,Linksschuss
+355,2017,LaLiga,36,H,FC Barcelona,1,Real Madrid,3,2:2,HS,52',2:1,Linksschuss
+356,2017,LaLiga,34,H,FC Barcelona,1,FC Villarreal,6,5:1,MS,45',3:0,Linksschuss
+357,2018,LaLiga,1,H,FC Barcelona,1,Deportivo Alavés,11,3:0,RA,64',1:0,Direkter Freistoß
+357,2018,LaLiga,1,H,FC Barcelona,1,Deportivo Alavés,11,3:0,RA,90'+2,3:0,Linksschuss
+358,2018,LaLiga,3,H,FC Barcelona,2,SD Huesca ,5,8:2,RA,16',1:1,Rechtsschuss
+358,2018,LaLiga,3,H,FC Barcelona,2,SD Huesca ,5,8:2,RA,61',6:2,Linksschuss
+359,2018,UEFA Champions League,Gruppenphase,H,FC Barcelona,,PSV Eindhoven,,4:0,RA,31',1:0,Direkter Freistoß
+359,2018,UEFA Champions League,Gruppenphase,H,FC Barcelona,,PSV Eindhoven,,4:0,RA,77',3:0,Linksschuss
+359,2018,UEFA Champions League,Gruppenphase,H,FC Barcelona,,PSV Eindhoven,,4:0,RA,87',4:0,Rechtsschuss
+360,2018,LaLiga,5,H,FC Barcelona,1,FC Girona,3,2:2,RA,19',1:0,Linksschuss
+361,2018,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Tottenham Hotspur,,2:4,RA,56',1:3,Linksschuss
+361,2018,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Tottenham Hotspur,,2:4,RA,90',2:4,Linksschuss
+362,2018,LaLiga,8,A,FC Barcelona,1,FC Valencia,13,1:1,RA,23',1:1,Linksschuss
+363,2018,LaLiga,9,H,FC Barcelona,2,FC Sevilla,1,4:2,RA,12',2:0,Linksschuss
+364,2018,LaLiga,12,H,FC Barcelona,1,Real Betis Sevilla,14,3:4,HS,68',1:2,Elfmeter
+364,2018,LaLiga,12,H,FC Barcelona,1,Real Betis Sevilla,14,3:4,HS,90'+4,3:4,Linksschuss
+365,2018,UEFA Champions League,Gruppenphase,A,FC Barcelona,,PSV Eindhoven,,1:2,MS,61',0:1,Linksschuss
+366,2018,LaLiga,15,A,FC Barcelona,1,Espanyol Barcelona,7,0:4,RA,17',0:1,Direkter Freistoß
+366,2018,LaLiga,15,A,FC Barcelona,1,Espanyol Barcelona,7,0:4,RA,65',0:4,Direkter Freistoß
+367,2018,LaLiga,16,A,FC Barcelona,1,UD Levante,6,0:5,HS,43',0:2,Rechtsschuss
+367,2018,LaLiga,16,A,FC Barcelona,1,UD Levante,6,0:5,HS,47',0:3,Linksschuss
+367,2018,LaLiga,16,A,FC Barcelona,1,UD Levante,6,0:5,HS,60',0:4,Linksschuss
+368,2018,LaLiga,17,H,FC Barcelona,1,Celta Vigo,10,2:0,RA,45',2:0,Linksschuss
+369,2018,LaLiga,18,A,FC Barcelona,1,FC Getafe,7,1:2,RA,20',0:1,Linksschuss
+370,2018,LaLiga,19,H,FC Barcelona,1,SD Eibar,12,3:0,RA,53',2:0,Linksschuss
+371,2018,Copa del Rey,Achtelfinale,H,FC Barcelona,,UD Levante,,3:0,MS,54',3:0,Linksschuss
+372,2018,LaLiga,20,H,FC Barcelona,1,CD Leganés,15,3:1,HS,90'+2,3:1,Rechtsschuss
+373,2018,LaLiga,21,A,FC Barcelona,1,FC Girona,12,0:2,RA,69',0:2,Linksschuss
+374,2018,Copa del Rey,Viertelfinale,H,FC Barcelona,,FC Sevilla,,6:1,RA,90'+2,6:1,Linksschuss
+375,2018,LaLiga,22,H,FC Barcelona,1,FC Valencia,7,2:2,RA,39',1:2,Elfmeter
+375,2018,LaLiga,22,H,FC Barcelona,1,FC Valencia,7,2:2,RA,64',2:2,Linksschuss
+376,2018,LaLiga,24,H,FC Barcelona,1,Real Valladolid,15,1:0,RA,43',1:0,Elfmeter
+377,2018,LaLiga,25,A,FC Barcelona,1,FC Sevilla,4,2:4,RA,26',1:1,Linksschuss
+377,2018,LaLiga,25,A,FC Barcelona,1,FC Sevilla,4,2:4,RA,67',2:2,Rechtsschuss
+377,2018,LaLiga,25,A,FC Barcelona,1,FC Sevilla,4,2:4,RA,85',2:3,Linksschuss
+378,2018,LaLiga,27,H,FC Barcelona,1,Rayo Vallecano,19,3:1,RA,51',2:1,Elfmeter
+379,2018,UEFA Champions League,Achtelfinale,H,FC Barcelona,,Olympique Lyon,,5:1,RA,18',1:0,Elfmeter
+379,2018,UEFA Champions League,Achtelfinale,H,FC Barcelona,,Olympique Lyon,,5:1,RA,78',3:1,Rechtsschuss
+380,2018,LaLiga,28,A,FC Barcelona,1,Real Betis Sevilla,8,1:4,HS,18',0:1,Direkter Freistoß
+380,2018,LaLiga,28,A,FC Barcelona,1,Real Betis Sevilla,8,1:4,HS,45'+2,0:2,Linksschuss
+380,2018,LaLiga,28,A,FC Barcelona,1,Real Betis Sevilla,8,1:4,HS,85',1:4,Linksschuss
+381,2018,LaLiga,29,H,FC Barcelona,1,Espanyol Barcelona,13,2:0,RA,71',1:0,Direkter Freistoß
+381,2018,LaLiga,29,H,FC Barcelona,1,Espanyol Barcelona,13,2:0,RA,89',2:0,Linksschuss
+382,2018,LaLiga,30,A,FC Barcelona,1,FC Villarreal,17,4:4,RA,90',4:3,Direkter Freistoß
+383,2018,LaLiga,31,H,FC Barcelona,1,Atlético Madrid,2,2:0,HS,87',2:0,Linksschuss
+384,2018,UEFA Champions League,Viertelfinale,H,FC Barcelona,,Manchester United,,3:0,RA,16',1:0,Linksschuss
+384,2018,UEFA Champions League,Viertelfinale,H,FC Barcelona,,Manchester United,,3:0,RA,20',2:0,Rechtsschuss
+385,2018,LaLiga,35,H,FC Barcelona,1,UD Levante,15,1:0,RA,62',1:0,Linksschuss
+386,2018,UEFA Champions League,Halbfinale,H,FC Barcelona,,FC Liverpool,,3:0,RA,75',2:0,Linksschuss
+386,2018,UEFA Champions League,Halbfinale,H,FC Barcelona,,FC Liverpool,,3:0,RA,82',3:0,Direkter Freistoß
+387,2018,LaLiga,38,A,FC Barcelona,1,SD Eibar,12,2:2,MS,31',1:1,Linksschuss
+387,2018,LaLiga,38,A,FC Barcelona,1,SD Eibar,12,2:2,MS,32',1:2,Linksschuss
+388,2018,Copa del Rey,Finale,H,FC Barcelona,,FC Valencia,,1:2,MS,73',1:2,Linksschuss
+389,2019,LaLiga,8,H,FC Barcelona,5,FC Sevilla,4,4:0,RA,78',4:0,Direkter Freistoß
+390,2019,LaLiga,9,A,FC Barcelona,2,SD Eibar,14,0:3,RA,58',0:2,Linksschuss
+391,2019,UEFA Champions League,Gruppenphase,A,FC Barcelona,,SK Slavia Prag,,1:2,RA,3',0:1,Linksschuss
+392,2019,LaLiga,11,H,FC Barcelona,2,Real Valladolid,8,5:1,RA,34',3:1,Direkter Freistoß
+392,2019,LaLiga,11,H,FC Barcelona,2,Real Valladolid,8,5:1,RA,75',4:1,Linksschuss
+393,2019,LaLiga,12,A,FC Barcelona,1,UD Levante,11,3:1,RA,38',0:1,Elfmeter
+394,2019,LaLiga,13,H,FC Barcelona,1,Celta Vigo,18,4:1,RA,23',1:0,Elfmeter
+394,2019,LaLiga,13,H,FC Barcelona,1,Celta Vigo,18,4:1,RA,45'+1,2:1,Direkter Freistoß
+394,2019,LaLiga,13,H,FC Barcelona,1,Celta Vigo,18,4:1,RA,48',3:1,Direkter Freistoß
+395,2019,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Borussia Dortmund,,3:1,RA,33',2:0,Linksschuss
+396,2019,LaLiga,15,A,FC Barcelona,1,Atlético Madrid,4,0:1,RA,86',0:1,Linksschuss
+397,2019,LaLiga,16,H,FC Barcelona,1,RCD Mallorca,17,5:2,RA,17',2:0,Linksschuss
+397,2019,LaLiga,16,H,FC Barcelona,1,RCD Mallorca,17,5:2,RA,41',3:1,Linksschuss
+397,2019,LaLiga,16,H,FC Barcelona,1,RCD Mallorca,17,5:2,RA,83',5:2,Linksschuss
+398,2019,LaLiga,18,H,FC Barcelona,1,Deportivo Alavés,14,4:1,RA,69',3:1,Linksschuss
+399,2019,Supercopa,Halbfinale,H,FC Barcelona,,Atlético Madrid,,2:3,RA,51',1:1,Rechtsschuss
+400,2019,LaLiga,20,H,FC Barcelona,1,FC Granada,10,1:0,MS,76',1:0,Rechtsschuss
+401,2019,Copa del Rey,Achtelfinale,H,FC Barcelona,,CD Leganés,,5:0,RA,59',3:0,Linksschuss
+401,2019,Copa del Rey,Achtelfinale,H,FC Barcelona,,CD Leganés,,5:0,RA,89',5:0,Linksschuss
+402,2019,LaLiga,25,H,FC Barcelona,2,SD Eibar,16,5:0,HS,14',1:0,Linksschuss
+402,2019,LaLiga,25,H,FC Barcelona,2,SD Eibar,16,5:0,HS,37',2:0,Linksschuss
+402,2019,LaLiga,25,H,FC Barcelona,2,SD Eibar,16,5:0,HS,40',3:0,Linksschuss
+402,2019,LaLiga,25,H,FC Barcelona,2,SD Eibar,16,5:0,HS,87',4:0,Linksschuss
+403,2019,LaLiga,27,H,FC Barcelona,2,Real Sociedad San Sebastián,4,1:0,MS,81',1:0,Elfmeter
+404,2019,LaLiga,28,A,FC Barcelona,1,RCD Mallorca,18,0:4,RA,90'+3,0:4,Rechtsschuss
+405,2019,LaLiga,29,H,FC Barcelona,1,CD Leganés,19,2:0,RA,69',2:0,Elfmeter
+406,2019,LaLiga,33,H,FC Barcelona,2,Atlético Madrid,3,2:2,HS,50',2:1,Elfmeter
+407,2019,LaLiga,37,H,FC Barcelona,2,CA Osasuna,11,1:2,RA,62',1:1,Direkter Freistoß
+408,2019,LaLiga,38,A,FC Barcelona,2,Deportivo Alavés,16,0:5,RA,34',0:2,Linksschuss
+408,2019,LaLiga,38,A,FC Barcelona,2,Deportivo Alavés,16,0:5,RA,75',0:5,Linksschuss
+409,2019,UEFA Champions League,Achtelfinale,H,FC Barcelona,,SSC Napoli,,3:1,HS,23',2:0,Linksschuss
+410,2020,LaLiga,3,H,FC Barcelona,1,FC Villarreal,6,4:0,MS,35',3:0,Elfmeter
+411,2020,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Ferencvárosi TC,,5:1,MS,27',1:0,Elfmeter
+412,2020,UEFA Champions League,Gruppenphase,A,FC Barcelona,,Juventus Turin,,0:2,MS,90'+1,0:2,Elfmeter
+413,2020,UEFA Champions League,Gruppenphase,H,FC Barcelona,,Dynamo Kyiv,,2:1,RA,5',1:0,Elfmeter
+414,2020,LaLiga,9,H,FC Barcelona,6,Real Betis Sevilla,8,5:2,MS,61',3:1,Elfmeter
+414,2020,LaLiga,9,H,FC Barcelona,6,Real Betis Sevilla,8,5:2,MS,82',4:2,Linksschuss
+415,2020,LaLiga,11,H,FC Barcelona,5,CA Osasuna,14,4:0,RA,73',4:0,Linksschuss
+416,2020,LaLiga,13,H,FC Barcelona,5,UD Levante,17,1:0,MS,76',1:0,Linksschuss
+417,2020,LaLiga,14,H,FC Barcelona,4,FC Valencia,14,2:2,MS,45'+4,1:1,Kopfball
+418,2020,LaLiga,15,A,FC Barcelona,5,Real Valladolid,18,0:3,OM,65',0:3,Linksschuss
+419,2020,LaLiga,2,A,FC Barcelona,1,Athletic Bilbao,18,2:3,MS,38',1:2,Linksschuss
+419,2020,LaLiga,2,A,FC Barcelona,1,Athletic Bilbao,18,2:3,MS,62',1:3,Linksschuss
+420,2020,LaLiga,18,A,FC Barcelona,3,FC Granada,7,0:4,MS,35',0:2,Linksschuss
+420,2020,LaLiga,18,A,FC Barcelona,3,FC Granada,7,0:4,MS,42',0:3,Direkter Freistoß
+421,2020,Copa del Rey,Achtelfinale,A,FC Barcelona,,Rayo Vallecano,,1:2,MS,69',1:1,Linksschuss
+422,2020,LaLiga,21,H,FC Barcelona,3,Athletic Bilbao,11,2:1,MS,20',1:0,Direkter Freistoß
+423,2020,LaLiga,22,A,FC Barcelona,3,Real Betis Sevilla,7,2:3,MS,59',1:1,Linksschuss
+424,2020,LaLiga,23,H,FC Barcelona,3,Deportivo Alavés,16,5:1,MS,45'+1,2:0,Linksschuss
+424,2020,LaLiga,23,H,FC Barcelona,3,Deportivo Alavés,16,5:1,MS,75',4:1,Linksschuss
+425,2020,UEFA Champions League,Achtelfinale,H,FC Barcelona,,FC Paris Saint-Germain,,1:4,MS,27',1:0,Elfmeter
+426,2020,LaLiga,24,H,FC Barcelona,3,FC Cádiz,15,1:1,MS,32',1:0,Elfmeter
+427,2020,LaLiga,1,H,FC Barcelona,3,FC Elche,17,3:0,MS,48',1:0,Linksschuss
+427,2020,LaLiga,1,H,FC Barcelona,3,FC Elche,17,3:0,MS,68',2:0,Linksschuss
+428,2020,LaLiga,25,A,FC Barcelona,4,FC Sevilla,3,0:2,MS,85',0:2,Rechtsschuss
+429,2020,UEFA Champions League,Achtelfinale,A,FC Barcelona,,FC Paris Saint-Germain,,1:1,HS,37',1:1,Distanzschuss
+430,2020,LaLiga,27,H,FC Barcelona,2,SD Huesca ,20,4:1,HS,13',1:0,Linksschuss
+430,2020,LaLiga,27,H,FC Barcelona,2,SD Huesca ,20,4:1,HS,90',4:1,Linksschuss
+431,2020,LaLiga,28,A,FC Barcelona,2,Real Sociedad San Sebastián,5,1:6,HS,56',0:4,Linksschuss
+431,2020,LaLiga,28,A,FC Barcelona,2,Real Sociedad San Sebastián,5,1:6,HS,89',1:6,Linksschuss
+432,2020,Copa del Rey,Finale,A,FC Barcelona,,Athletic Bilbao,,0:4,MS,68',0:3,Linksschuss
+432,2020,Copa del Rey,Finale,A,FC Barcelona,,Athletic Bilbao,,0:4,MS,72',0:4,Linksschuss
+433,2020,LaLiga,31,H,FC Barcelona,3,FC Getafe,15,5:2,MS,8',1:0,Linksschuss
+433,2020,LaLiga,31,H,FC Barcelona,3,FC Getafe,15,5:2,MS,33',3:1,Linksschuss
+434,2020,LaLiga,33,H,FC Barcelona,1,FC Granada,8,1:2,MS,23',1:0,Linksschuss
+435,2020,LaLiga,34,A,FC Barcelona,3,FC Valencia,14,2:3,MS,57',1:1,Linksschuss
+435,2020,LaLiga,34,A,FC Barcelona,3,FC Valencia,14,2:3,MS,69',1:3,Direkter Freistoß
+436,2020,LaLiga,36,A,FC Barcelona,3,UD Levante,14,3:3,HS,25',0:1,Linksschuss
+437,2020,LaLiga,37,H,FC Barcelona,3,Celta Vigo,8,1:2,HS,28',1:0,Kopfball
+438,2021,UEFA Champions League,Gruppenphase,H,FC Paris Saint-Germain,,Manchester City,,2:0,RA,74',2:0,Linksschuss
+439,2021,UEFA Champions League,Gruppenphase,H,FC Paris Saint-Germain,,RB Leipzig,,3:2,RA,67',2:2,Linksschuss
+439,2021,UEFA Champions League,Gruppenphase,H,FC Paris Saint-Germain,,RB Leipzig,,3:2,RA,74',3:2,Elfmeter
+440,2021,Ligue 1,14,H,FC Paris Saint-Germain,1,FC Nantes,9,3:1,RA,87',3:1,Linksschuss
+441,2021,UEFA Champions League,Gruppenphase,H,FC Paris Saint-Germain,,FC Brügge,,4:1,MS,38',3:0,Linksschuss
+441,2021,UEFA Champions League,Gruppenphase,H,FC Paris Saint-Germain,,FC Brügge,,4:1,MS,76',4:1,Elfmeter
+442,2021,Ligue 1,23,A,FC Paris Saint-Germain,1,LOSC Lille,11,1:5,MS,38',1:3,Linksschuss
+443,2021,Ligue 1,30,H,FC Paris Saint-Germain,1,FC Lorient,16,5:1,RA,73',4:1,Linksschuss
+444,2021,Ligue 1,34,H,FC Paris Saint-Germain,1,RC Lens,7,1:1,RA,68',1:0,Linksschuss
+445,2021,Ligue 1,37,A,FC Paris Saint-Germain,1,Montpellier HSC,13,0:4,MS,6',0:1,Linksschuss
+445,2021,Ligue 1,37,A,FC Paris Saint-Germain,1,Montpellier HSC,13,0:4,MS,20',0:2,Linksschuss
+446,2022,Trophée des Champions,Finale,H,FC Paris Saint-Germain,,FC Nantes,,4:0,MS,22',1:0,Rechtsschuss
+447,2022,Ligue 1,1,A,FC Paris Saint-Germain,1,Clermont Foot 63,8,0:5,MS,80',0:4,Linksschuss
+447,2022,Ligue 1,1,A,FC Paris Saint-Germain,1,Clermont Foot 63,8,0:5,MS,86',0:5,Linksschuss
+448,2022,Ligue 1,3,A,FC Paris Saint-Germain,1,LOSC Lille,3,1:7,RA,27',0:2,Rechtsschuss
+449,2022,UEFA Champions League,Gruppenphase,A,FC Paris Saint-Germain,,Maccabi Haifa,,1:3,RA,37',1:1,Linksschuss
+450,2022,Ligue 1,8,A,FC Paris Saint-Germain,1,Olympique Lyon,5,0:1,RA,5',0:1,Linksschuss
+451,2022,Ligue 1,9,H,FC Paris Saint-Germain,1,OGC Nizza,13,2:1,OM,28',1:0,Direkter Freistoß
+452,2022,UEFA Champions League,Gruppenphase,A,FC Paris Saint-Germain,,Benfica Lissabon,,1:1,RA,22',0:1,Linksschuss
+453,2022,Ligue 1,12,A,FC Paris Saint-Germain,1,AC Ajaccio,18,0:3,MS,78',0:2,Linksschuss
+454,2022,UEFA Champions League,Gruppenphase,H,FC Paris Saint-Germain,,Maccabi Haifa,,7:2,HS,19',1:0,Linksschuss
+454,2022,UEFA Champions League,Gruppenphase,H,FC Paris Saint-Germain,,Maccabi Haifa,,7:2,HS,45',4:1,Linksschuss
+455,2022,Ligue 1,13,H,FC Paris Saint-Germain,1,ESTAC Troyes,11,4:3,RA,55',2:2,Linksschuss
+456,2022,Ligue 1,18,H,FC Paris Saint-Germain,1,Angers SCO,20,2:0,OM,72',2:0,Rechtsschuss
+457,2022,Ligue 1,21,A,FC Paris Saint-Germain,1,Montpellier HSC,14,1:3,HS,72',0:2,Linksschuss
+458,2022,Ligue 1,22,H,FC Paris Saint-Germain,1,FC Toulouse,12,2:1,HS,58',2:1,Linksschuss
+459,2022,Ligue 1,24,H,FC Paris Saint-Germain,1,LOSC Lille,5,4:3,MS,90'+5,4:3,Direkter Freistoß
+460,2022,Ligue 1,25,A,FC Paris Saint-Germain,1,Olympique Marseille,2,0:3,MS,29',0:2,Rechtsschuss
+461,2022,Ligue 1,26,H,FC Paris Saint-Germain,1,FC Nantes,13,4:2,MS,12',1:0,Linksschuss
+462,2022,Ligue 1,30,A,FC Paris Saint-Germain,1,OGC Nizza,8,0:2,MS,26',0:1,Linksschuss
+463,2022,Ligue 1,31,H,FC Paris Saint-Germain,1,RC Lens,2,3:1,MS,40',3:0,Linksschuss
+464,2022,Ligue 1,37,A,FC Paris Saint-Germain,1,RC Straßburg Alsace,15,1:1,MS,59',0:1,Linksschuss
+465,2022,Leagues Cup,Gruppenphase,A,Inter Miami CF,,CD Cruz Azul,,1:2,RA,90'+4,1:2,Direkter Freistoß
+466,2022,Leagues Cup,Gruppenphase,H,Inter Miami CF,,Atlanta United FC,,4:0,RA,8',1:0,Rechtsschuss
+466,2022,Leagues Cup,Gruppenphase,H,Inter Miami CF,,Atlanta United FC,,4:0,RA,22',2:0,Rechtsschuss
+467,2022,Leagues Cup,1.Runde,H,Inter Miami CF,,Orlando City SC,,3:1,RA,7',1:0,Linksschuss
+467,2022,Leagues Cup,1.Runde,H,Inter Miami CF,,Orlando City SC,,3:1,RA,72',3:1,Rechtsschuss
+468,2022,Leagues Cup,Achtelfinale,A,Inter Miami CF,,FC Dallas,,7:9  n.E.,RA,6',0:1,Linksschuss
+468,2022,Leagues Cup,Achtelfinale,A,Inter Miami CF,,FC Dallas,,7:9  n.E.,RA,85',4:4,Direkter Freistoß
+469,2022,Leagues Cup,Viertelfinale,H,Inter Miami CF,,Charlotte FC,,4:0,RA,86',4:0,Linksschuss
+470,2022,Leagues Cup,Halbfinale,A,Inter Miami CF,,Philadelphia Union,,1:4,RA,20',0:2,Linksschuss
+471,2022,Leagues Cup,Finale,A,Inter Miami CF,,Nashville SC,,10:11  n.E.,RA,23',0:1,Linksschuss
+472,2022,Major League Soccer,28,A,Inter Miami CF,14,New York Red Bulls,11,0:2,MS,89',0:2,Linksschuss
+473,2023,Major League Soccer,1,A,Inter Miami CF,,Los Angeles Galaxy,,1:1,RA,90'+2,1:1,Linksschuss
+474,2023,Major League Soccer,2,H,Inter Miami CF,,Orlando City SC,,5:0,RA,57',4:0,Brust
+474,2023,Major League Soccer,2,H,Inter Miami CF,,Orlando City SC,,5:0,RA,62',5:0,Kopfball
+475,2023,CONCACAF Champions Cup,Achtelfinale,A,Inter Miami CF,,Nashville SC,,2:2,MS,52',2:1,Ohne weitere Angaben
+476,2023,CONCACAF Champions Cup,Achtelfinale,H,Inter Miami CF,,Nashville SC,,3:1,MS,23',2:0,Linksschuss
+477,2023,Major League Soccer,7,H,Inter Miami CF,,Colorado Rapids,,2:2,MS,57',1:1,Linksschuss
+478,2023,Major League Soccer,8,A,Inter Miami CF,,Sporting Kansas City,,2:3,RA,51',1:2,Linksschuss
+479,2023,Major League Soccer,9,H,Inter Miami CF,,Nashville SC,,3:1,RA,11',1:1,Linksschuss
+479,2023,Major League Soccer,9,H,Inter Miami CF,,Nashville SC,,3:1,RA,81',3:1,Elfmeter
+480,2023,Major League Soccer,10,A,Inter Miami CF,,New England Revolution,,1:4,RA,32',1:1,Linksschuss
+480,2023,Major League Soccer,10,A,Inter Miami CF,,New England Revolution,,1:4,RA,67',1:2,Linksschuss
+481,2023,Major League Soccer,11,H,Inter Miami CF,,New York Red Bulls,,6:2,RA,50',2:1,Linksschuss
+482,2023,Major League Soccer,16,H,Inter Miami CF,,Atlanta United FC,,1:3,RA,62',1:2,Linksschuss
+483,2023,Major League Soccer,17,H,Inter Miami CF,,St. Louis CITY SC,,3:3,RA,25',1:1,Linksschuss
+484,2023,Major League Soccer,31,H,Inter Miami CF,,Philadelphia Union,,3:1,RA,26',1:1,Rechtsschuss
+484,2023,Major League Soccer,31,H,Inter Miami CF,,Philadelphia Union,,3:1,RA,30',2:1,Linksschuss
+485,2023,Major League Soccer,34,H,Inter Miami CF,,Charlotte FC,,1:1,RA,67',1:1,Linksschuss
+486,2023,Major League Soccer,35,A,Inter Miami CF,,Columbus Crew,,2:3,RA,45',0:1,Linksschuss
+486,2023,Major League Soccer,35,A,Inter Miami CF,,Columbus Crew,,2:3,RA,45'+5,0:2,Direkter Freistoß
+487,2023,Major League Soccer,37,H,Inter Miami CF,,New England Revolution,,6:2,RA,78',4:2,Linksschuss
+487,2023,Major League Soccer,37,H,Inter Miami CF,,New England Revolution,,6:2,RA,81',5:2,Linksschuss
+487,2023,Major League Soccer,37,H,Inter Miami CF,,New England Revolution,,6:2,RA,89',6:2,Linksschuss
+488,2023,MLS Cup Playoffs,1.Runde,H,Inter Miami CF,,Atlanta United FC,,2:3,RA,65',2:2,Kopfball
