@@ -1,776 +1,776 @@
 game_id,saison,league,gameday,venue,team,team_table_position,opponent,opponent_table_position,result,player_position,goal_minute,goal_score,goal_type
-1,2002,Liga Portugal,6,H,Sporting Lissabon,12,Moreirense FC,16,3:0,LA,34',2:0,Sololauf
-1,2002,Liga Portugal,6,H,Sporting Lissabon,12,Moreirense FC,16,3:0,LA,90'+5,3:0,Kopfball
-2,2002,Liga Portugal,8,A,Sporting Lissabon,5,Boavista Porto FC,10,1:2,,88',1:2,Rechtsschuss
-3,2002,Taça de Portugal,4.Runde,H,Sporting Lissabon,,CD Estarreja,,4:1,LA,67',3:1,Linksschuss
-4,2002,Taça de Portugal,5.Runde,H,Sporting Lissabon,,FC Oliveira do Hospital,,8:1,HS,13',3:0,Linksschuss
-5,2003,Premier League,11,H,Manchester United,3,FC Portsmouth,11,3:0,RA,80',2:0,Direkter Freistoß
-6,2003,FA Cup,5.Runde,H,Manchester United,,Manchester City,,4:2,RA,74',3:0,Rechtsschuss
-7,2003,Premier League,29,H,Manchester United,3,Tottenham Hotspur,10,3:0,RA,89',2:0,Rechtsschuss
-8,2003,Premier League,32,A,Manchester United,3,Birmingham City,6,1:2,RA,60',1:1,Kopfball
-9,2003,Premier League,38,A,Manchester United,3,Aston Villa,5,0:2,RA,4',0:1,Rechtsschuss
-10,2003,FA Cup,Finale,H,Manchester United,,FC Millwall,,3:0,RA,44',1:0,Kopfball
-11,2004,Premier League,16,H,Manchester United,4,FC Southampton,18,3:0,RA,87',3:0,Rechtsschuss
-12,2004,FA Cup,3.Runde,A,Manchester United,,Exeter City,,0:2,,9',0:1,Linksschuss
-13,2004,Premier League,24,H,Manchester United,3,Aston Villa,10,3:1,,8',1:0,Rechtsschuss
-14,2004,Premier League,25,A,Manchester United,3,FC Arsenal,2,2:4,RA,54',2:2,Linksschuss
-14,2004,Premier League,25,A,Manchester United,3,FC Arsenal,2,2:4,RA,58',2:3,Abstauber
-15,2004,FA Cup,5.Runde,A,Manchester United,,FC Everton,,0:2,,58',0:2,Abstauber
-16,2004,FA Cup,6.Runde,A,Manchester United,,FC Southampton,,0:4,,45'+1,0:2,Linksschuss
-17,2004,Premier League,30,H,Manchester United,2,FC Fulham,16,1:0,,21',1:0,Rechtsschuss
-18,2004,FA Cup,Halbfinale,A,Manchester United,,Newcastle United,,1:4,RA,76',1:4,Rechtsschuss
-19,2005,UEFA Champions League-Qualifikation,3.Runde,H,Manchester United,,Debreceni VSC,,3:0,,63',3:0,Rechtsschuss
-20,2005,Premier League,11,A,Manchester United,3,FC Middlesbrough,13,4:1,,90',4:1,Kopfball
-21,2005,EFL Cup,Achtelfinale,H,Manchester United,,West Bromwich Albion,,3:1,RA,12',1:1,Elfmeter
-22,2005,Premier League,20,H,Manchester United,2,Bolton Wanderers,7,4:1,,68',3:1,Rechtsschuss
-22,2005,Premier League,20,H,Manchester United,2,Bolton Wanderers,7,4:1,,90',4:1,Linksschuss
-23,2005,Premier League,25,H,Manchester United,2,FC Fulham,13,4:2,,14',2:0,Direkter Freistoß
-23,2005,Premier League,25,H,Manchester United,2,FC Fulham,13,4:2,,87',4:2,Rechtsschuss
-24,2005,Premier League,26,A,Manchester United,2,FC Portsmouth,19,1:3,RA,38',0:2,Linksschuss
-24,2005,Premier League,26,A,Manchester United,2,FC Portsmouth,19,1:3,RA,45',0:3,Rechtsschuss
-25,2005,EFL Cup,Finale,H,Manchester United,,Wigan Athletic,,4:0,RA,59',3:0,Rechtsschuss
-26,2005,Premier League,28,A,Manchester United,2,Wigan Athletic,9,1:2,,74',1:1,Rechtsschuss
-27,2005,Premier League,38,H,Manchester United,2,Charlton Athletic,12,4:0,RA,23',2:0,Linksschuss
-28,2006,Premier League,1,H,Manchester United,1,FC Fulham,16,5:1,,19',4:0,Rechtsschuss
-29,2006,Premier League,6,A,Manchester United,2,FC Reading,6,1:1,MS,73',1:1,Rechtsschuss
-30,2006,Premier League,10,A,Manchester United,1,Bolton Wanderers,4,0:4,,82',0:3,Ohne weitere Angaben
-31,2006,Premier League,11,H,Manchester United,1,FC Portsmouth,5,3:0,RA,10',2:0,Direkter Freistoß
-32,2006,Premier League,15,H,Manchester United,1,FC Everton,8,3:0,,39',1:0,Ohne weitere Angaben
-33,2006,Premier League,17,H,Manchester United,1,Manchester City,11,3:1,RA,84',3:1,Ohne weitere Angaben
-34,2006,Premier League,19,A,Manchester United,1,Aston Villa,9,0:3,,58',0:1,Ohne weitere Angaben
-34,2006,Premier League,19,A,Manchester United,1,Aston Villa,9,0:3,,85',0:3,Ohne weitere Angaben
-35,2006,Premier League,20,H,Manchester United,1,Wigan Athletic,16,3:1,,47',1:0,Kopfball
-35,2006,Premier League,20,H,Manchester United,1,Wigan Athletic,16,3:1,,50',2:0,Elfmeternachschuss
-36,2006,Premier League,21,H,Manchester United,1,FC Reading,8,3:2,RA,58',2:1,Rechtsschuss
-36,2006,Premier League,21,H,Manchester United,1,FC Reading,8,3:2,RA,77',3:1,Rechtsschuss
-37,2006,Premier League,23,H,Manchester United,1,Aston Villa,13,3:1,,34',3:0,Kopfball
-38,2006,Premier League,25,H,Manchester United,1,FC Watford,19,4:0,RA,12',1:0,Elfmeter
-39,2006,Premier League,26,A,Manchester United,1,Tottenham Hotspur,8,0:4,RA,45',0:1,Elfmeter
-40,2006,Premier League,28,A,Manchester United,1,FC Fulham,14,1:2,,88',1:2,Sololauf
-41,2006,FA Cup,6.Runde,A,Manchester United,,FC Middlesbrough,,2:2,RA,68',2:2,Elfmeter
-42,2006,FA Cup,6.Runde,H,Manchester United,,FC Middlesbrough,,1:0,,76',1:0,Elfmeter
-43,2006,UEFA Champions League,Viertelfinale,H,Manchester United,,AS Rom,,7:1,RA,44',4:0,Rechtsschuss
-43,2006,UEFA Champions League,Viertelfinale,H,Manchester United,,AS Rom,,7:1,RA,49',5:0,Rechtsschuss
-44,2006,FA Cup,Halbfinale,A,Manchester United,,FC Watford,,1:4,,28',1:2,Rechtsschuss
-45,2006,UEFA Champions League,Halbfinale,H,Manchester United,,AC Mailand,,3:2,RA,5',1:0,Kopfball
-46,2006,Premier League,37,A,Manchester United,1,Manchester City,13,0:1,RA,34',0:1,Elfmeter
-47,2007,UEFA Champions League,Gruppenphase,A,Manchester United,,Sporting Lissabon,,0:1,MS,62',0:1,Kopfball
-48,2007,Premier League,8,A,Manchester United,3,Birmingham City,14,0:1,RA,51',0:1,Linksschuss
-49,2007,Premier League,9,H,Manchester United,3,Wigan Athletic,12,4:0,RA,59',2:0,Kopfball
-49,2007,Premier League,9,H,Manchester United,3,Wigan Athletic,12,4:0,RA,76',3:0,Rechtsschuss
-50,2007,UEFA Champions League,Gruppenphase,A,Manchester United,,Dynamo Kyiv,,2:4,RA,41',1:3,Rechtsschuss
-50,2007,UEFA Champions League,Gruppenphase,A,Manchester United,,Dynamo Kyiv,,2:4,RA,68',1:4,Elfmeter
-51,2007,Premier League,12,A,Manchester United,2,FC Arsenal,1,2:2,RA,82',1:2,Linksschuss
-52,2007,UEFA Champions League,Gruppenphase,H,Manchester United,,Dynamo Kyiv,,4:0,RA,88',4:0,Rechtsschuss
-53,2007,Premier League,13,H,Manchester United,2,Blackburn Rovers,6,2:0,RA,34',1:0,Kopfball
-53,2007,Premier League,13,H,Manchester United,2,Blackburn Rovers,6,2:0,RA,35',2:0,Rechtsschuss
-54,2007,UEFA Champions League,Gruppenphase,H,Manchester United,,Sporting Lissabon,,2:1,RA,90'+3,2:1,Direkter Freistoß
-55,2007,Premier League,15,H,Manchester United,3,FC Fulham,12,2:0,RA,10',1:0,Rechtsschuss
-55,2007,Premier League,15,H,Manchester United,3,FC Fulham,12,2:0,RA,58',2:0,Kopfball
-56,2007,Premier League,16,H,Manchester United,3,Derby County,20,4:1,RA,90',4:1,Elfmeter
-57,2007,Premier League,18,H,Manchester United,2,FC Everton,5,2:1,RA,22',1:0,Linksschuss
-57,2007,Premier League,18,H,Manchester United,2,FC Everton,5,2:1,RA,87',2:1,Elfmeter
-58,2007,Premier League,19,A,Manchester United,2,AFC Sunderland,18,0:4,,45',0:3,Direkter Freistoß
-59,2007,Premier League,20,A,Manchester United,1,West Ham United,10,2:1,RA,14',0:1,Kopfball
-60,2007,FA Cup,3.Runde,A,Manchester United,,Aston Villa,,0:2,,81',0:1,Linksschuss
-61,2007,Premier League,22,H,Manchester United,2,Newcastle United,11,6:0,RA,48',1:0,Direkter Freistoß
-61,2007,Premier League,22,H,Manchester United,2,Newcastle United,11,6:0,RA,70',3:0,Rechtsschuss
-61,2007,Premier League,22,H,Manchester United,2,Newcastle United,11,6:0,RA,88',5:0,Linksschuss
-62,2007,Premier League,23,A,Manchester United,1,FC Reading,13,0:2,RA,90'+2,0:2,Rechtsschuss
-63,2007,FA Cup,4.Runde,H,Manchester United,,Tottenham Hotspur,,3:1,RA,69',2:1,Elfmeter
-63,2007,FA Cup,4.Runde,H,Manchester United,,Tottenham Hotspur,,3:1,RA,88',3:1,Rechtsschuss
-64,2007,Premier League,24,H,Manchester United,1,FC Portsmouth,7,2:0,HS,10',1:0,Rechtsschuss
-64,2007,Premier League,24,H,Manchester United,1,FC Portsmouth,7,2:0,HS,12',2:0,Direkter Freistoß
-65,2007,Premier League,27,A,Manchester United,2,Newcastle United,13,1:5,RA,45',0:2,Rechtsschuss
-65,2007,Premier League,27,A,Manchester United,2,Newcastle United,13,1:5,RA,56',0:3,Rechtsschuss
-66,2007,UEFA Champions League,Achtelfinale,H,Manchester United,,Olympique Lyon,,1:0,RA,41',1:0,Linksschuss
-67,2007,Premier League,29,A,Manchester United,2,Derby County,20,0:1,MS,76',0:1,Rechtsschuss
-68,2007,Premier League,30,H,Manchester United,1,Bolton Wanderers,17,2:0,,8',1:0,Rechtsschuss
-68,2007,Premier League,30,H,Manchester United,1,Bolton Wanderers,17,2:0,,19',2:0,Direkter Freistoß
-69,2007,Premier League,31,H,Manchester United,1,FC Liverpool,4,3:0,RA,79',2:0,Kopfball
-70,2007,Premier League,32,H,Manchester United,1,Aston Villa,7,4:0,RA,16',1:0,Rechtsschuss
-71,2007,UEFA Champions League,Viertelfinale,A,Manchester United,,AS Rom,,0:2,MS,39',0:1,Kopfball
-72,2007,Premier League,33,A,Manchester United,1,FC Middlesbrough,13,2:2,RA,9',0:1,Linksschuss
-73,2007,Premier League,34,H,Manchester United,1,FC Arsenal,3,2:1,RA,53',1:1,Elfmeter
-74,2007,Premier League,37,H,Manchester United,1,West Ham United,10,4:1,RA,3',1:0,Rechtsschuss
-74,2007,Premier League,37,H,Manchester United,1,West Ham United,10,4:1,RA,24',2:0,Rechtsschuss
-75,2007,Premier League,38,A,Manchester United,1,Wigan Athletic,13,0:2,RA,32',0:1,Elfmeter
-76,2007,UEFA Champions League,Finale,H,Manchester United,,FC Chelsea,,6:5  n.E.,LA,26',1:0,Kopfball
-77,2008,EFL Cup,3.Runde,H,Manchester United,,FC Middlesbrough,,3:1,MS,25',1:0,Kopfball
-78,2008,Premier League,6,H,Manchester United,7,Bolton Wanderers,16,2:0,RA,59',1:0,Elfmeter
-79,2008,Premier League,8,H,Manchester United,3,West Bromwich Albion,9,4:0,RA,69',2:0,Linksschuss
-80,2008,Premier League,10,H,Manchester United,5,West Ham United,10,2:0,RA,14',1:0,Linksschuss
-80,2008,Premier League,10,H,Manchester United,5,West Ham United,10,2:0,RA,30',2:0,Rechtsschuss
-81,2008,Premier League,11,H,Manchester United,3,Hull City,6,4:3,RA,3',1:0,Linksschuss
-81,2008,Premier League,11,H,Manchester United,3,Hull City,6,4:3,RA,43',3:1,Kopfball
-82,2008,Premier League,13,H,Manchester United,3,Stoke City,12,5:0,LA,3',1:0,Direkter Freistoß
-82,2008,Premier League,13,H,Manchester United,3,Stoke City,12,5:0,LA,88',5:0,Direkter Freistoß
-83,2008,FIFA Klub-WM,Halbfinale,A,Manchester United,,Gamba Osaka,,3:5,LA,45'+1,0:2,Kopfball
-84,2008,EFL Cup,Halbfinale,H,Manchester United,,Derby County,,4:2,,89',4:1,Elfmeter
-85,2008,Premier League,23,A,Manchester United,1,West Bromwich Albion,20,0:5,LA,65',0:4,Rechtsschuss
-85,2008,Premier League,23,A,Manchester United,1,West Bromwich Albion,20,0:5,LA,73',0:5,Rechtsschuss
-86,2008,Premier League,24,H,Manchester United,1,FC Everton,6,1:0,RA,43',1:0,Elfmeter
-87,2008,FA Cup,5.Runde,A,Manchester United,,Derby County,,1:4,MS,68',1:3,Kopfball
-88,2008,Premier League,26,H,Manchester United,1,Blackburn Rovers,16,2:1,RA,60',2:1,Direkter Freistoß
-89,2008,UEFA Champions League,Achtelfinale,H,Manchester United,,Inter Mailand,,2:0,RA,49',2:0,Kopfball
-90,2008,Premier League,29,H,Manchester United,1,FC Liverpool,3,1:4,RA,22',1:0,Elfmeter
-91,2008,Premier League,31,H,Manchester United,1,Aston Villa,5,3:2,RA,11',1:0,Direkter Freistoß
-91,2008,Premier League,31,H,Manchester United,1,Aston Villa,5,3:2,RA,80',2:2,Linksschuss
-92,2008,UEFA Champions League,Viertelfinale,A,Manchester United,,FC Porto,,0:1,RA,6',0:1,Distanzschuss
-93,2008,Premier League,34,H,Manchester United,1,Tottenham Hotspur,9,5:2,RA,57',1:2,Elfmeter
-93,2008,Premier League,34,H,Manchester United,1,Tottenham Hotspur,9,5:2,RA,68',3:2,Kopfball
-94,2008,UEFA Champions League,Halbfinale,A,Manchester United,,FC Arsenal,,1:3,MS,11',0:2,Direkter Freistoß
-94,2008,UEFA Champions League,Halbfinale,A,Manchester United,,FC Arsenal,,1:3,MS,61',0:3,Rechtsschuss
-95,2008,Premier League,36,H,Manchester United,1,Manchester City,8,2:0,RA,17',1:0,Direkter Freistoß
-96,2009,LaLiga,1,H,Real Madrid,2,Deportivo La Coruna ,10,3:2,LA,35',2:1,Elfmeter
-97,2009,LaLiga,2,A,Real Madrid,6,Espanyol Barcelona,15,0:3,MS,90',0:3,Rechtsschuss
-98,2009,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Zürich,,2:5,LA,27',0:1,Direkter Freistoß
-98,2009,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Zürich,,2:5,LA,89',2:4,Direkter Freistoß
-99,2009,LaLiga,3,H,Real Madrid,3,Deportivo Xerez,19,5:0,RA,1',1:0,Rechtsschuss
-99,2009,LaLiga,3,H,Real Madrid,3,Deportivo Xerez,19,5:0,RA,75',2:0,Kopfball
-100,2009,LaLiga,4,A,Real Madrid,1,FC Villarreal,17,0:2,MS,2',0:1,Rechtsschuss
-101,2009,UEFA Champions League,Gruppenphase,H,Real Madrid,,Olympique Marseille,,3:0,MS,58',1:0,Linksschuss
-101,2009,UEFA Champions League,Gruppenphase,H,Real Madrid,,Olympique Marseille,,3:0,MS,64',3:0,Rechtsschuss
-102,2009,LaLiga,13,H,Real Madrid,2,UD Almería,14,4:2,MS,84',4:2,Rechtsschuss
-103,2009,UEFA Champions League,Gruppenphase,A,Real Madrid,,Olympique Marseille,,1:3,MS,5',0:1,Direkter Freistoß
-103,2009,UEFA Champions League,Gruppenphase,A,Real Madrid,,Olympique Marseille,,1:3,MS,80',1:3,Rechtsschuss
-104,2009,LaLiga,15,H,Real Madrid,2,Real Saragossa ,18,6:0,MS,50',5:0,Linksschuss
-105,2009,LaLiga,19,H,Real Madrid,2,FC Málaga,16,2:0,RA,35',1:0,Rechtsschuss
-105,2009,LaLiga,19,H,Real Madrid,2,FC Málaga,16,2:0,RA,39',2:0,Rechtsschuss
-106,2009,LaLiga,22,A,Real Madrid,2,Deportivo Xerez,20,0:3,MS,69',0:2,Kopfball
-106,2009,LaLiga,22,A,Real Madrid,2,Deportivo Xerez,20,0:3,MS,71',0:3,Linksschuss
-107,2009,LaLiga,23,H,Real Madrid,2,FC Villarreal,10,6:2,MS,18',1:0,Direkter Freistoß
-108,2009,LaLiga,24,A,Real Madrid,2,CD Teneriffa,19,1:5,MS,78',1:4,Elfmeter
-109,2009,LaLiga,25,H,Real Madrid,2,FC Sevilla,4,3:2,MS,59',1:2,Linksschuss
-110,2009,UEFA Champions League,Achtelfinale,H,Real Madrid,,Olympique Lyon,,1:1,MS,6',1:0,Linksschuss
-111,2009,LaLiga,26,A,Real Madrid,2,Real Valladolid,18,1:4,MS,29',0:1,Direkter Freistoß
-112,2009,LaLiga,28,A,Real Madrid,2,FC Getafe,8,2:4,MS,13',0:1,Direkter Freistoß
-112,2009,LaLiga,28,A,Real Madrid,2,FC Getafe,8,2:4,MS,36',0:4,Rechtsschuss
-113,2009,LaLiga,30,A,Real Madrid,2,Racing Santander,16,0:2,MS,23',0:1,Elfmeter
-114,2009,LaLiga,32,A,Real Madrid,2,UD Almería,13,1:2,LA,26',1:1,Linksschuss
-115,2009,LaLiga,33,H,Real Madrid,2,FC Valencia,3,2:0,RA,77',2:0,Rechtsschuss
-116,2009,LaLiga,35,H,Real Madrid,2,CA Osasuna,12,3:2,MS,25',1:1,Rechtsschuss
-116,2009,LaLiga,35,H,Real Madrid,2,CA Osasuna,12,3:2,MS,89',3:2,Kopfball
-117,2009,LaLiga,36,A,Real Madrid,2,RCD Mallorca,4,1:4,MS,26',1:1,Rechtsschuss
-117,2009,LaLiga,36,A,Real Madrid,2,RCD Mallorca,4,1:4,MS,56',1:2,Rechtsschuss
-117,2009,LaLiga,36,A,Real Madrid,2,RCD Mallorca,4,1:4,MS,71',1:3,Rechtsschuss
-118,2009,LaLiga,37,H,Real Madrid,2,Athletic Bilbao,8,5:1,MS,21',1:0,Elfmeter
-119,2010,LaLiga,4,H,Real Madrid,3,Espanyol Barcelona,7,3:0,LA,28',1:0,Elfmeter
-120,2010,LaLiga,6,H,Real Madrid,4,Deportivo La Coruna ,19,6:1,LA,4',1:0,Kopfball
-120,2010,LaLiga,6,H,Real Madrid,4,Deportivo La Coruna ,19,6:1,LA,89',6:1,Linksschuss
-121,2010,LaLiga,7,A,Real Madrid,3,FC Málaga,11,1:4,LA,45',0:2,Rechtsschuss
-121,2010,LaLiga,7,A,Real Madrid,3,FC Málaga,11,1:4,LA,50',0:3,Elfmeter
-122,2010,UEFA Champions League,Gruppenphase,H,Real Madrid,,AC Mailand,,2:0,LA,13',1:0,Direkter Freistoß
-123,2010,LaLiga,8,H,Real Madrid,1,Racing Santander,16,6:1,LA,15',2:0,Rechtsschuss
-123,2010,LaLiga,8,H,Real Madrid,1,Racing Santander,16,6:1,LA,26',3:0,Linksschuss
-123,2010,LaLiga,8,H,Real Madrid,1,Racing Santander,16,6:1,LA,47',4:0,Rechtsschuss
-123,2010,LaLiga,8,H,Real Madrid,1,Racing Santander,16,6:1,LA,55',5:0,Elfmeter
-124,2010,LaLiga,9,A,Real Madrid,1,Hércules Alicante,13,1:3,LA,82',1:2,Rechtsschuss
-124,2010,LaLiga,9,A,Real Madrid,1,Hércules Alicante,13,1:3,LA,86',1:3,Rechtsschuss
-125,2010,Copa del Rey,4.Runde,H,Real Madrid,,Real Murcia,,5:1,,76',3:0,Linksschuss
-126,2010,LaLiga,12,H,Real Madrid,1,Athletic Bilbao,8,5:1,LA,30',2:0,Linksschuss
-126,2010,LaLiga,12,H,Real Madrid,1,Athletic Bilbao,8,5:1,LA,62',4:1,Direkter Freistoß
-126,2010,LaLiga,12,H,Real Madrid,1,Athletic Bilbao,8,5:1,LA,90'+1,5:1,Elfmeter
-127,2010,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,0:4,LA,70',0:3,Linksschuss
-127,2010,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,0:4,LA,81',0:4,Elfmeter
-128,2010,LaLiga,14,H,Real Madrid,2,FC Valencia,5,2:0,MS,72',1:0,Linksschuss
-128,2010,LaLiga,14,H,Real Madrid,2,FC Valencia,5,2:0,MS,86',2:0,Rechtsschuss
-129,2010,UEFA Champions League,Gruppenphase,H,Real Madrid,,AJ Auxerre,,4:0,LA,49',2:0,Rechtsschuss
-130,2010,LaLiga,15,A,Real Madrid,2,Real Saragossa ,20,1:3,LA,43',0:2,Direkter Freistoß
-131,2010,Copa del Rey,Achtelfinale,H,Real Madrid,,UD Levante,,8:0,LA,44',4:0,Rechtsschuss
-131,2010,Copa del Rey,Achtelfinale,H,Real Madrid,,UD Levante,,8:0,LA,71',6:0,Rechtsschuss
-131,2010,Copa del Rey,Achtelfinale,H,Real Madrid,,UD Levante,,8:0,LA,73',7:0,Rechtsschuss
-132,2010,LaLiga,17,A,Real Madrid,2,FC Getafe,7,2:3,LA,11',0:1,Elfmeter
-132,2010,LaLiga,17,A,Real Madrid,2,FC Getafe,7,2:3,LA,57',1:3,Rechtsschuss
-133,2010,LaLiga,18,H,Real Madrid,2,FC Villarreal,3,4:2,LA,10',1:1,Rechtsschuss
-133,2010,LaLiga,18,H,Real Madrid,2,FC Villarreal,3,4:2,LA,45',2:2,Kopfball
-133,2010,LaLiga,18,H,Real Madrid,2,FC Villarreal,3,4:2,LA,79',3:2,Linksschuss
-134,2010,Copa del Rey,Viertelfinale,H,Real Madrid,,Atlético Madrid,,3:1,LA,60',2:1,Rechtsschuss
-135,2010,Copa del Rey,Viertelfinale,A,Real Madrid,,Atlético Madrid,,0:1,MS,22',0:1,Rechtsschuss
-136,2010,LaLiga,22,H,Real Madrid,2,Real Sociedad San Sebastián,9,4:1,LA,20',2:0,Linksschuss
-136,2010,LaLiga,22,H,Real Madrid,2,Real Sociedad San Sebastián,9,4:1,LA,42',3:0,Kopfball
-137,2010,LaLiga,26,H,Real Madrid,2,FC Málaga,19,7:0,LA,50',4:0,Linksschuss
-137,2010,LaLiga,26,H,Real Madrid,2,FC Málaga,19,7:0,LA,67',6:0,Elfmeter
-137,2010,LaLiga,26,H,Real Madrid,2,FC Málaga,19,7:0,LA,76',7:0,Rechtsschuss
-138,2010,UEFA Champions League,Viertelfinale,H,Real Madrid,,Tottenham Hotspur,,4:0,LA,87',4:0,Rechtsschuss
-139,2010,LaLiga,31,A,Real Madrid,2,Athletic Bilbao,5,0:3,MS,70',0:3,Rechtsschuss
-140,2010,UEFA Champions League,Viertelfinale,A,Real Madrid,,Tottenham Hotspur,,0:1,RA,50',0:1,Rechtsschuss
-141,2010,LaLiga,32,H,Real Madrid,2,FC Barcelona,1,1:1,LA,82',1:1,Elfmeter
-142,2010,Copa del Rey,Finale,A,Real Madrid,,FC Barcelona,,0:1  n.V.,MS,103',0:1,Kopfball
-143,2010,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:6,LA,30',0:2,Rechtsschuss
-143,2010,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:6,LA,64',1:4,Rechtsschuss
-143,2010,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:6,LA,70',1:5,Rechtsschuss
-143,2010,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:6,LA,76',1:6,Rechtsschuss
-144,2010,LaLiga,36,H,Real Madrid,2,FC Getafe,16,4:0,LA,23',1:0,Kopfball
-144,2010,LaLiga,36,H,Real Madrid,2,FC Getafe,16,4:0,LA,57',2:0,Linksschuss
-144,2010,LaLiga,36,H,Real Madrid,2,FC Getafe,16,4:0,LA,90'+1,4:0,Elfmeter
-145,2010,LaLiga,37,A,Real Madrid,2,FC Villarreal,4,1:3,MS,22',0:2,Direkter Freistoß
-145,2010,LaLiga,37,A,Real Madrid,2,FC Villarreal,4,1:3,MS,90',1:3,Direkter Freistoß
-146,2010,LaLiga,38,H,Real Madrid,2,UD Almería,20,8:1,LA,4',1:0,Rechtsschuss
-146,2010,LaLiga,38,H,Real Madrid,2,UD Almería,20,8:1,LA,76',7:1,Rechtsschuss
-147,2011,Supercopa,Finale,A,Real Madrid,,FC Barcelona,,3:2,LA,20',1:1,Rechtsschuss
-148,2011,LaLiga,2,A,Real Madrid,3,Real Saragossa ,12,0:6,LA,23',0:1,Linksschuss
-148,2011,LaLiga,2,A,Real Madrid,3,Real Saragossa ,12,0:6,LA,70',0:4,Rechtsschuss
-148,2011,LaLiga,2,A,Real Madrid,3,Real Saragossa ,12,0:6,LA,86',0:6,Rechtsschuss
-149,2011,LaLiga,3,H,Real Madrid,1,FC Getafe,8,4:2,LA,59',2:1,Elfmeter
-150,2011,LaLiga,6,H,Real Madrid,5,Rayo Vallecano,14,6:2,LA,39',1:1,Linksschuss
-150,2011,LaLiga,6,H,Real Madrid,5,Rayo Vallecano,14,6:2,LA,51',3:1,Elfmeter
-150,2011,LaLiga,6,H,Real Madrid,5,Rayo Vallecano,14,6:2,LA,84',6:2,Elfmeter
-151,2011,UEFA Champions League,Gruppenphase,H,Real Madrid,,Ajax Amsterdam,,3:0,LA,25',1:0,Rechtsschuss
-152,2011,LaLiga,9,A,Real Madrid,2,FC Málaga,6,0:4,LA,24',0:2,Linksschuss
-152,2011,LaLiga,9,A,Real Madrid,2,FC Málaga,6,0:4,LA,28',0:3,Rechtsschuss
-152,2011,LaLiga,9,A,Real Madrid,2,FC Málaga,6,0:4,LA,38',0:4,Rechtsschuss
-153,2011,UEFA Champions League,Gruppenphase,A,Real Madrid,,Olympique Lyon,,0:2,LA,25',0:1,Direkter Freistoß
-153,2011,UEFA Champions League,Gruppenphase,A,Real Madrid,,Olympique Lyon,,0:2,LA,69',0:2,Elfmeter
-154,2011,LaLiga,12,H,Real Madrid,1,CA Osasuna,9,7:1,LA,23',1:0,Kopfball
-154,2011,LaLiga,12,H,Real Madrid,1,CA Osasuna,9,7:1,LA,55',4:1,Elfmeter
-154,2011,LaLiga,12,H,Real Madrid,1,CA Osasuna,9,7:1,LA,58',5:1,Kopfball
-155,2011,LaLiga,13,A,Real Madrid,1,FC Valencia,3,2:3,LA,79',1:3,Rechtsschuss
-156,2011,LaLiga,14,H,Real Madrid,1,Atlético Madrid,7,4:1,LA,24',1:1,Elfmeter
-156,2011,LaLiga,14,H,Real Madrid,1,Atlético Madrid,7,4:1,LA,82',4:1,Elfmeter
-157,2011,LaLiga,15,A,Real Madrid,1,Sporting Gijón,18,0:3,LA,65',0:2,Rechtsschuss
-158,2011,Copa del Rey,4.Runde,A,Real Madrid,,SD Ponferradina ,,0:2,LA,74',0:2,Linksschuss
-159,2011,LaLiga,17,A,Real Madrid,1,FC Sevilla,5,2:6,LA,10',0:1,Rechtsschuss
-159,2011,LaLiga,17,A,Real Madrid,1,FC Sevilla,5,2:6,LA,41',0:3,Rechtsschuss
-159,2011,LaLiga,17,A,Real Madrid,1,FC Sevilla,5,2:6,LA,86',1:5,Elfmeter
-160,2011,LaLiga,18,H,Real Madrid,1,FC Granada,14,5:1,LA,89',5:1,Rechtsschuss
-161,2011,Copa del Rey,Viertelfinale,H,Real Madrid,,FC Barcelona,,1:2,LA,11',1:0,Linksschuss
-162,2011,LaLiga,1,H,Real Madrid,1,Athletic Bilbao,10,4:1,LA,46',2:1,Elfmeter
-162,2011,LaLiga,1,H,Real Madrid,1,Athletic Bilbao,10,4:1,LA,67',3:1,Elfmeter
-163,2011,Copa del Rey,Viertelfinale,A,Real Madrid,,FC Barcelona,,2:2,LA,68',2:1,Rechtsschuss
-164,2011,LaLiga,21,H,Real Madrid,1,Real Saragossa ,20,3:1,LA,48',2:1,Rechtsschuss
-165,2011,LaLiga,23,H,Real Madrid,1,UD Levante,4,4:2,LA,45',1:1,Elfmeter
-165,2011,LaLiga,23,H,Real Madrid,1,UD Levante,4,4:2,LA,50',2:1,Kopfball
-165,2011,LaLiga,23,H,Real Madrid,1,UD Levante,4,4:2,LA,57',3:1,Rechtsschuss
-166,2011,LaLiga,24,H,Real Madrid,1,Racing Santander,18,4:0,LA,6',1:0,Kopfball
-167,2011,UEFA Champions League,Achtelfinale,A,Real Madrid,,ZSKA Moskau,,1:1,LA,28',0:1,Linksschuss
-168,2011,LaLiga,25,A,Real Madrid,1,Rayo Vallecano,11,0:1,LA,53',0:1,Rechtsschuss
-169,2011,LaLiga,26,H,Real Madrid,1,Espanyol Barcelona,8,5:0,LA,23',1:0,Linksschuss
-170,2011,LaLiga,27,A,Real Madrid,1,Real Betis Sevilla,10,2:3,LA,52',1:2,Linksschuss
-170,2011,LaLiga,27,A,Real Madrid,1,Real Betis Sevilla,10,2:3,LA,73',2:3,Linksschuss
-171,2011,UEFA Champions League,Achtelfinale,H,Real Madrid,,ZSKA Moskau,,4:1,LA,55',2:0,Rechtsschuss
-171,2011,UEFA Champions League,Achtelfinale,H,Real Madrid,,ZSKA Moskau,,4:1,LA,90'+4,4:1,Rechtsschuss
-172,2011,LaLiga,29,A,Real Madrid,1,FC Villarreal,17,1:1,LA,61',0:1,Rechtsschuss
-173,2011,LaLiga,30,H,Real Madrid,1,Real Sociedad San Sebastián,14,5:1,LA,32',2:0,Rechtsschuss
-173,2011,LaLiga,30,H,Real Madrid,1,Real Sociedad San Sebastián,14,5:1,LA,55',5:1,Rechtsschuss
-174,2011,LaLiga,31,A,Real Madrid,1,CA Osasuna,6,1:5,LA,37',0:2,Distanzschuss
-174,2011,LaLiga,31,A,Real Madrid,1,CA Osasuna,6,1:5,LA,70',1:4,Direkter Freistoß
-175,2011,UEFA Champions League,Viertelfinale,H,Real Madrid,,APOEL Nikosia,,5:2,LA,26',1:0,Rechtsschuss
-175,2011,UEFA Champions League,Viertelfinale,H,Real Madrid,,APOEL Nikosia,,5:2,LA,75',3:1,Direkter Freistoß
-176,2011,LaLiga,33,A,Real Madrid,1,Atlético Madrid,6,1:4,LA,24',0:1,Direkter Freistoß
-176,2011,LaLiga,33,A,Real Madrid,1,Atlético Madrid,6,1:4,LA,67',1:2,Distanzschuss
-176,2011,LaLiga,33,A,Real Madrid,1,Atlético Madrid,6,1:4,LA,82',1:3,Elfmeter
-177,2011,LaLiga,34,H,Real Madrid,1,Sporting Gijón,19,3:1,LA,74',2:1,Kopfball
-178,2011,LaLiga,35,A,Real Madrid,1,FC Barcelona,2,1:2,LA,73',1:2,Rechtsschuss
-179,2011,UEFA Champions League,Halbfinale,H,Real Madrid,,FC Bayern München,,3:4  n.E.,LA,6',1:0,Elfmeter
-179,2011,UEFA Champions League,Halbfinale,H,Real Madrid,,FC Bayern München,,3:4  n.E.,LA,14',2:0,Rechtsschuss
-180,2011,LaLiga,36,H,Real Madrid,1,FC Sevilla,9,3:0,LA,19',1:0,Rechtsschuss
-181,2011,LaLiga,20,A,Real Madrid,1,Athletic Bilbao,7,0:3,LA,49',0:3,Kopfball
-182,2011,LaLiga,37,A,Real Madrid,1,FC Granada,15,1:2,LA,81',1:1,Elfmeter
-183,2011,LaLiga,38,H,Real Madrid,1,RCD Mallorca,6,4:1,LA,18',1:0,Kopfball
-184,2012,Supercopa,Finale,A,Real Madrid,,FC Barcelona,,3:2,LA,55',0:1,Kopfball
-185,2012,Supercopa,Finale,H,Real Madrid,,FC Barcelona,,2:1,LA,19',2:0,Rechtsschuss
-186,2012,LaLiga,3,H,Real Madrid,14,FC Granada,15,3:0,LA,25',1:0,Rechtsschuss
-186,2012,LaLiga,3,H,Real Madrid,14,FC Granada,15,3:0,LA,53',2:0,Linksschuss
-187,2012,UEFA Champions League,Gruppenphase,H,Real Madrid,,Manchester City,,3:2,LA,90',3:2,Rechtsschuss
-188,2012,LaLiga,5,A,Real Madrid,13,Rayo Vallecano,6,0:2,LA,70',0:2,Elfmeter
-189,2012,LaLiga,6,H,Real Madrid,7,Deportivo La Coruna ,12,5:1,LA,22',1:1,Elfmeter
-189,2012,LaLiga,6,H,Real Madrid,7,Deportivo La Coruna ,12,5:1,LA,43',3:1,Kopfball
-189,2012,LaLiga,6,H,Real Madrid,7,Deportivo La Coruna ,12,5:1,LA,83',5:1,Elfmeter
-190,2012,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,1:4,LA,42',0:1,Rechtsschuss
-190,2012,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,1:4,LA,79',1:3,Rechtsschuss
-190,2012,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,1:4,LA,81',1:4,Linksschuss
-191,2012,LaLiga,7,A,Real Madrid,6,FC Barcelona,1,2:2,LA,22',0:1,Linksschuss
-191,2012,LaLiga,7,A,Real Madrid,6,FC Barcelona,1,2:2,LA,66',2:2,Rechtsschuss
-192,2012,LaLiga,8,H,Real Madrid,6,Celta Vigo,13,2:0,LA,67',2:0,Elfmeter
-193,2012,UEFA Champions League,Gruppenphase,A,Real Madrid,,Borussia Dortmund,,2:1,LA,38',1:1,Rechtsschuss
-194,2012,LaLiga,9,A,Real Madrid,5,RCD Mallorca,8,0:5,LA,22',0:2,Rechtsschuss
-194,2012,LaLiga,9,A,Real Madrid,5,RCD Mallorca,8,0:5,LA,73',0:4,Rechtsschuss
-195,2012,LaLiga,11,A,Real Madrid,3,UD Levante,6,1:2,MS,21',0:1,Rechtsschuss
-196,2012,LaLiga,14,H,Real Madrid,3,Atlético Madrid,2,2:0,LA,16',1:0,Direkter Freistoß
-197,2012,UEFA Champions League,Gruppenphase,H,Real Madrid,,Ajax Amsterdam,,4:1,LA,13',1:0,Rechtsschuss
-198,2012,Copa del Rey,Achtelfinale,A,Real Madrid,,Celta Vigo,,2:1,LA,87',2:1,Linksschuss
-199,2012,LaLiga,16,H,Real Madrid,3,Espanyol Barcelona,19,2:2,MS,45',1:1,Rechtsschuss
-200,2012,LaLiga,18,H,Real Madrid,3,Real Sociedad San Sebastián,7,4:3,LA,68',3:2,Linksschuss
-200,2012,LaLiga,18,H,Real Madrid,3,Real Sociedad San Sebastián,7,4:3,LA,70',4:2,Direkter Freistoß
-201,2012,Copa del Rey,Achtelfinale,H,Real Madrid,,Celta Vigo,,4:0,LA,2',1:0,Rechtsschuss
-201,2012,Copa del Rey,Achtelfinale,H,Real Madrid,,Celta Vigo,,4:0,LA,24',2:0,Linksschuss
-201,2012,Copa del Rey,Achtelfinale,H,Real Madrid,,Celta Vigo,,4:0,LA,87',3:0,Linksschuss
-202,2012,LaLiga,20,A,Real Madrid,3,FC Valencia,8,0:5,LA,35',0:3,Linksschuss
-202,2012,LaLiga,20,A,Real Madrid,3,FC Valencia,8,0:5,LA,41',0:4,Rechtsschuss
-203,2012,LaLiga,21,H,Real Madrid,3,FC Getafe,11,4:0,LA,62',2:0,Linksschuss
-203,2012,LaLiga,21,H,Real Madrid,3,FC Getafe,11,4:0,LA,65',3:0,Kopfball
-203,2012,LaLiga,21,H,Real Madrid,3,FC Getafe,11,4:0,LA,72',4:0,Elfmeter
-204,2012,LaLiga,23,H,Real Madrid,3,FC Sevilla,10,4:1,LA,26',2:0,Linksschuss
-204,2012,LaLiga,23,H,Real Madrid,3,FC Sevilla,10,4:1,LA,46',3:0,Linksschuss
-204,2012,LaLiga,23,H,Real Madrid,3,FC Sevilla,10,4:1,LA,59',4:0,Rechtsschuss
-205,2012,UEFA Champions League,Achtelfinale,H,Real Madrid,,Manchester United,,1:1,LA,30',1:1,Kopfball
-206,2012,Copa del Rey,Halbfinale,A,Real Madrid,,FC Barcelona,,1:3,LA,12',0:1,Elfmeter
-206,2012,Copa del Rey,Halbfinale,A,Real Madrid,,FC Barcelona,,1:3,LA,57',0:2,Linksschuss
-207,2012,UEFA Champions League,Achtelfinale,A,Real Madrid,,Manchester United,,1:2,LA,69',1:2,Rechtsschuss
-208,2012,LaLiga,27,A,Real Madrid,3,Celta Vigo,18,1:2,LA,61',0:1,Linksschuss
-208,2012,LaLiga,27,A,Real Madrid,3,Celta Vigo,18,1:2,LA,71',1:2,Elfmeter
-209,2012,LaLiga,28,H,Real Madrid,2,RCD Mallorca,18,5:2,LA,52',2:2,Kopfball
-210,2012,LaLiga,29,A,Real Madrid,2,Real Saragossa ,17,1:1,LA,38',1:1,Distanzschuss
-211,2012,UEFA Champions League,Viertelfinale,H,Real Madrid,,Galatasaray,,3:0,LA,9',1:0,Linksschuss
-212,2012,LaLiga,30,H,Real Madrid,2,UD Levante,10,5:1,MS,84',3:1,Rechtsschuss
-213,2012,UEFA Champions League,Viertelfinale,A,Real Madrid,,Galatasaray,,3:2,LA,8',0:1,Rechtsschuss
-213,2012,UEFA Champions League,Viertelfinale,A,Real Madrid,,Galatasaray,,3:2,LA,90'+2,3:2,Rechtsschuss
-214,2012,LaLiga,31,A,Real Madrid,2,Athletic Bilbao,13,0:3,LA,2',0:1,Direkter Freistoß
-214,2012,LaLiga,31,A,Real Madrid,2,Athletic Bilbao,13,0:3,LA,68',0:2,Kopfball
-215,2012,UEFA Champions League,Halbfinale,A,Real Madrid,,Borussia Dortmund,,4:1,LA,43',1:1,Rechtsschuss
-216,2012,LaLiga,34,H,Real Madrid,2,Real Valladolid,12,4:3,LA,32',2:1,Kopfball
-216,2012,LaLiga,34,H,Real Madrid,2,Real Valladolid,12,4:3,LA,70',4:2,Kopfball
-217,2012,LaLiga,36,H,Real Madrid,2,FC Málaga,6,6:2,LA,26',2:1,Rechtsschuss
-218,2012,Copa del Rey,Finale,A,Real Madrid,,Atlético Madrid,,2:1  n.V.,LA,14',0:1,Kopfball
-219,2013,LaLiga,3,H,Real Madrid,5,Athletic Bilbao,3,3:1,LA,45',2:0,Kopfball
-220,2013,LaLiga,4,A,Real Madrid,4,FC Villarreal,3,2:2,LA,64',1:2,Rechtsschuss
-221,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,Galatasaray,,1:6,LA,63',0:3,Linksschuss
-221,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,Galatasaray,,1:6,LA,66',0:4,Abstauber
-221,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,Galatasaray,,1:6,LA,90',1:6,Linksschuss
-222,2013,LaLiga,5,H,Real Madrid,4,FC Getafe,14,4:1,LA,34',2:1,Elfmeter
-222,2013,LaLiga,5,H,Real Madrid,4,FC Getafe,14,4:1,LA,90',4:1,Rechtsschuss
-223,2013,LaLiga,6,A,Real Madrid,3,FC Elche,19,1:2,LA,51',0:1,Direkter Freistoß
-223,2013,LaLiga,6,A,Real Madrid,3,FC Elche,19,1:2,LA,90'+6,1:2,Elfmeter
-224,2013,UEFA Champions League,Gruppenphase,H,Real Madrid,,FC Kopenhagen,,4:0,LA,21',1:0,Kopfball
-224,2013,UEFA Champions League,Gruppenphase,H,Real Madrid,,FC Kopenhagen,,4:0,LA,65',2:0,Kopfball
-225,2013,LaLiga,8,A,Real Madrid,3,UD Levante,9,2:3,LA,90'+4,2:3,Rechtsschuss
-226,2013,LaLiga,9,H,Real Madrid,3,FC Málaga,10,2:0,LA,90'+1,2:0,Elfmeter
-227,2013,UEFA Champions League,Gruppenphase,H,Real Madrid,,Juventus Turin,,2:1,LA,4',1:0,Rechtsschuss
-227,2013,UEFA Champions League,Gruppenphase,H,Real Madrid,,Juventus Turin,,2:1,LA,29',2:1,Elfmeter
-228,2013,LaLiga,11,H,Real Madrid,3,FC Sevilla,11,7:3,LA,31',3:0,Elfmeter
-228,2013,LaLiga,11,H,Real Madrid,3,FC Sevilla,11,7:3,LA,60',5:2,Rechtsschuss
-228,2013,LaLiga,11,H,Real Madrid,3,FC Sevilla,11,7:3,LA,71',6:3,Rechtsschuss
-229,2013,LaLiga,12,A,Real Madrid,3,Rayo Vallecano,19,2:3,LA,3',0:1,Rechtsschuss
-229,2013,LaLiga,12,A,Real Madrid,3,Rayo Vallecano,19,2:3,LA,48',0:3,Rechtsschuss
-230,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,Juventus Turin,,2:2,LA,52',1:1,Rechtsschuss
-231,2013,LaLiga,13,H,Real Madrid,3,Real Sociedad San Sebastián,7,5:1,LA,12',1:0,Rechtsschuss
-231,2013,LaLiga,13,H,Real Madrid,3,Real Sociedad San Sebastián,7,5:1,LA,27',3:0,Elfmeter
-231,2013,LaLiga,13,H,Real Madrid,3,Real Sociedad San Sebastián,7,5:1,LA,76',5:1,Direkter Freistoß
-232,2013,LaLiga,14,A,Real Madrid,3,UD Almería,17,0:5,LA,3',0:1,Linksschuss
-233,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Kopenhagen,,0:2,LA,48',0:2,Rechtsschuss
-234,2013,LaLiga,17,A,Real Madrid,3,FC Valencia,9,2:3,LA,40',1:2,Kopfball
-235,2013,LaLiga,18,H,Real Madrid,3,Celta Vigo,15,3:0,LA,82',2:0,Rechtsschuss
-235,2013,LaLiga,18,H,Real Madrid,3,Celta Vigo,15,3:0,LA,90',3:0,Rechtsschuss
-236,2013,Copa del Rey,Achtelfinale,A,Real Madrid,,CA Osasuna,,0:2,LA,22',0:1,Direkter Freistoß
-237,2013,LaLiga,20,A,Real Madrid,3,Real Betis Sevilla,20,0:5,LA,10',0:1,Rechtsschuss
-238,2013,LaLiga,21,H,Real Madrid,3,FC Granada,11,2:0,LA,57',1:0,Rechtsschuss
-239,2013,Copa del Rey,Halbfinale,A,Real Madrid,,Atlético Madrid,,0:2,LA,6',0:1,Elfmeter
-239,2013,Copa del Rey,Halbfinale,A,Real Madrid,,Atlético Madrid,,0:2,LA,15',0:2,Elfmeter
-240,2013,UEFA Champions League,Achtelfinale,A,Real Madrid,,FC Schalke 04,,1:6,LA,52',0:3,Linksschuss
-240,2013,UEFA Champions League,Achtelfinale,A,Real Madrid,,FC Schalke 04,,1:6,LA,89',0:6,Rechtsschuss
-241,2013,LaLiga,26,A,Real Madrid,1,Atlético Madrid,3,2:2,LA,82',2:2,Rechtsschuss
-242,2013,LaLiga,27,H,Real Madrid,1,UD Levante,8,3:0,LA,11',1:0,Kopfball
-243,2013,LaLiga,28,A,Real Madrid,1,FC Málaga,14,0:1,LA,23',0:1,Rechtsschuss
-244,2013,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Schalke 04,,3:1,LA,22',1:0,Rechtsschuss
-244,2013,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Schalke 04,,3:1,LA,74',2:1,Rechtsschuss
-245,2013,LaLiga,29,H,Real Madrid,1,FC Barcelona,3,3:4,LA,55',3:2,Elfmeter
-246,2013,LaLiga,30,A,Real Madrid,2,FC Sevilla,5,2:1,LA,14',0:1,Direkter Freistoß
-247,2013,LaLiga,31,H,Real Madrid,3,Rayo Vallecano,12,5:0,LA,15',1:0,Rechtsschuss
-248,2013,UEFA Champions League,Viertelfinale,H,Real Madrid,,Borussia Dortmund,,3:0,LA,57',3:0,Linksschuss
-249,2013,LaLiga,35,H,Real Madrid,3,CA Osasuna,15,4:0,LA,6',1:0,Distanzschuss
-249,2013,LaLiga,35,H,Real Madrid,3,CA Osasuna,15,4:0,LA,52',2:0,Distanzschuss
-250,2013,UEFA Champions League,Halbfinale,A,Real Madrid,,FC Bayern München,,0:4,MS,34',0:3,Kontertor
-250,2013,UEFA Champions League,Halbfinale,A,Real Madrid,,FC Bayern München,,0:4,MS,90',0:4,Direkter Freistoß
-251,2013,LaLiga,36,H,Real Madrid,3,FC Valencia,8,2:2,LA,90',2:2,Rechtsschuss
-252,2013,UEFA Champions League,Finale,H,Real Madrid,,Atlético Madrid,,4:1  n.V.,LA,120',4:1,Elfmeter
-253,2014,UEFA Super Cup,Finale,H,Real Madrid,,FC Sevilla,,2:0,LA,30',1:0,Rechtsschuss
-253,2014,UEFA Super Cup,Finale,H,Real Madrid,,FC Sevilla,,2:0,LA,49',2:0,Linksschuss
-254,2014,LaLiga,1,H,Real Madrid,2,FC Córdoba,20,2:0,LA,90',2:0,Rechtsschuss
-255,2014,LaLiga,3,H,Real Madrid,12,Atlético Madrid,6,1:2,LA,25',1:1,Elfmeter
-256,2014,UEFA Champions League,Gruppenphase,H,Real Madrid,,FC Basel 1893,,5:1,LA,31',3:0,Rechtsschuss
-257,2014,LaLiga,4,A,Real Madrid,13,Deportivo La Coruna ,9,2:8,RA,29',0:1,Kopfball
-257,2014,LaLiga,4,A,Real Madrid,13,Deportivo La Coruna ,9,2:8,RA,41',0:3,Linksschuss
-257,2014,LaLiga,4,A,Real Madrid,13,Deportivo La Coruna ,9,2:8,RA,78',1:6,Linksschuss
-258,2014,LaLiga,5,H,Real Madrid,7,FC Elche,12,5:1,MS,28',2:1,Elfmeter
-258,2014,LaLiga,5,H,Real Madrid,7,FC Elche,12,5:1,MS,32',3:1,Kopfball
-258,2014,LaLiga,5,H,Real Madrid,7,FC Elche,12,5:1,MS,80',4:1,Elfmeter
-258,2014,LaLiga,5,H,Real Madrid,7,FC Elche,12,5:1,MS,90',5:1,Rechtsschuss
-259,2014,LaLiga,6,A,Real Madrid,5,FC Villarreal,7,0:2,MS,40',0:2,Rechtsschuss
-260,2014,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ludogorets Razgrad,,1:2,MS,25',1:1,Elfmeter
-261,2014,LaLiga,7,H,Real Madrid,5,Athletic Bilbao,16,5:0,LA,3',1:0,Kopfball
-261,2014,LaLiga,7,H,Real Madrid,5,Athletic Bilbao,16,5:0,LA,55',3:0,Rechtsschuss
-261,2014,LaLiga,7,H,Real Madrid,5,Athletic Bilbao,16,5:0,LA,89',5:0,abgefälschter Torschuss
-262,2014,LaLiga,8,A,Real Madrid,4,UD Levante,17,0:5,MS,13',0:1,Elfmeter
-262,2014,LaLiga,8,A,Real Madrid,4,UD Levante,17,0:5,MS,61',0:3,Rechtsschuss
-263,2014,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Liverpool,,0:3,MS,23',0:1,Rechtsschuss
-264,2014,LaLiga,9,H,Real Madrid,3,FC Barcelona,1,3:1,MS,35',1:1,Elfmeter
-265,2014,LaLiga,10,A,Real Madrid,3,FC Granada,13,0:4,MS,2',0:1,Rechtsschuss
-266,2014,LaLiga,11,H,Real Madrid,1,Rayo Vallecano,11,5:1,MS,83',5:1,Rechtsschuss
-267,2014,LaLiga,12,A,Real Madrid,1,SD Eibar,10,0:4,MS,43',0:2,Rechtsschuss
-267,2014,LaLiga,12,A,Real Madrid,1,SD Eibar,10,0:4,MS,83',0:4,Elfmeter
-268,2014,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Basel 1893,,0:1,LA,35',0:1,Linksschuss
-269,2014,LaLiga,14,H,Real Madrid,1,Celta Vigo,8,3:0,MS,36',1:0,Elfmeter
-269,2014,LaLiga,14,H,Real Madrid,1,Celta Vigo,8,3:0,MS,65',2:0,Rechtsschuss
-269,2014,LaLiga,14,H,Real Madrid,1,Celta Vigo,8,3:0,MS,81',3:0,Linksschuss
-270,2014,UEFA Champions League,Gruppenphase,H,Real Madrid,,Ludogorets Razgrad,,4:0,MS,20',1:0,Elfmeter
-271,2014,LaLiga,15,A,Real Madrid,1,UD Almería,20,1:4,MS,81',1:3,Rechtsschuss
-271,2014,LaLiga,15,A,Real Madrid,1,UD Almería,20,1:4,MS,89',1:4,Rechtsschuss
-272,2014,LaLiga,17,A,Real Madrid,1,FC Valencia,4,2:1,LA,14',0:1,Elfmeter
-273,2014,Copa del Rey,Achtelfinale,H,Real Madrid,,Atlético Madrid,,2:2,MS,54',2:2,Kopfball
-274,2014,LaLiga,19,A,Real Madrid,1,FC Getafe,14,0:3,LA,63',0:1,Linksschuss
-274,2014,LaLiga,19,A,Real Madrid,1,FC Getafe,14,0:3,LA,79',0:3,Kopfball
-275,2014,UEFA Champions League,Achtelfinale,A,Real Madrid,,FC Schalke 04,,0:2,LA,26',0:1,Kopfball
-276,2014,LaLiga,24,A,Real Madrid,1,FC Elche,16,0:2,MS,69',0:2,Kopfball
-277,2014,LaLiga,25,H,Real Madrid,1,FC Villarreal,6,1:1,MS,52',1:0,Elfmeter
-278,2014,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Schalke 04,,3:4,MS,25',1:1,Kopfball
-278,2014,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Schalke 04,,3:4,MS,45',2:2,Kopfball
-279,2014,LaLiga,28,A,Real Madrid,2,FC Barcelona,1,2:1,LA,31',1:1,Rechtsschuss
-280,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,30',2:0,Rechtsschuss
-280,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,36',3:0,Rechtsschuss
-280,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,38',4:0,Distanzschuss
-280,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,54',6:0,Kopfball
-280,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,90',9:1,Kopfball
-281,2014,LaLiga,30,A,Real Madrid,2,Rayo Vallecano,9,0:2,LA,68',0:1,Kopfball
-282,2014,LaLiga,31,H,Real Madrid,2,SD Eibar,14,3:0,LA,21',1:0,Direkter Freistoß
-283,2014,LaLiga,32,H,Real Madrid,2,FC Málaga,7,3:1,MS,90'+2,3:1,Linksschuss
-284,2014,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:3,MS,36',0:1,Kopfball
-284,2014,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:3,MS,37',0:2,Rechtsschuss
-284,2014,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:3,MS,69',1:3,Kopfball
-285,2014,UEFA Champions League,Halbfinale,A,Real Madrid,,Juventus Turin,,2:1,MS,27',1:1,Kopfball
-286,2014,UEFA Champions League,Halbfinale,H,Real Madrid,,Juventus Turin,,1:1,LA,23',1:0,Elfmeter
-287,2014,LaLiga,37,A,Real Madrid,2,Espanyol Barcelona,8,1:4,LA,59',0:1,Linksschuss
-287,2014,LaLiga,37,A,Real Madrid,2,Espanyol Barcelona,8,1:4,LA,83',1:3,Rechtsschuss
-287,2014,LaLiga,37,A,Real Madrid,2,Espanyol Barcelona,8,1:4,LA,90'+1,1:4,Kopfball
-288,2014,LaLiga,38,H,Real Madrid,2,FC Getafe,14,7:3,LA,13',1:0,Kopfball
-288,2014,LaLiga,38,H,Real Madrid,2,FC Getafe,14,7:3,LA,32',2:2,Direkter Freistoß
-288,2014,LaLiga,38,H,Real Madrid,2,FC Getafe,14,7:3,LA,34',3:2,Elfmeter
-289,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,7',0:1,Rechtsschuss
-289,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,17',0:2,Elfmeter
-289,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,20',0:3,Linksschuss
-289,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,61',0:5,Rechtsschuss
-289,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,81',0:6,Rechtsschuss
-290,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Shakhtar Donetsk,,4:0,LA,56',2:0,Elfmeter
-290,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Shakhtar Donetsk,,4:0,LA,64',3:0,Elfmeter
-290,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Shakhtar Donetsk,,4:0,LA,82',4:0,Kopfball
-291,2015,UEFA Champions League,Gruppenphase,A,Real Madrid,,Malmö FF,,0:2,LA,29',0:1,Rechtsschuss
-291,2015,UEFA Champions League,Gruppenphase,A,Real Madrid,,Malmö FF,,0:2,LA,90',0:2,Linksschuss
-292,2015,LaLiga,8,H,Real Madrid,3,UD Levante,18,3:0,MS,30',2:0,Rechtsschuss
-293,2015,LaLiga,9,A,Real Madrid,2,Celta Vigo,1,1:3,MS,8',0:1,Rechtsschuss
-294,2015,LaLiga,10,H,Real Madrid,1,UD Las Palmas,18,3:1,MS,14',2:0,Kopfball
-295,2015,UEFA Champions League,Gruppenphase,A,Real Madrid,,Shakhtar Donetsk,,3:4,MS,18',0:1,Kopfball
-295,2015,UEFA Champions League,Gruppenphase,A,Real Madrid,,Shakhtar Donetsk,,3:4,MS,70',0:4,Rechtsschuss
-296,2015,LaLiga,13,A,Real Madrid,3,SD Eibar,6,0:2,MS,82',0:2,Elfmeter
-297,2015,LaLiga,14,H,Real Madrid,3,FC Getafe,13,4:1,LA,38',4:0,Rechtsschuss
-298,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Malmö FF,,8:0,LA,39',3:0,Direkter Freistoß
-298,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Malmö FF,,8:0,LA,47',4:0,Abstauber
-298,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Malmö FF,,8:0,LA,50',5:0,Rechtsschuss
-298,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Malmö FF,,8:0,LA,59',6:0,Rechtsschuss
-299,2015,LaLiga,16,H,Real Madrid,3,Rayo Vallecano,17,10:2,LA,30',3:2,Elfmeter
-299,2015,LaLiga,16,H,Real Madrid,3,Rayo Vallecano,17,10:2,LA,54',6:2,Kopfball
-300,2015,LaLiga,17,H,Real Madrid,3,Real Sociedad San Sebastián,14,3:1,LA,42',1:0,Elfmeter
-300,2015,LaLiga,17,H,Real Madrid,3,Real Sociedad San Sebastián,14,3:1,LA,68',2:1,Linksschuss
-301,2015,LaLiga,20,H,Real Madrid,3,Sporting Gijón,19,5:1,LA,9',2:0,Linksschuss
-301,2015,LaLiga,20,H,Real Madrid,3,Sporting Gijón,19,5:1,LA,18',4:0,Linksschuss
-302,2015,LaLiga,22,H,Real Madrid,3,Espanyol Barcelona,13,6:0,LA,12',2:0,Elfmeter
-302,2015,LaLiga,22,H,Real Madrid,3,Espanyol Barcelona,13,6:0,LA,45',4:0,Linksschuss
-302,2015,LaLiga,22,H,Real Madrid,3,Espanyol Barcelona,13,6:0,LA,82',5:0,Kopfball
-303,2015,LaLiga,24,H,Real Madrid,3,Athletic Bilbao,6,4:2,LA,3',1:0,Rechtsschuss
-303,2015,LaLiga,24,H,Real Madrid,3,Athletic Bilbao,6,4:2,LA,87',4:1,Rechtsschuss
-304,2015,UEFA Champions League,Achtelfinale,A,Real Madrid,,AS Rom,,0:2,LA,57',0:1,Rechtsschuss
-305,2015,LaLiga,25,A,Real Madrid,3,FC Málaga,10,1:1,LA,33',0:1,Kopfball
-306,2015,LaLiga,27,A,Real Madrid,3,UD Levante,20,1:3,LA,34',0:1,Elfmeter
-307,2015,LaLiga,28,H,Real Madrid,3,Celta Vigo,6,7:1,LA,50',2:0,Distanzschuss
-307,2015,LaLiga,28,H,Real Madrid,3,Celta Vigo,6,7:1,LA,58',3:0,Direkter Freistoß
-307,2015,LaLiga,28,H,Real Madrid,3,Celta Vigo,6,7:1,LA,64',4:1,Rechtsschuss
-307,2015,LaLiga,28,H,Real Madrid,3,Celta Vigo,6,7:1,LA,76',5:1,Kopfball
-308,2015,UEFA Champions League,Achtelfinale,H,Real Madrid,,AS Rom,,2:0,MS,64',1:0,Rechtsschuss
-309,2015,LaLiga,30,H,Real Madrid,3,FC Sevilla,5,4:0,LA,64',2:0,Linksschuss
-310,2015,LaLiga,31,A,Real Madrid,3,FC Barcelona,1,1:2,LA,85',1:2,Rechtsschuss
-311,2015,LaLiga,32,H,Real Madrid,3,SD Eibar,10,4:0,MS,19',3:0,Rechtsschuss
-312,2015,UEFA Champions League,Viertelfinale,H,Real Madrid,,VfL Wolfsburg,,3:0,LA,16',1:0,Rechtsschuss
-312,2015,UEFA Champions League,Viertelfinale,H,Real Madrid,,VfL Wolfsburg,,3:0,LA,17',2:0,Kopfball
-312,2015,UEFA Champions League,Viertelfinale,H,Real Madrid,,VfL Wolfsburg,,3:0,LA,77',3:0,Direkter Freistoß
-313,2015,LaLiga,33,A,Real Madrid,3,FC Getafe,18,1:5,LA,90'+2,1:5,Linksschuss
-314,2015,LaLiga,37,H,Real Madrid,3,FC Valencia,9,3:2,LA,26',1:0,Rechtsschuss
-314,2015,LaLiga,37,H,Real Madrid,3,FC Valencia,9,3:2,LA,59',3:1,Linksschuss
-315,2015,LaLiga,38,A,Real Madrid,2,Deportivo La Coruna ,13,0:2,LA,8',0:1,Linksschuss
-315,2015,LaLiga,38,A,Real Madrid,2,Deportivo La Coruna ,13,0:2,LA,25',0:2,Kopfball
-316,2016,LaLiga,3,H,Real Madrid,3,CA Osasuna,15,5:2,LA,6',1:0,Rechtsschuss
-317,2016,UEFA Champions League,Gruppenphase,H,Real Madrid,,Sporting Lissabon,,2:1,LA,89',1:1,Direkter Freistoß
-318,2016,UEFA Champions League,Gruppenphase,A,Real Madrid,,Borussia Dortmund,,2:2,LA,17',0:1,Rechtsschuss
-319,2016,LaLiga,8,A,Real Madrid,2,Real Betis Sevilla,15,1:6,LA,78',1:6,Rechtsschuss
-320,2016,LaLiga,10,A,Real Madrid,1,Deportivo Alavés,13,1:4,LA,17',1:1,Elfmeter
-320,2016,LaLiga,10,A,Real Madrid,1,Deportivo Alavés,13,1:4,LA,33',1:2,Rechtsschuss
-320,2016,LaLiga,10,A,Real Madrid,1,Deportivo Alavés,13,1:4,LA,88',1:4,Rechtsschuss
-321,2016,LaLiga,12,A,Real Madrid,1,Atlético Madrid,4,0:3,MS,23',0:1,Direkter Freistoß
-321,2016,LaLiga,12,A,Real Madrid,1,Atlético Madrid,4,0:3,MS,71',0:2,Elfmeter
-321,2016,LaLiga,12,A,Real Madrid,1,Atlético Madrid,4,0:3,MS,77',0:3,Rechtsschuss
-322,2016,LaLiga,13,H,Real Madrid,1,Sporting Gijón,18,2:1,LA,5',1:0,Elfmeter
-322,2016,LaLiga,13,H,Real Madrid,1,Sporting Gijón,18,2:1,LA,18',2:0,Kopfball
-323,2016,FIFA Klub-WM,Halbfinale,A,Real Madrid,,CF América,,0:2,LA,90'+3,0:2,Rechtsschuss
-324,2016,FIFA Klub-WM,Finale,H,Real Madrid,,Kashima Antlers,,4:2  n.V.,LA,60',2:2,Elfmeter
-324,2016,FIFA Klub-WM,Finale,H,Real Madrid,,Kashima Antlers,,4:2  n.V.,LA,97',3:2,Linksschuss
-324,2016,FIFA Klub-WM,Finale,H,Real Madrid,,Kashima Antlers,,4:2  n.V.,LA,104',4:2,Linksschuss
-325,2016,LaLiga,17,H,Real Madrid,1,FC Granada,19,5:0,LA,27',3:0,Kopfball
-326,2016,LaLiga,18,A,Real Madrid,1,FC Sevilla,2,2:1,MS,67',0:1,Elfmeter
-327,2016,Copa del Rey,Viertelfinale,A,Real Madrid,,Celta Vigo,,2:2,MS,62',1:1,Direkter Freistoß
-328,2016,LaLiga,20,H,Real Madrid,1,Real Sociedad San Sebastián,5,3:0,LA,51',2:0,Rechtsschuss
-329,2016,LaLiga,22,A,Real Madrid,1,CA Osasuna,20,1:3,MS,24',0:1,Rechtsschuss
-330,2016,LaLiga,16,A,Real Madrid,1,FC Valencia,17,2:1,LA,44',2:1,Kopfball
-331,2016,LaLiga,24,A,Real Madrid,1,FC Villarreal,6,2:3,LA,74',2:2,Elfmeter
-332,2016,LaLiga,25,H,Real Madrid,1,UD Las Palmas,12,3:3,LA,86',2:3,Elfmeter
-332,2016,LaLiga,25,H,Real Madrid,1,UD Las Palmas,12,3:3,LA,89',3:3,Kopfball
-333,2016,LaLiga,27,H,Real Madrid,1,Real Betis Sevilla,14,2:1,LA,41',1:1,Kopfball
-334,2016,UEFA Champions League,Viertelfinale,A,Real Madrid,,FC Bayern München,,1:2,LA,47',1:1,Rechtsschuss
-334,2016,UEFA Champions League,Viertelfinale,A,Real Madrid,,FC Bayern München,,1:2,LA,77',1:2,Rechtsschuss
-335,2016,UEFA Champions League,Viertelfinale,H,Real Madrid,,FC Bayern München,,4:2  n.V.,MS,76',1:1,Kopfball
-335,2016,UEFA Champions League,Viertelfinale,H,Real Madrid,,FC Bayern München,,4:2  n.V.,MS,105',2:2,Linksschuss
-335,2016,UEFA Champions League,Viertelfinale,H,Real Madrid,,FC Bayern München,,4:2  n.V.,MS,109',3:2,Rechtsschuss
-336,2016,LaLiga,35,H,Real Madrid,1,FC Valencia,12,2:1,LA,27',1:0,Kopfball
-337,2016,UEFA Champions League,Halbfinale,H,Real Madrid,,Atlético Madrid,,3:0,MS,10',1:0,Kopfball
-337,2016,UEFA Champions League,Halbfinale,H,Real Madrid,,Atlético Madrid,,3:0,MS,73',2:0,Rechtsschuss
-337,2016,UEFA Champions League,Halbfinale,H,Real Madrid,,Atlético Madrid,,3:0,MS,86',3:0,Rechtsschuss
-338,2016,LaLiga,37,H,Real Madrid,1,FC Sevilla,4,4:1,LA,23',2:0,Rechtsschuss
-338,2016,LaLiga,37,H,Real Madrid,1,FC Sevilla,4,4:1,LA,78',3:1,Linksschuss
-339,2016,LaLiga,21,A,Real Madrid,1,Celta Vigo,8,1:4,MS,10',0:1,Linksschuss
-339,2016,LaLiga,21,A,Real Madrid,1,Celta Vigo,8,1:4,MS,48',0:2,Linksschuss
-340,2016,LaLiga,38,A,Real Madrid,1,FC Málaga,11,0:2,MS,2',0:1,Rechtsschuss
-341,2016,UEFA Champions League,Finale,A,Real Madrid,,Juventus Turin,,1:4,MS,20',0:1,Rechtsschuss
-341,2016,UEFA Champions League,Finale,A,Real Madrid,,Juventus Turin,,1:4,MS,64',1:3,Rechtsschuss
-342,2017,Supercopa,Finale,A,Real Madrid,,FC Barcelona,,1:3,MS,80',1:2,Rechtsschuss
-343,2017,UEFA Champions League,Gruppenphase,H,Real Madrid,,APOEL Nikosia,,3:0,MS,12',1:0,Kontertor
-343,2017,UEFA Champions League,Gruppenphase,H,Real Madrid,,APOEL Nikosia,,3:0,MS,51',2:0,Elfmeter
-344,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,Borussia Dortmund,,1:3,MS,49',0:2,Linksschuss
-344,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,Borussia Dortmund,,1:3,MS,79',1:3,Rechtsschuss
-345,2017,LaLiga,8,A,Real Madrid,5,FC Getafe,12,1:2,MS,85',1:2,Rechtsschuss
-346,2017,UEFA Champions League,Gruppenphase,H,Real Madrid,,Tottenham Hotspur,,1:1,LA,43',1:1,Elfmeter
-347,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,Tottenham Hotspur,,3:1,LA,80',3:1,Rechtsschuss
-348,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,APOEL Nikosia,,0:6,LA,49',0:5,Kopfball
-348,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,APOEL Nikosia,,0:6,LA,54',0:6,Linksschuss
-349,2017,LaLiga,13,H,Real Madrid,3,FC Málaga,18,3:2,MS,76',3:2,Elfmeternachschuss
-350,2017,UEFA Champions League,Gruppenphase,H,Real Madrid,,Borussia Dortmund,,3:2,LA,12',2:0,Rechtsschuss
-351,2017,LaLiga,15,H,Real Madrid,4,FC Sevilla,5,5:0,MS,23',2:0,Rechtsschuss
-351,2017,LaLiga,15,H,Real Madrid,4,FC Sevilla,5,5:0,MS,31',3:0,Elfmeter
-352,2017,FIFA Klub-WM,Halbfinale,A,Real Madrid,,Al-Jazira Club,,1:2,LA,53',1:1,Rechtsschuss
-353,2017,FIFA Klub-WM,Finale,H,Real Madrid,,Grêmio Porto Alegre,,1:0,LA,53',1:0,Direkter Freistoß
-354,2017,LaLiga,20,H,Real Madrid,4,Deportivo La Coruna ,18,7:1,LA,78',5:1,Linksschuss
-354,2017,LaLiga,20,H,Real Madrid,4,Deportivo La Coruna ,18,7:1,LA,84',6:1,Kopfball
-355,2017,LaLiga,21,A,Real Madrid,4,FC Valencia,3,1:4,LA,16',0:1,Elfmeter
-355,2017,LaLiga,21,A,Real Madrid,4,FC Valencia,3,1:4,LA,38',0:2,Elfmeter
-356,2017,LaLiga,23,H,Real Madrid,3,Real Sociedad San Sebastián,14,5:2,MS,27',2:0,Rechtsschuss
-356,2017,LaLiga,23,H,Real Madrid,3,Real Sociedad San Sebastián,14,5:2,MS,37',4:0,Kopfball
-356,2017,LaLiga,23,H,Real Madrid,3,Real Sociedad San Sebastián,14,5:2,MS,80',5:1,Abstauber
-357,2017,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Paris Saint-Germain,,3:1,LA,45',1:1,Elfmeter
-357,2017,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Paris Saint-Germain,,3:1,LA,83',2:1,Abstauber
-358,2017,LaLiga,24,A,Real Madrid,3,Real Betis Sevilla,8,3:5,MS,65',2:4,Rechtsschuss
-359,2017,LaLiga,25,H,Real Madrid,3,Deportivo Alavés,15,4:0,MS,44',1:0,Linksschuss
-359,2017,LaLiga,25,H,Real Madrid,3,Deportivo Alavés,15,4:0,MS,61',3:0,Rechtsschuss
-360,2017,LaLiga,27,H,Real Madrid,3,FC Getafe,10,3:1,MS,45'+1,2:0,Linksschuss
-360,2017,LaLiga,27,H,Real Madrid,3,FC Getafe,10,3:1,MS,78',3:1,Kopfball
-361,2017,UEFA Champions League,Achtelfinale,A,Real Madrid,,FC Paris Saint-Germain,,1:2,MS,51',0:1,Kopfball
-362,2017,LaLiga,28,A,Real Madrid,3,SD Eibar,8,1:2,MS,33',0:1,Rechtsschuss
-362,2017,LaLiga,28,A,Real Madrid,3,SD Eibar,8,1:2,MS,84',1:2,Kopfball
-363,2017,LaLiga,29,H,Real Madrid,3,FC Girona,7,6:3,MS,11',1:0,Linksschuss
-363,2017,LaLiga,29,H,Real Madrid,3,FC Girona,7,6:3,MS,47',2:1,Linksschuss
-363,2017,LaLiga,29,H,Real Madrid,3,FC Girona,7,6:3,MS,64',4:1,Abstauber
-363,2017,LaLiga,29,H,Real Madrid,3,FC Girona,7,6:3,MS,90'+1,6:3,Rechtsschuss
-364,2017,UEFA Champions League,Viertelfinale,A,Real Madrid,,Juventus Turin,,0:3,MS,3',0:1,Rechtsschuss
-364,2017,UEFA Champions League,Viertelfinale,A,Real Madrid,,Juventus Turin,,0:3,MS,64',0:2,Rechtsschuss
-365,2017,LaLiga,31,H,Real Madrid,3,Atlético Madrid,2,1:1,MS,53',1:0,Rechtsschuss
-366,2017,UEFA Champions League,Viertelfinale,H,Real Madrid,,Juventus Turin,,1:3,MS,90'+7,1:3,Elfmeter
-367,2017,LaLiga,33,H,Real Madrid,3,Athletic Bilbao,13,1:1,MS,87',1:1,Rechtsschuss
-368,2017,LaLiga,36,A,Real Madrid,3,FC Barcelona,1,2:2,LA,14',1:1,Rechtsschuss
-369,2017,LaLiga,38,A,Real Madrid,3,FC Villarreal,5,2:2,MS,32',0:2,Kopfball
-370,2018,Serie A,4,H,Juventus Turin,1,US Sassuolo,3,2:1,MS,50',1:0,Abstauber
-370,2018,Serie A,4,H,Juventus Turin,1,US Sassuolo,3,2:1,MS,65',2:0,Linksschuss
-371,2018,Serie A,5,A,Juventus Turin,1,Frosinone Calcio,19,0:2,LA,81',0:1,Linksschuss
-372,2018,Serie A,8,A,Juventus Turin,1,Udinese Calcio,14,0:2,LA,37',0:2,Linksschuss
-373,2018,Serie A,9,H,Juventus Turin,1,Genua CFC,12,1:1,LA,18',1:0,Abstauber
-374,2018,Serie A,10,A,Juventus Turin,1,FC Empoli,18,1:2,MS,54',1:1,Elfmeter
-374,2018,Serie A,10,A,Juventus Turin,1,FC Empoli,18,1:2,MS,70',1:2,Rechtsschuss
-375,2018,UEFA Champions League,Gruppenphase,H,Juventus Turin,,Manchester United,,1:2,LA,65',1:0,Rechtsschuss
-376,2018,Serie A,12,A,Juventus Turin,1,AC Mailand,4,0:2,LA,81',0:2,Abstauber
-377,2018,Serie A,13,H,Juventus Turin,1,SPAL,15,2:0,MS,29',1:0,Linksschuss
-378,2018,Serie A,14,A,Juventus Turin,1,AC Florenz,9,0:3,LA,79',0:3,Elfmeter
-379,2018,Serie A,16,A,Juventus Turin,1,FC Turin,6,0:1,LA,70',0:1,Elfmeter
-380,2018,Serie A,18,A,Juventus Turin,1,Atalanta Bergamo,9,2:2,MS,78',2:2,Kopfball
-381,2018,Serie A,19,H,Juventus Turin,1,Sampdoria Genua,5,2:1,LA,2',1:0,Rechtsschuss
-381,2018,Serie A,19,H,Juventus Turin,1,Sampdoria Genua,5,2:1,LA,65',2:1,Elfmeter
-382,2018,Supercoppa Italiana,Finale,H,Juventus Turin,,AC Mailand,,1:0,MS,61',1:0,Kopfball
-383,2018,Serie A,21,A,Juventus Turin,1,Lazio Rom,6,1:2,LA,88',1:2,Elfmeter
-384,2018,Serie A,22,H,Juventus Turin,1,Parma Calcio 1913,12,3:3,LA,36',1:0,Rechtsschuss
-384,2018,Serie A,22,H,Juventus Turin,1,Parma Calcio 1913,12,3:3,LA,66',3:1,Kopfball
-385,2018,Serie A,23,A,Juventus Turin,1,US Sassuolo,11,0:3,LA,70',0:2,Kopfball
-386,2018,Serie A,24,H,Juventus Turin,1,Frosinone Calcio,19,3:0,LA,63',3:0,Rechtsschuss
-387,2018,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Atlético Madrid,,3:0,MS,27',1:0,Kopfball
-387,2018,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Atlético Madrid,,3:0,MS,49',2:0,Kopfball
-387,2018,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Atlético Madrid,,3:0,MS,86',3:0,Elfmeter
-388,2018,UEFA Champions League,Viertelfinale,A,Juventus Turin,,Ajax Amsterdam,,1:1,LA,45',0:1,Kopfball
-389,2018,UEFA Champions League,Viertelfinale,H,Juventus Turin,,Ajax Amsterdam,,1:2,LA,28',1:0,Kopfball
-390,2018,Serie A,34,A,Juventus Turin,1,Inter Mailand,3,1:1,MS,62',1:1,Linksschuss
-391,2018,Serie A,35,H,Juventus Turin,1,FC Turin,6,1:1,MS,84',1:1,Kopfball
-392,2019,Serie A,2,H,Juventus Turin,7,SSC Napoli,3,4:3,LA,62',3:0,Linksschuss
-393,2019,Serie A,4,H,Juventus Turin,3,Hellas Verona,11,2:1,LA,49',2:1,Elfmeter
-394,2019,Serie A,6,H,Juventus Turin,2,SPAL,19,2:0,MS,78',2:0,Kopfball
-395,2019,UEFA Champions League,Gruppenphase,H,Juventus Turin,,Bayer 04 Leverkusen,,3:0,MS,89',3:0,Rechtsschuss
-396,2019,Serie A,8,H,Juventus Turin,1,FC Bologna,12,2:1,MS,19',1:0,Rechtsschuss
-397,2019,Serie A,10,H,Juventus Turin,1,Genua CFC,17,2:1,MS,90'+6,2:1,Elfmeter
-398,2019,Serie A,14,H,Juventus Turin,1,US Sassuolo,11,2:2,MS,68',2:2,Elfmeter
-399,2019,Serie A,15,A,Juventus Turin,2,Lazio Rom,3,3:1,MS,25',0:1,Abstauber
-400,2019,UEFA Champions League,Gruppenphase,A,Juventus Turin,,Bayer 04 Leverkusen,,0:2,MS,75',0:1,Rechtsschuss
-401,2019,Serie A,16,H,Juventus Turin,2,Udinese Calcio,16,3:1,MS,9',1:0,Rechtsschuss
-401,2019,Serie A,16,H,Juventus Turin,2,Udinese Calcio,16,3:1,MS,37',2:0,Linksschuss
-402,2019,Serie A,17,A,Juventus Turin,1,Sampdoria Genua,15,1:2,LA,45',1:2,Kopfball
-403,2019,Serie A,18,H,Juventus Turin,1,Cagliari Calcio,6,4:0,MS,49',1:0,Rechtsschuss
-403,2019,Serie A,18,H,Juventus Turin,1,Cagliari Calcio,6,4:0,MS,67',2:0,Elfmeter
-403,2019,Serie A,18,H,Juventus Turin,1,Cagliari Calcio,6,4:0,MS,82',4:0,Linksschuss
-404,2019,Serie A,19,A,Juventus Turin,1,AS Rom,4,1:2,MS,10',0:2,Elfmeter
-405,2019,Serie A,20,H,Juventus Turin,1,Parma Calcio 1913,7,2:1,MS,43',1:0,abgefälschter Torschuss
-405,2019,Serie A,20,H,Juventus Turin,1,Parma Calcio 1913,7,2:1,MS,58',2:1,Rechtsschuss
-406,2019,Coppa Italia,Viertelfinale,H,Juventus Turin,,AS Rom,,3:1,LA,26',1:0,Linksschuss
-407,2019,Serie A,21,A,Juventus Turin,1,SSC Napoli,14,2:1,LA,90',2:1,Rechtsschuss
-408,2019,Serie A,22,H,Juventus Turin,1,AC Florenz,13,3:0,LA,40',1:0,Elfmeter
-408,2019,Serie A,22,H,Juventus Turin,1,AC Florenz,13,3:0,LA,80',2:0,Elfmeter
-409,2019,Serie A,23,A,Juventus Turin,1,Hellas Verona,9,2:1,LA,65',0:1,Rechtsschuss
-410,2019,Coppa Italia,Halbfinale,A,Juventus Turin,,AC Mailand,,1:1,LA,90'+1,1:1,Elfmeter
-411,2019,Serie A,25,A,Juventus Turin,1,SPAL,20,1:2,LA,39',0:1,Abstauber
-412,2019,Serie A,27,A,Juventus Turin,1,FC Bologna,10,0:2,LA,23',0:1,Elfmeter
-413,2019,Serie A,28,H,Juventus Turin,1,US Lecce,18,4:0,LA,62',2:0,Elfmeter
-414,2019,Serie A,29,A,Juventus Turin,1,Genua CFC,17,1:3,LA,56',0:2,Distanzschuss
-415,2019,Serie A,30,H,Juventus Turin,1,FC Turin,13,4:1,LA,61',3:1,Direkter Freistoß
-416,2019,Serie A,31,A,Juventus Turin,1,AC Mailand,7,4:2,LA,53',0:2,Linksschuss
-417,2019,Serie A,32,H,Juventus Turin,1,Atalanta Bergamo,3,2:2,LA,55',1:1,Elfmeter
-417,2019,Serie A,32,H,Juventus Turin,1,Atalanta Bergamo,3,2:2,LA,90',2:2,Elfmeter
-418,2019,Serie A,34,H,Juventus Turin,1,Lazio Rom,4,2:1,LA,51',1:0,Elfmeter
-418,2019,Serie A,34,H,Juventus Turin,1,Lazio Rom,4,2:1,LA,54',2:0,Kontertor
-419,2019,Serie A,36,H,Juventus Turin,1,Sampdoria Genua,14,2:0,LA,45'+7,1:0,Rechtsschuss
-420,2019,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Olympique Lyon,,2:1,LA,43',1:1,Elfmeter
-420,2019,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Olympique Lyon,,2:1,LA,60',2:1,Linksschuss
-421,2020,Serie A,1,H,Juventus Turin,4,Sampdoria Genua,9,3:0,MS,88',3:0,Rechtsschuss
-422,2020,Serie A,2,A,Juventus Turin,5,AS Rom,19,2:2,MS,44',1:1,Elfmeter
-422,2020,Serie A,2,A,Juventus Turin,5,AS Rom,19,2:2,MS,69',2:2,Kopfball
-423,2020,Serie A,6,A,Juventus Turin,5,Spezia Calcio,14,1:4,MS,59',1:2,Rechtsschuss
-423,2020,Serie A,6,A,Juventus Turin,5,Spezia Calcio,14,1:4,MS,76',1:4,Elfmeter
-424,2020,Serie A,7,A,Juventus Turin,4,Lazio Rom,10,1:1,LA,15',0:1,Rechtsschuss
-425,2020,Serie A,8,H,Juventus Turin,5,Cagliari Calcio,10,2:0,MS,38',1:0,Rechtsschuss
-425,2020,Serie A,8,H,Juventus Turin,5,Cagliari Calcio,10,2:0,MS,42',2:0,Rechtsschuss
-426,2020,UEFA Champions League,Gruppenphase,H,Juventus Turin,,Ferencvárosi TC,,2:1,MS,35',1:1,Linksschuss
-427,2020,UEFA Champions League,Gruppenphase,H,Juventus Turin,,Dynamo Kyiv,,3:0,MS,57',2:0,Rechtsschuss
-428,2020,UEFA Champions League,Gruppenphase,A,Juventus Turin,,FC Barcelona,,0:3,MS,13',0:1,Elfmeter
-428,2020,UEFA Champions League,Gruppenphase,A,Juventus Turin,,FC Barcelona,,0:3,MS,52',0:3,Elfmeter
-429,2020,Serie A,11,A,Juventus Turin,4,Genua CFC,19,1:3,MS,78',1:2,Elfmeter
-429,2020,Serie A,11,A,Juventus Turin,4,Genua CFC,19,1:3,MS,89',1:3,Elfmeter
-430,2020,Serie A,13,A,Juventus Turin,3,Parma Calcio 1913,14,0:4,MS,26',0:2,Kopfball
-430,2020,Serie A,13,A,Juventus Turin,3,Parma Calcio 1913,14,0:4,MS,48',0:3,Linksschuss
-431,2020,Serie A,15,H,Juventus Turin,3,Udinese Calcio,12,4:1,MS,31',1:0,Rechtsschuss
-431,2020,Serie A,15,H,Juventus Turin,3,Udinese Calcio,12,4:1,MS,70',3:0,Linksschuss
-432,2020,Serie A,17,H,Juventus Turin,3,US Sassuolo,6,3:1,MS,90'+2,3:1,Rechtsschuss
-433,2020,Supercoppa Italiana,Finale,H,Juventus Turin,,SSC Napoli,,2:0,MS,64',1:0,Abstauber
-434,2020,Coppa Italia,Halbfinale,A,Juventus Turin,,Inter Mailand,,1:2,MS,26',1:1,Elfmeter
-434,2020,Coppa Italia,Halbfinale,A,Juventus Turin,,Inter Mailand,,1:2,MS,35',1:2,Linksschuss
-435,2020,Serie A,21,H,Juventus Turin,3,AS Rom,4,2:0,MS,13',1:0,Linksschuss
-436,2020,Serie A,23,H,Juventus Turin,3,FC Crotone,20,3:0,MS,38',1:0,Kopfball
-436,2020,Serie A,23,H,Juventus Turin,3,FC Crotone,20,3:0,MS,45'+1,2:0,Kopfball
-437,2020,Serie A,24,A,Juventus Turin,3,Hellas Verona,9,1:1,MS,49',0:1,Rechtsschuss
-438,2020,Serie A,25,H,Juventus Turin,3,Spezia Calcio,15,3:0,MS,89',3:0,Kontertor
-439,2020,Serie A,27,A,Juventus Turin,3,Cagliari Calcio,18,1:3,MS,10',0:1,Kopfball
-439,2020,Serie A,27,A,Juventus Turin,3,Cagliari Calcio,18,1:3,MS,25',0:2,Elfmeter
-439,2020,Serie A,27,A,Juventus Turin,3,Cagliari Calcio,18,1:3,MS,32',0:3,Linksschuss
-440,2020,Serie A,29,A,Juventus Turin,3,FC Turin,17,2:2,MS,79',2:2,Kopfball
-441,2020,Serie A,3,H,Juventus Turin,6,SSC Napoli,1,2:1,MS,13',1:0,Rechtsschuss
-442,2020,Serie A,34,A,Juventus Turin,3,Udinese Calcio,11,1:2,MS,83',1:1,Elfmeter
-442,2020,Serie A,34,A,Juventus Turin,3,Udinese Calcio,11,1:2,MS,89',1:2,Kopfball
-443,2020,Serie A,36,A,Juventus Turin,5,US Sassuolo,8,1:3,MS,45',0:2,Linksschuss
-444,2020,Serie A,37,H,Juventus Turin,5,Inter Mailand,1,3:2,MS,24',1:0,Elfmeternachschuss
-445,2021,Premier League,4,H,Manchester United,3,Newcastle United,17,4:1,MS,45'+2,1:0,Abstauber
-445,2021,Premier League,4,H,Manchester United,3,Newcastle United,17,4:1,MS,62',2:1,Linksschuss
-446,2021,UEFA Champions League,Gruppenphase,A,Manchester United,,BSC Young Boys,,2:1,MS,13',0:1,Rechtsschuss
-447,2021,Premier League,5,A,Manchester United,1,West Ham United,8,1:2,MS,35',1:1,Rechtsschuss
-448,2021,UEFA Champions League,Gruppenphase,H,Manchester United,,FC Villarreal,,2:1,MS,90'+5,2:1,Rechtsschuss
-449,2021,UEFA Champions League,Gruppenphase,H,Manchester United,,Atalanta Bergamo,,3:2,MS,81',3:2,Kopfball
-450,2021,Premier League,10,A,Manchester United,7,Tottenham Hotspur,6,0:3,MS,39',0:1,Rechtsschuss
-451,2021,UEFA Champions League,Gruppenphase,A,Manchester United,,Atalanta Bergamo,,2:2,MS,45'+1,1:1,Rechtsschuss
-451,2021,UEFA Champions League,Gruppenphase,A,Manchester United,,Atalanta Bergamo,,2:2,MS,90'+1,2:2,Rechtsschuss
-452,2021,UEFA Champions League,Gruppenphase,A,Manchester United,,FC Villarreal,,0:2,MS,78',0:1,Rechtsschuss
-453,2021,Premier League,14,H,Manchester United,8,FC Arsenal,5,3:2,MS,52',2:1,Rechtsschuss
-453,2021,Premier League,14,H,Manchester United,8,FC Arsenal,5,3:2,MS,70',3:2,Elfmeter
-454,2021,Premier League,16,A,Manchester United,6,Norwich City,20,0:1,MS,75',0:1,Elfmeter
-455,2021,Premier League,20,H,Manchester United,6,FC Burnley,16,3:1,MS,35',3:0,Rechtsschuss
-456,2021,Premier League,18,H,Manchester United,5,Brighton & Hove Albion,13,2:0,MS,51',1:0,Rechtsschuss
-457,2021,Premier League,29,H,Manchester United,6,Tottenham Hotspur,4,3:2,MS,12',1:0,Rechtsschuss
-457,2021,Premier League,29,H,Manchester United,6,Tottenham Hotspur,4,3:2,MS,38',2:1,Rechtsschuss
-457,2021,Premier League,29,H,Manchester United,6,Tottenham Hotspur,4,3:2,MS,81',3:2,Kopfball
-458,2021,Premier League,33,H,Manchester United,7,Norwich City,20,3:2,MS,7',1:0,Rechtsschuss
-458,2021,Premier League,33,H,Manchester United,7,Norwich City,20,3:2,MS,32',2:0,Kopfball
-458,2021,Premier League,33,H,Manchester United,7,Norwich City,20,3:2,MS,76',3:2,Direkter Freistoß
-459,2021,Premier League,34,A,Manchester United,6,FC Arsenal,5,3:1,MS,34',2:1,Linksschuss
-460,2021,Premier League,37,H,Manchester United,6,FC Chelsea,3,1:1,MS,62',1:1,Rechtsschuss
-461,2021,Premier League,35,H,Manchester United,6,FC Brentford,12,3:0,MS,61',2:0,Elfmeter
-462,2022,UEFA Europa League,Gruppenphase,A,Manchester United,,FC Sheriff Tiraspol,,0:2,MS,39',0:2,Elfmeter
-463,2022,Premier League,10,A,Manchester United,9,FC Everton,13,1:2,MS,44',1:2,Kontertor
-464,2022,UEFA Europa League,Gruppenphase,H,Manchester United,,FC Sheriff Tiraspol,,3:0,MS,81',3:0,Linksschuss
-465,2022,Saudi Pro League,15,A,Al-Nassr FC,1,Al-Fateh SC,7,2:2,MS,90'+3,2:2,Elfmeter
-466,2022,Saudi Pro League,16,A,Al-Nassr FC,1,Al-Wehda FC,13,0:4,MS,21',0:1,Linksschuss
-466,2022,Saudi Pro League,16,A,Al-Nassr FC,1,Al-Wehda FC,13,0:4,MS,40',0:2,Rechtsschuss
-466,2022,Saudi Pro League,16,A,Al-Nassr FC,1,Al-Wehda FC,13,0:4,MS,53',0:3,Elfmeter
-466,2022,Saudi Pro League,16,A,Al-Nassr FC,1,Al-Wehda FC,13,0:4,MS,61',0:4,Rechtsschuss
-467,2022,Saudi Pro League,18,A,Al-Nassr FC,1,Damac FC,8,0:3,MS,18',0:1,Elfmeter
-467,2022,Saudi Pro League,18,A,Al-Nassr FC,1,Damac FC,8,0:3,MS,23',0:2,Linksschuss
-467,2022,Saudi Pro League,18,A,Al-Nassr FC,1,Damac FC,8,0:3,MS,44',0:3,Kontertor
-468,2022,Saudi Pro League,21,H,Al-Nassr FC,2,Abha Club,12,2:1,MS,78',1:1,Direkter Freistoß
-469,2022,Saudi Pro League,22,A,Al-Nassr FC,2,Al-Adalah FC,14,0:5,MS,40',0:1,Elfmeter
-469,2022,Saudi Pro League,22,A,Al-Nassr FC,2,Al-Adalah FC,14,0:5,MS,66',0:3,Linksschuss
-470,2022,Saudi Pro League,24,H,Al-Nassr FC,2,Al-Raed SFC,11,4:0,MS,4',1:0,Kopfball
-471,2022,Saudi Pro League,27,A,Al-Nassr FC,2,Al-Tai FC,7,0:2,MS,52',0:1,Elfmeter
-472,2022,Saudi Pro League,28,H,Al-Nassr FC,2,Al-Shabab FC,3,3:2,MS,59',3:2,Rechtsschuss
-473,2023,Saudi Pro League,3,A,Al-Nassr FC,15,Al-Fateh SC,6,0:5,MS,38',0:2,Kopfball
-473,2023,Saudi Pro League,3,A,Al-Nassr FC,15,Al-Fateh SC,6,0:5,MS,55',0:3,Linksschuss
-473,2023,Saudi Pro League,3,A,Al-Nassr FC,15,Al-Fateh SC,6,0:5,MS,90'+6,0:5,Linksschuss
-474,2023,Saudi Pro League,4,H,Al-Nassr FC,10,Al-Shabab FC,14,4:0,MS,13',1:0,Elfmeter
-474,2023,Saudi Pro League,4,H,Al-Nassr FC,10,Al-Shabab FC,14,4:0,MS,38',2:0,Elfmeter
-475,2023,Saudi Pro League,5,A,Al-Nassr FC,6,Al-Hazem SC,16,1:5,MS,68',1:4,Rechtsschuss
-476,2023,Saudi Pro League,6,A,Al-Nassr FC,6,Al-Raed SFC,14,1:3,MS,78',0:3,Linksschuss
-477,2023,Saudi Pro League,7,H,Al-Nassr FC,6,Al-Ahli SFC,3,4:3,MS,4',1:0,Linksschuss
-477,2023,Saudi Pro League,7,H,Al-Nassr FC,6,Al-Ahli SFC,3,4:3,MS,52',4:2,Linksschuss
-478,2023,Saudi Pro League,8,A,Al-Nassr FC,5,Al-Tai FC,12,1:2,MS,87',1:2,Elfmeter
-479,2023,AFC Champions League,Gruppenphase,H,Al-Nassr FC,,Istiklol Dushanbe,,3:1,MS,66',1:1,Linksschuss
-480,2023,Saudi Pro League,10,H,Al-Nassr FC,3,Damac FC,10,2:1,MS,56',2:1,Direkter Freistoß
-481,2023,AFC Champions League,Gruppenphase,H,Al-Nassr FC,,Al-Duhail SC,,4:3,MS,61',3:0,Linksschuss
-481,2023,AFC Champions League,Gruppenphase,H,Al-Nassr FC,,Al-Duhail SC,,4:3,MS,81',4:2,Linksschuss
-482,2023,Saudi Pro League,12,H,Al-Nassr FC,2,Al-Khaleej FC,13,2:0,MS,26',1:0,Rechtsschuss
-483,2023,Saudi Pro League,13,A,Al-Nassr FC,2,Al-Wehda FC,8,1:3,MS,49',0:3,Rechtsschuss
-484,2023,Saudi Pro League,14,H,Al-Nassr FC,2,Al-Okhdood Club,16,3:0,MS,77',2:0,Rechtsschuss
-484,2023,Saudi Pro League,14,H,Al-Nassr FC,2,Al-Okhdood Club,16,3:0,MS,80',3:0,Rechtsschuss
-485,2023,Saudi Pro League,16,H,Al-Nassr FC,2,Al-Riyadh SC,13,4:1,MS,31',1:0,Rechtsschuss
-486,2023,King's Cup,Viertelfinale,A,Al-Nassr FC,,Al-Shabab FC,,2:5,MS,74',1:4,Rechtsschuss
-487,2023,Saudi Pro League,18,H,Al-Nassr FC,2,Al-Ettifaq FC,8,3:1,MS,73',3:0,Elfmeter
-488,2023,Saudi Pro League,17,A,Al-Nassr FC,2,Al-Ittihad Club,5,2:5,MS,19',1:1,Elfmeter
-488,2023,Saudi Pro League,17,A,Al-Nassr FC,2,Al-Ittihad Club,5,2:5,MS,68',2:3,Elfmeter
-489,2023,Saudi Pro League,19,A,Al-Nassr FC,2,Al-Taawoun FC,4,1:4,MS,90'+2,1:4,Kopfball
-490,2023,AFC Champions League,Achtelfinale,A,Al-Nassr FC,,Al-Fayha FC,,0:1,MS,81',0:1,Rechtsschuss
-491,2023,Saudi Pro League,20,H,Al-Nassr FC,2,Al-Fateh SC,7,2:1,MS,17',1:0,Rechtsschuss
-492,2023,AFC Champions League,Achtelfinale,H,Al-Nassr FC,,Al-Fayha FC,,2:0,MS,86',2:0,Rechtsschuss
-493,2023,Saudi Pro League,21,A,Al-Nassr FC,2,Al-Shabab FC,10,2:3,MS,21',0:1,Elfmeter
-494,2023,AFC Champions League,Viertelfinale,H,Al-Nassr FC,,Al-Ain FC,,5:6  n.E.,MS,118',4:3,Elfmeter
-495,2023,Saudi Pro League,24,A,Al-Nassr FC,2,Al-Ahli SFC,3,0:1,MS,68',0:1,Elfmeter
-496,2023,Saudi Pro League,25,H,Al-Nassr FC,2,Al-Tai FC,16,5:1,MS,64',3:1,Rechtsschuss
-496,2023,Saudi Pro League,25,H,Al-Nassr FC,2,Al-Tai FC,16,5:1,MS,67',4:1,Rechtsschuss
-496,2023,Saudi Pro League,25,H,Al-Nassr FC,2,Al-Tai FC,16,5:1,MS,87',5:1,Kopfball
-497,2023,Saudi Pro League,26,A,Al-Nassr FC,2,Abha Club,17,0:8,MS,11',0:1,Direkter Freistoß
-497,2023,Saudi Pro League,26,A,Al-Nassr FC,2,Abha Club,17,0:8,MS,21',0:2,Direkter Freistoß
-497,2023,Saudi Pro League,26,A,Al-Nassr FC,2,Abha Club,17,0:8,MS,42',0:4,Rechtsschuss
-498,2023,King's Cup,Halbfinale,H,Al-Nassr FC,,Al-Khaleej FC,,3:1,MS,17',1:0,Linksschuss
-498,2023,King's Cup,Halbfinale,H,Al-Nassr FC,,Al-Khaleej FC,,3:1,MS,57',3:0,Linksschuss
-499,2023,Saudi Pro League,30,H,Al-Nassr FC,2,Al-Wehda FC,12,6:0,MS,5',1:0,Rechtsschuss
-499,2023,Saudi Pro League,30,H,Al-Nassr FC,2,Al-Wehda FC,12,6:0,MS,12',2:0,Kopfball
-499,2023,Saudi Pro League,30,H,Al-Nassr FC,2,Al-Wehda FC,12,6:0,MS,52',5:0,Linksschuss
-500,2023,Saudi Pro League,31,A,Al-Nassr FC,2,Al-Okhdood Club,15,2:3,MS,15',0:2,Rechtsschuss
-501,2023,Saudi Pro League,34,H,Al-Nassr FC,2,Al-Ittihad Club,5,4:2,MS,45'+3,1:0,Linksschuss
-501,2023,Saudi Pro League,34,H,Al-Nassr FC,2,Al-Ittihad Club,5,4:2,MS,69',2:0,Kopfball
-502,2024,Saudi Super Cup,Halbfinale,A,Al-Nassr FC,,Al-Taawoun FC,,0:2,MS,57',0:2,Rechtsschuss
-503,2024,Saudi Super Cup,Finale,A,Al-Nassr FC,,Al-Hilal SFC,,4:1,MS,44',0:1,Rechtsschuss
-504,2024,Saudi Pro League,1,H,Al-Nassr FC,4,Al-Raed SFC,12,1:1,MS,34',1:0,Kopfball
-505,2024,Saudi Pro League,2,A,Al-Nassr FC,10,Al-Fayha FC,12,1:4,MS,45'+10,0:2,Direkter Freistoß
-506,2024,Saudi Pro League,4,A,Al-Nassr FC,7,Al-Ettifaq FC,3,0:3,MS,33',0:1,Elfmeter
-507,2024,Saudi Pro League,5,H,Al-Nassr FC,5,Al-Wehda FC,14,2:0,MS,56',2:0,Elfmeter
-508,2024,AFC Champions League Elite,Gruppenphase,H,Al-Nassr FC,,Al-Rayyan SC,,2:1,MS,76',2:0,Linksschuss
-509,2024,Saudi Pro League,6,H,Al-Nassr FC,4,Al-Orobah FC,9,3:0,MS,17',1:0,Elfmeter
-510,2024,Saudi Pro League,7,A,Al-Nassr FC,3,Al-Shabab FC,4,1:2,MS,90'+7,1:2,Elfmeter
-511,2024,AFC Champions League Elite,Gruppenphase,H,Al-Nassr FC,,Al-Ain FC,,5:1,MS,31',2:0,Linksschuss
-512,2024,Saudi Pro League,11,H,Al-Nassr FC,3,Al-Qadsiah FC,5,1:2,MS,32',1:0,Rechtsschuss
-513,2024,AFC Champions League Elite,Gruppenphase,A,Al-Nassr FC,,Al-Gharafa SC,,1:3,MS,46',0:1,Kopfball
-513,2024,AFC Champions League Elite,Gruppenphase,A,Al-Nassr FC,,Al-Gharafa SC,,1:3,MS,64',0:3,Kontertor
-514,2024,Saudi Pro League,12,H,Al-Nassr FC,3,Damac FC,11,2:0,MS,17',1:0,Elfmeter
-514,2024,Saudi Pro League,12,H,Al-Nassr FC,3,Damac FC,11,2:0,MS,79',2:0,Linksschuss
-515,2024,Saudi Pro League,13,A,Al-Nassr FC,3,Al-Ittihad Club,1,2:1,MS,57',1:1,Rechtsschuss
+2853688,2002,Liga Portugal,6,H,Sporting Lissabon,12,Moreirense FC,16,3:0,LA,34',2:0,Sololauf
+2853688,2002,Liga Portugal,6,H,Sporting Lissabon,12,Moreirense FC,16,3:0,LA,90'+5,3:0,Kopfball
+2853704,2002,Liga Portugal,8,A,Sporting Lissabon,5,Boavista Porto FC,10,1:2,,88',1:2,Rechtsschuss
+3180366,2002,Taça de Portugal,4.Runde,H,Sporting Lissabon,,CD Estarreja,,4:1,LA,67',3:1,Linksschuss
+3180365,2002,Taça de Portugal,5.Runde,H,Sporting Lissabon,,FC Oliveira do Hospital,,8:1,HS,13',3:0,Linksschuss
+2454,2003,Premier League,11,H,Manchester United,3,FC Portsmouth,11,3:0,RA,80',2:0,Direkter Freistoß
+2286257,2003,FA Cup,5.Runde,H,Manchester United,,Manchester City,,4:2,RA,74',3:0,Rechtsschuss
+5943,2003,Premier League,29,H,Manchester United,3,Tottenham Hotspur,10,3:0,RA,89',2:0,Rechtsschuss
+6563,2003,Premier League,32,A,Manchester United,3,Birmingham City,6,1:2,RA,60',1:1,Kopfball
+7326,2003,Premier League,38,A,Manchester United,3,Aston Villa,5,0:2,RA,4',0:1,Rechtsschuss
+2286263,2003,FA Cup,Finale,H,Manchester United,,FC Millwall,,3:0,RA,44',1:0,Kopfball
+28417,2004,Premier League,16,H,Manchester United,4,FC Southampton,18,3:0,RA,87',3:0,Rechtsschuss
+2266122,2004,FA Cup,3.Runde,A,Manchester United,,Exeter City,,0:2,,9',0:1,Linksschuss
+28507,2004,Premier League,24,H,Manchester United,3,Aston Villa,10,3:1,,8',1:0,Rechtsschuss
+28509,2004,Premier League,25,A,Manchester United,3,FC Arsenal,2,2:4,RA,54',2:2,Linksschuss
+28509,2004,Premier League,25,A,Manchester United,3,FC Arsenal,2,2:4,RA,58',2:3,Abstauber
+2266149,2004,FA Cup,5.Runde,A,Manchester United,,FC Everton,,0:2,,58',0:2,Abstauber
+2266158,2004,FA Cup,6.Runde,A,Manchester United,,FC Southampton,,0:4,,45'+1,0:2,Linksschuss
+28577,2004,Premier League,30,H,Manchester United,2,FC Fulham,16,1:0,,21',1:0,Rechtsschuss
+1169028,2004,FA Cup,Halbfinale,A,Manchester United,,Newcastle United,,1:4,RA,76',1:4,Rechtsschuss
+43273,2005,UEFA Champions League-Qualifikation,3.Runde,H,Manchester United,,Debreceni VSC,,3:0,,63',3:0,Rechtsschuss
+37845,2005,Premier League,11,A,Manchester United,3,FC Middlesbrough,13,4:1,,90',4:1,Kopfball
+2365810,2005,EFL Cup,Achtelfinale,H,Manchester United,,West Bromwich Albion,,3:1,RA,12',1:1,Elfmeter
+37931,2005,Premier League,20,H,Manchester United,2,Bolton Wanderers,7,4:1,,68',3:1,Rechtsschuss
+37931,2005,Premier League,20,H,Manchester United,2,Bolton Wanderers,7,4:1,,90',4:1,Linksschuss
+37980,2005,Premier League,25,H,Manchester United,2,FC Fulham,13,4:2,,14',2:0,Direkter Freistoß
+37980,2005,Premier League,25,H,Manchester United,2,FC Fulham,13,4:2,,87',4:2,Rechtsschuss
+37992,2005,Premier League,26,A,Manchester United,2,FC Portsmouth,19,1:3,RA,38',0:2,Linksschuss
+37992,2005,Premier League,26,A,Manchester United,2,FC Portsmouth,19,1:3,RA,45',0:3,Rechtsschuss
+948880,2005,EFL Cup,Finale,H,Manchester United,,Wigan Athletic,,4:0,RA,59',3:0,Rechtsschuss
+38015,2005,Premier League,28,A,Manchester United,2,Wigan Athletic,9,1:2,,74',1:1,Rechtsschuss
+38112,2005,Premier League,38,H,Manchester United,2,Charlton Athletic,12,4:0,RA,23',2:0,Linksschuss
+55439,2006,Premier League,1,H,Manchester United,1,FC Fulham,16,5:1,,19',4:0,Rechtsschuss
+55492,2006,Premier League,6,A,Manchester United,2,FC Reading,6,1:1,MS,73',1:1,Rechtsschuss
+55527,2006,Premier League,10,A,Manchester United,1,Bolton Wanderers,4,0:4,,82',0:3,Ohne weitere Angaben
+55541,2006,Premier League,11,H,Manchester United,1,FC Portsmouth,5,3:0,RA,10',2:0,Direkter Freistoß
+55580,2006,Premier League,15,H,Manchester United,1,FC Everton,8,3:0,,39',1:0,Ohne weitere Angaben
+55599,2006,Premier League,17,H,Manchester United,1,Manchester City,11,3:1,RA,84',3:1,Ohne weitere Angaben
+55618,2006,Premier League,19,A,Manchester United,1,Aston Villa,9,0:3,,58',0:1,Ohne weitere Angaben
+55618,2006,Premier League,19,A,Manchester United,1,Aston Villa,9,0:3,,85',0:3,Ohne weitere Angaben
+55630,2006,Premier League,20,H,Manchester United,1,Wigan Athletic,16,3:1,,47',1:0,Kopfball
+55630,2006,Premier League,20,H,Manchester United,1,Wigan Athletic,16,3:1,,50',2:0,Elfmeternachschuss
+55641,2006,Premier League,21,H,Manchester United,1,FC Reading,8,3:2,RA,58',2:1,Rechtsschuss
+55641,2006,Premier League,21,H,Manchester United,1,FC Reading,8,3:2,RA,77',3:1,Rechtsschuss
+55661,2006,Premier League,23,H,Manchester United,1,Aston Villa,13,3:1,,34',3:0,Kopfball
+55683,2006,Premier League,25,H,Manchester United,1,FC Watford,19,4:0,RA,12',1:0,Elfmeter
+55693,2006,Premier League,26,A,Manchester United,1,Tottenham Hotspur,8,0:4,RA,45',0:1,Elfmeter
+55709,2006,Premier League,28,A,Manchester United,1,FC Fulham,14,1:2,,88',1:2,Sololauf
+67381,2006,FA Cup,6.Runde,A,Manchester United,,FC Middlesbrough,,2:2,RA,68',2:2,Elfmeter
+67530,2006,FA Cup,6.Runde,H,Manchester United,,FC Middlesbrough,,1:0,,76',1:0,Elfmeter
+67391,2006,UEFA Champions League,Viertelfinale,H,Manchester United,,AS Rom,,7:1,RA,44',4:0,Rechtsschuss
+67391,2006,UEFA Champions League,Viertelfinale,H,Manchester United,,AS Rom,,7:1,RA,49',5:0,Rechtsschuss
+67695,2006,FA Cup,Halbfinale,A,Manchester United,,FC Watford,,1:4,,28',1:2,Rechtsschuss
+68028,2006,UEFA Champions League,Halbfinale,H,Manchester United,,AC Mailand,,3:2,RA,5',1:0,Kopfball
+55801,2006,Premier League,37,A,Manchester United,1,Manchester City,13,0:1,RA,34',0:1,Elfmeter
+83330,2007,UEFA Champions League,Gruppenphase,A,Manchester United,,Sporting Lissabon,,0:1,MS,62',0:1,Kopfball
+81559,2007,Premier League,8,A,Manchester United,3,Birmingham City,14,0:1,RA,51',0:1,Linksschuss
+81567,2007,Premier League,9,H,Manchester United,3,Wigan Athletic,12,4:0,RA,59',2:0,Kopfball
+81567,2007,Premier League,9,H,Manchester United,3,Wigan Athletic,12,4:0,RA,76',3:0,Rechtsschuss
+83352,2007,UEFA Champions League,Gruppenphase,A,Manchester United,,Dynamo Kyiv,,2:4,RA,41',1:3,Rechtsschuss
+83352,2007,UEFA Champions League,Gruppenphase,A,Manchester United,,Dynamo Kyiv,,2:4,RA,68',1:4,Elfmeter
+81591,2007,Premier League,12,A,Manchester United,2,FC Arsenal,1,2:2,RA,82',1:2,Linksschuss
+83377,2007,UEFA Champions League,Gruppenphase,H,Manchester United,,Dynamo Kyiv,,4:0,RA,88',4:0,Rechtsschuss
+81606,2007,Premier League,13,H,Manchester United,2,Blackburn Rovers,6,2:0,RA,34',1:0,Kopfball
+81606,2007,Premier League,13,H,Manchester United,2,Blackburn Rovers,6,2:0,RA,35',2:0,Rechtsschuss
+83381,2007,UEFA Champions League,Gruppenphase,H,Manchester United,,Sporting Lissabon,,2:1,RA,90'+3,2:1,Direkter Freistoß
+81625,2007,Premier League,15,H,Manchester United,3,FC Fulham,12,2:0,RA,10',1:0,Rechtsschuss
+81625,2007,Premier League,15,H,Manchester United,3,FC Fulham,12,2:0,RA,58',2:0,Kopfball
+81646,2007,Premier League,16,H,Manchester United,3,Derby County,20,4:1,RA,90',4:1,Elfmeter
+81657,2007,Premier League,18,H,Manchester United,2,FC Everton,5,2:1,RA,22',1:0,Linksschuss
+81657,2007,Premier League,18,H,Manchester United,2,FC Everton,5,2:1,RA,87',2:1,Elfmeter
+81667,2007,Premier League,19,A,Manchester United,2,AFC Sunderland,18,0:4,,45',0:3,Direkter Freistoß
+81679,2007,Premier League,20,A,Manchester United,1,West Ham United,10,2:1,RA,14',0:1,Kopfball
+88443,2007,FA Cup,3.Runde,A,Manchester United,,Aston Villa,,0:2,,81',0:1,Linksschuss
+81697,2007,Premier League,22,H,Manchester United,2,Newcastle United,11,6:0,RA,48',1:0,Direkter Freistoß
+81697,2007,Premier League,22,H,Manchester United,2,Newcastle United,11,6:0,RA,70',3:0,Rechtsschuss
+81697,2007,Premier League,22,H,Manchester United,2,Newcastle United,11,6:0,RA,88',5:0,Linksschuss
+81708,2007,Premier League,23,A,Manchester United,1,FC Reading,13,0:2,RA,90'+2,0:2,Rechtsschuss
+88672,2007,FA Cup,4.Runde,H,Manchester United,,Tottenham Hotspur,,3:1,RA,69',2:1,Elfmeter
+88672,2007,FA Cup,4.Runde,H,Manchester United,,Tottenham Hotspur,,3:1,RA,88',3:1,Rechtsschuss
+81720,2007,Premier League,24,H,Manchester United,1,FC Portsmouth,7,2:0,HS,10',1:0,Rechtsschuss
+81720,2007,Premier League,24,H,Manchester United,1,FC Portsmouth,7,2:0,HS,12',2:0,Direkter Freistoß
+81746,2007,Premier League,27,A,Manchester United,2,Newcastle United,13,1:5,RA,45',0:2,Rechtsschuss
+81746,2007,Premier League,27,A,Manchester United,2,Newcastle United,13,1:5,RA,56',0:3,Rechtsschuss
+88400,2007,UEFA Champions League,Achtelfinale,H,Manchester United,,Olympique Lyon,,1:0,RA,41',1:0,Linksschuss
+81763,2007,Premier League,29,A,Manchester United,2,Derby County,20,0:1,MS,76',0:1,Rechtsschuss
+81775,2007,Premier League,30,H,Manchester United,1,Bolton Wanderers,17,2:0,,8',1:0,Rechtsschuss
+81775,2007,Premier League,30,H,Manchester United,1,Bolton Wanderers,17,2:0,,19',2:0,Direkter Freistoß
+81786,2007,Premier League,31,H,Manchester United,1,FC Liverpool,4,3:0,RA,79',2:0,Kopfball
+81796,2007,Premier League,32,H,Manchester United,1,Aston Villa,7,4:0,RA,16',1:0,Rechtsschuss
+90145,2007,UEFA Champions League,Viertelfinale,A,Manchester United,,AS Rom,,0:2,MS,39',0:1,Kopfball
+81807,2007,Premier League,33,A,Manchester United,1,FC Middlesbrough,13,2:2,RA,9',0:1,Linksschuss
+81816,2007,Premier League,34,H,Manchester United,1,FC Arsenal,3,2:1,RA,53',1:1,Elfmeter
+81852,2007,Premier League,37,H,Manchester United,1,West Ham United,10,4:1,RA,3',1:0,Rechtsschuss
+81852,2007,Premier League,37,H,Manchester United,1,West Ham United,10,4:1,RA,24',2:0,Rechtsschuss
+81860,2007,Premier League,38,A,Manchester United,1,Wigan Athletic,13,0:2,RA,32',0:1,Elfmeter
+909764,2007,UEFA Champions League,Finale,H,Manchester United,,FC Chelsea,,6:5  n.E.,LA,26',1:0,Kopfball
+929554,2008,EFL Cup,3.Runde,H,Manchester United,,FC Middlesbrough,,3:1,MS,25',1:0,Kopfball
+923959,2008,Premier League,6,H,Manchester United,7,Bolton Wanderers,16,2:0,RA,59',1:0,Elfmeter
+926248,2008,Premier League,8,H,Manchester United,3,West Bromwich Albion,9,4:0,RA,69',2:0,Linksschuss
+926271,2008,Premier League,10,H,Manchester United,5,West Ham United,10,2:0,RA,14',1:0,Linksschuss
+926271,2008,Premier League,10,H,Manchester United,5,West Ham United,10,2:0,RA,30',2:0,Rechtsschuss
+926283,2008,Premier League,11,H,Manchester United,3,Hull City,6,4:3,RA,3',1:0,Linksschuss
+926283,2008,Premier League,11,H,Manchester United,3,Hull City,6,4:3,RA,43',3:1,Kopfball
+928551,2008,Premier League,13,H,Manchester United,3,Stoke City,12,5:0,LA,3',1:0,Direkter Freistoß
+928551,2008,Premier League,13,H,Manchester United,3,Stoke City,12,5:0,LA,88',5:0,Direkter Freistoß
+986420,2008,FIFA Klub-WM,Halbfinale,A,Manchester United,,Gamba Osaka,,3:5,LA,45'+1,0:2,Kopfball
+933826,2008,EFL Cup,Halbfinale,H,Manchester United,,Derby County,,4:2,,89',4:1,Elfmeter
+934244,2008,Premier League,23,A,Manchester United,1,West Bromwich Albion,20,0:5,LA,65',0:4,Rechtsschuss
+934244,2008,Premier League,23,A,Manchester United,1,West Bromwich Albion,20,0:5,LA,73',0:5,Rechtsschuss
+934260,2008,Premier League,24,H,Manchester United,1,FC Everton,6,1:0,RA,43',1:0,Elfmeter
+936634,2008,FA Cup,5.Runde,A,Manchester United,,Derby County,,1:4,MS,68',1:3,Kopfball
+936003,2008,Premier League,26,H,Manchester United,1,Blackburn Rovers,16,2:1,RA,60',2:1,Direkter Freistoß
+933249,2008,UEFA Champions League,Achtelfinale,H,Manchester United,,Inter Mailand,,2:0,RA,49',2:0,Kopfball
+936034,2008,Premier League,29,H,Manchester United,1,FC Liverpool,3,1:4,RA,22',1:0,Elfmeter
+940300,2008,Premier League,31,H,Manchester United,1,Aston Villa,5,3:2,RA,11',1:0,Direkter Freistoß
+940300,2008,Premier League,31,H,Manchester United,1,Aston Villa,5,3:2,RA,80',2:2,Linksschuss
+940385,2008,UEFA Champions League,Viertelfinale,A,Manchester United,,FC Porto,,0:1,RA,6',0:1,Distanzschuss
+940370,2008,Premier League,34,H,Manchester United,1,Tottenham Hotspur,9,5:2,RA,57',1:2,Elfmeter
+940370,2008,Premier League,34,H,Manchester United,1,Tottenham Hotspur,9,5:2,RA,68',3:2,Kopfball
+945977,2008,UEFA Champions League,Halbfinale,A,Manchester United,,FC Arsenal,,1:3,MS,11',0:2,Direkter Freistoß
+945977,2008,UEFA Champions League,Halbfinale,A,Manchester United,,FC Arsenal,,1:3,MS,61',0:3,Rechtsschuss
+943640,2008,Premier League,36,H,Manchester United,1,Manchester City,8,2:0,RA,17',1:0,Direkter Freistoß
+955779,2009,LaLiga,1,H,Real Madrid,2,Deportivo La Coruna ,10,3:2,LA,35',2:1,Elfmeter
+955801,2009,LaLiga,2,A,Real Madrid,6,Espanyol Barcelona,15,0:3,MS,90',0:3,Rechtsschuss
+971637,2009,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Zürich,,2:5,LA,27',0:1,Direkter Freistoß
+971637,2009,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Zürich,,2:5,LA,89',2:4,Direkter Freistoß
+955810,2009,LaLiga,3,H,Real Madrid,3,Deportivo Xerez,19,5:0,RA,1',1:0,Rechtsschuss
+955810,2009,LaLiga,3,H,Real Madrid,3,Deportivo Xerez,19,5:0,RA,75',2:0,Kopfball
+955830,2009,LaLiga,4,A,Real Madrid,1,FC Villarreal,17,0:2,MS,2',0:1,Rechtsschuss
+971638,2009,UEFA Champions League,Gruppenphase,H,Real Madrid,,Olympique Marseille,,3:0,MS,58',1:0,Linksschuss
+971638,2009,UEFA Champions League,Gruppenphase,H,Real Madrid,,Olympique Marseille,,3:0,MS,64',3:0,Rechtsschuss
+957307,2009,LaLiga,13,H,Real Madrid,2,UD Almería,14,4:2,MS,84',4:2,Rechtsschuss
+971642,2009,UEFA Champions League,Gruppenphase,A,Real Madrid,,Olympique Marseille,,1:3,MS,5',0:1,Direkter Freistoß
+971642,2009,UEFA Champions League,Gruppenphase,A,Real Madrid,,Olympique Marseille,,1:3,MS,80',1:3,Rechtsschuss
+957328,2009,LaLiga,15,H,Real Madrid,2,Real Saragossa ,18,6:0,MS,50',5:0,Linksschuss
+957370,2009,LaLiga,19,H,Real Madrid,2,FC Málaga,16,2:0,RA,35',1:0,Rechtsschuss
+957370,2009,LaLiga,19,H,Real Madrid,2,FC Málaga,16,2:0,RA,39',2:0,Rechtsschuss
+957392,2009,LaLiga,22,A,Real Madrid,2,Deportivo Xerez,20,0:3,MS,69',0:2,Kopfball
+957392,2009,LaLiga,22,A,Real Madrid,2,Deportivo Xerez,20,0:3,MS,71',0:3,Linksschuss
+957403,2009,LaLiga,23,H,Real Madrid,2,FC Villarreal,10,6:2,MS,18',1:0,Direkter Freistoß
+957413,2009,LaLiga,24,A,Real Madrid,2,CD Teneriffa,19,1:5,MS,78',1:4,Elfmeter
+957431,2009,LaLiga,25,H,Real Madrid,2,FC Sevilla,4,3:2,MS,59',1:2,Linksschuss
+988803,2009,UEFA Champions League,Achtelfinale,H,Real Madrid,,Olympique Lyon,,1:1,MS,6',1:0,Linksschuss
+957441,2009,LaLiga,26,A,Real Madrid,2,Real Valladolid,18,1:4,MS,29',0:1,Direkter Freistoß
+957464,2009,LaLiga,28,A,Real Madrid,2,FC Getafe,8,2:4,MS,13',0:1,Direkter Freistoß
+957464,2009,LaLiga,28,A,Real Madrid,2,FC Getafe,8,2:4,MS,36',0:4,Rechtsschuss
+957596,2009,LaLiga,30,A,Real Madrid,2,Racing Santander,16,0:2,MS,23',0:1,Elfmeter
+957628,2009,LaLiga,32,A,Real Madrid,2,UD Almería,13,1:2,LA,26',1:1,Linksschuss
+957646,2009,LaLiga,33,H,Real Madrid,2,FC Valencia,3,2:0,RA,77',2:0,Rechtsschuss
+957667,2009,LaLiga,35,H,Real Madrid,2,CA Osasuna,12,3:2,MS,25',1:1,Rechtsschuss
+957667,2009,LaLiga,35,H,Real Madrid,2,CA Osasuna,12,3:2,MS,89',3:2,Kopfball
+957677,2009,LaLiga,36,A,Real Madrid,2,RCD Mallorca,4,1:4,MS,26',1:1,Rechtsschuss
+957677,2009,LaLiga,36,A,Real Madrid,2,RCD Mallorca,4,1:4,MS,56',1:2,Rechtsschuss
+957677,2009,LaLiga,36,A,Real Madrid,2,RCD Mallorca,4,1:4,MS,71',1:3,Rechtsschuss
+957688,2009,LaLiga,37,H,Real Madrid,2,Athletic Bilbao,8,5:1,MS,21',1:0,Elfmeter
+1036092,2010,LaLiga,4,H,Real Madrid,3,Espanyol Barcelona,7,3:0,LA,28',1:0,Elfmeter
+1036120,2010,LaLiga,6,H,Real Madrid,4,Deportivo La Coruna ,19,6:1,LA,4',1:0,Kopfball
+1036120,2010,LaLiga,6,H,Real Madrid,4,Deportivo La Coruna ,19,6:1,LA,89',6:1,Linksschuss
+1036138,2010,LaLiga,7,A,Real Madrid,3,FC Málaga,11,1:4,LA,45',0:2,Rechtsschuss
+1036138,2010,LaLiga,7,A,Real Madrid,3,FC Málaga,11,1:4,LA,50',0:3,Elfmeter
+1050104,2010,UEFA Champions League,Gruppenphase,H,Real Madrid,,AC Mailand,,2:0,LA,13',1:0,Direkter Freistoß
+1036148,2010,LaLiga,8,H,Real Madrid,1,Racing Santander,16,6:1,LA,15',2:0,Rechtsschuss
+1036148,2010,LaLiga,8,H,Real Madrid,1,Racing Santander,16,6:1,LA,26',3:0,Linksschuss
+1036148,2010,LaLiga,8,H,Real Madrid,1,Racing Santander,16,6:1,LA,47',4:0,Rechtsschuss
+1036148,2010,LaLiga,8,H,Real Madrid,1,Racing Santander,16,6:1,LA,55',5:0,Elfmeter
+1036157,2010,LaLiga,9,A,Real Madrid,1,Hércules Alicante,13,1:3,LA,82',1:2,Rechtsschuss
+1036157,2010,LaLiga,9,A,Real Madrid,1,Hércules Alicante,13,1:3,LA,86',1:3,Rechtsschuss
+1055161,2010,Copa del Rey,4.Runde,H,Real Madrid,,Real Murcia,,5:1,,76',3:0,Linksschuss
+1036186,2010,LaLiga,12,H,Real Madrid,1,Athletic Bilbao,8,5:1,LA,30',2:0,Linksschuss
+1036186,2010,LaLiga,12,H,Real Madrid,1,Athletic Bilbao,8,5:1,LA,62',4:1,Direkter Freistoß
+1036186,2010,LaLiga,12,H,Real Madrid,1,Athletic Bilbao,8,5:1,LA,90'+1,5:1,Elfmeter
+1050138,2010,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,0:4,LA,70',0:3,Linksschuss
+1050138,2010,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,0:4,LA,81',0:4,Elfmeter
+1036205,2010,LaLiga,14,H,Real Madrid,2,FC Valencia,5,2:0,MS,72',1:0,Linksschuss
+1036205,2010,LaLiga,14,H,Real Madrid,2,FC Valencia,5,2:0,MS,86',2:0,Rechtsschuss
+1050162,2010,UEFA Champions League,Gruppenphase,H,Real Madrid,,AJ Auxerre,,4:0,LA,49',2:0,Rechtsschuss
+1036212,2010,LaLiga,15,A,Real Madrid,2,Real Saragossa ,20,1:3,LA,43',0:2,Direkter Freistoß
+1064193,2010,Copa del Rey,Achtelfinale,H,Real Madrid,,UD Levante,,8:0,LA,44',4:0,Rechtsschuss
+1064193,2010,Copa del Rey,Achtelfinale,H,Real Madrid,,UD Levante,,8:0,LA,71',6:0,Rechtsschuss
+1064193,2010,Copa del Rey,Achtelfinale,H,Real Madrid,,UD Levante,,8:0,LA,73',7:0,Rechtsschuss
+1036233,2010,LaLiga,17,A,Real Madrid,2,FC Getafe,7,2:3,LA,11',0:1,Elfmeter
+1036233,2010,LaLiga,17,A,Real Madrid,2,FC Getafe,7,2:3,LA,57',1:3,Rechtsschuss
+1036243,2010,LaLiga,18,H,Real Madrid,2,FC Villarreal,3,4:2,LA,10',1:1,Rechtsschuss
+1036243,2010,LaLiga,18,H,Real Madrid,2,FC Villarreal,3,4:2,LA,45',2:2,Kopfball
+1036243,2010,LaLiga,18,H,Real Madrid,2,FC Villarreal,3,4:2,LA,79',3:2,Linksschuss
+1072027,2010,Copa del Rey,Viertelfinale,H,Real Madrid,,Atlético Madrid,,3:1,LA,60',2:1,Rechtsschuss
+1072031,2010,Copa del Rey,Viertelfinale,A,Real Madrid,,Atlético Madrid,,0:1,MS,22',0:1,Rechtsschuss
+1036290,2010,LaLiga,22,H,Real Madrid,2,Real Sociedad San Sebastián,9,4:1,LA,20',2:0,Linksschuss
+1036290,2010,LaLiga,22,H,Real Madrid,2,Real Sociedad San Sebastián,9,4:1,LA,42',3:0,Kopfball
+1036328,2010,LaLiga,26,H,Real Madrid,2,FC Málaga,19,7:0,LA,50',4:0,Linksschuss
+1036328,2010,LaLiga,26,H,Real Madrid,2,FC Málaga,19,7:0,LA,67',6:0,Elfmeter
+1036328,2010,LaLiga,26,H,Real Madrid,2,FC Málaga,19,7:0,LA,76',7:0,Rechtsschuss
+1088510,2010,UEFA Champions League,Viertelfinale,H,Real Madrid,,Tottenham Hotspur,,4:0,LA,87',4:0,Rechtsschuss
+1036376,2010,LaLiga,31,A,Real Madrid,2,Athletic Bilbao,5,0:3,MS,70',0:3,Rechtsschuss
+1088514,2010,UEFA Champions League,Viertelfinale,A,Real Madrid,,Tottenham Hotspur,,0:1,RA,50',0:1,Rechtsschuss
+1036385,2010,LaLiga,32,H,Real Madrid,2,FC Barcelona,1,1:1,LA,82',1:1,Elfmeter
+1076632,2010,Copa del Rey,Finale,A,Real Madrid,,FC Barcelona,,0:1  n.V.,MS,103',0:1,Kopfball
+1036414,2010,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:6,LA,30',0:2,Rechtsschuss
+1036414,2010,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:6,LA,64',1:4,Rechtsschuss
+1036414,2010,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:6,LA,70',1:5,Rechtsschuss
+1036414,2010,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:6,LA,76',1:6,Rechtsschuss
+1036423,2010,LaLiga,36,H,Real Madrid,2,FC Getafe,16,4:0,LA,23',1:0,Kopfball
+1036423,2010,LaLiga,36,H,Real Madrid,2,FC Getafe,16,4:0,LA,57',2:0,Linksschuss
+1036423,2010,LaLiga,36,H,Real Madrid,2,FC Getafe,16,4:0,LA,90'+1,4:0,Elfmeter
+1036433,2010,LaLiga,37,A,Real Madrid,2,FC Villarreal,4,1:3,MS,22',0:2,Direkter Freistoß
+1036433,2010,LaLiga,37,A,Real Madrid,2,FC Villarreal,4,1:3,MS,90',1:3,Direkter Freistoß
+1036443,2010,LaLiga,38,H,Real Madrid,2,UD Almería,20,8:1,LA,4',1:0,Rechtsschuss
+1036443,2010,LaLiga,38,H,Real Madrid,2,UD Almería,20,8:1,LA,76',7:1,Rechtsschuss
+1122445,2011,Supercopa,Finale,A,Real Madrid,,FC Barcelona,,3:2,LA,20',1:1,Rechtsschuss
+1125240,2011,LaLiga,2,A,Real Madrid,3,Real Saragossa ,12,0:6,LA,23',0:1,Linksschuss
+1125240,2011,LaLiga,2,A,Real Madrid,3,Real Saragossa ,12,0:6,LA,70',0:4,Rechtsschuss
+1125240,2011,LaLiga,2,A,Real Madrid,3,Real Saragossa ,12,0:6,LA,86',0:6,Rechtsschuss
+1125250,2011,LaLiga,3,H,Real Madrid,1,FC Getafe,8,4:2,LA,59',2:1,Elfmeter
+1125281,2011,LaLiga,6,H,Real Madrid,5,Rayo Vallecano,14,6:2,LA,39',1:1,Linksschuss
+1125281,2011,LaLiga,6,H,Real Madrid,5,Rayo Vallecano,14,6:2,LA,51',3:1,Elfmeter
+1125281,2011,LaLiga,6,H,Real Madrid,5,Rayo Vallecano,14,6:2,LA,84',6:2,Elfmeter
+1141863,2011,UEFA Champions League,Gruppenphase,H,Real Madrid,,Ajax Amsterdam,,3:0,LA,25',1:0,Rechtsschuss
+1125309,2011,LaLiga,9,A,Real Madrid,2,FC Málaga,6,0:4,LA,24',0:2,Linksschuss
+1125309,2011,LaLiga,9,A,Real Madrid,2,FC Málaga,6,0:4,LA,28',0:3,Rechtsschuss
+1125309,2011,LaLiga,9,A,Real Madrid,2,FC Málaga,6,0:4,LA,38',0:4,Rechtsschuss
+1141902,2011,UEFA Champions League,Gruppenphase,A,Real Madrid,,Olympique Lyon,,0:2,LA,25',0:1,Direkter Freistoß
+1141902,2011,UEFA Champions League,Gruppenphase,A,Real Madrid,,Olympique Lyon,,0:2,LA,69',0:2,Elfmeter
+1125338,2011,LaLiga,12,H,Real Madrid,1,CA Osasuna,9,7:1,LA,23',1:0,Kopfball
+1125338,2011,LaLiga,12,H,Real Madrid,1,CA Osasuna,9,7:1,LA,55',4:1,Elfmeter
+1125338,2011,LaLiga,12,H,Real Madrid,1,CA Osasuna,9,7:1,LA,58',5:1,Kopfball
+1125347,2011,LaLiga,13,A,Real Madrid,1,FC Valencia,3,2:3,LA,79',1:3,Rechtsschuss
+1125357,2011,LaLiga,14,H,Real Madrid,1,Atlético Madrid,7,4:1,LA,24',1:1,Elfmeter
+1125357,2011,LaLiga,14,H,Real Madrid,1,Atlético Madrid,7,4:1,LA,82',4:1,Elfmeter
+1125366,2011,LaLiga,15,A,Real Madrid,1,Sporting Gijón,18,0:3,LA,65',0:2,Rechtsschuss
+1158627,2011,Copa del Rey,4.Runde,A,Real Madrid,,SD Ponferradina ,,0:2,LA,74',0:2,Linksschuss
+1125385,2011,LaLiga,17,A,Real Madrid,1,FC Sevilla,5,2:6,LA,10',0:1,Rechtsschuss
+1125385,2011,LaLiga,17,A,Real Madrid,1,FC Sevilla,5,2:6,LA,41',0:3,Rechtsschuss
+1125385,2011,LaLiga,17,A,Real Madrid,1,FC Sevilla,5,2:6,LA,86',1:5,Elfmeter
+1125395,2011,LaLiga,18,H,Real Madrid,1,FC Granada,14,5:1,LA,89',5:1,Rechtsschuss
+1178301,2011,Copa del Rey,Viertelfinale,H,Real Madrid,,FC Barcelona,,1:2,LA,11',1:0,Linksschuss
+1125062,2011,LaLiga,1,H,Real Madrid,1,Athletic Bilbao,10,4:1,LA,46',2:1,Elfmeter
+1125062,2011,LaLiga,1,H,Real Madrid,1,Athletic Bilbao,10,4:1,LA,67',3:1,Elfmeter
+1178297,2011,Copa del Rey,Viertelfinale,A,Real Madrid,,FC Barcelona,,2:2,LA,68',2:1,Rechtsschuss
+1125430,2011,LaLiga,21,H,Real Madrid,1,Real Saragossa ,20,3:1,LA,48',2:1,Rechtsschuss
+1125451,2011,LaLiga,23,H,Real Madrid,1,UD Levante,4,4:2,LA,45',1:1,Elfmeter
+1125451,2011,LaLiga,23,H,Real Madrid,1,UD Levante,4,4:2,LA,50',2:1,Kopfball
+1125451,2011,LaLiga,23,H,Real Madrid,1,UD Levante,4,4:2,LA,57',3:1,Rechtsschuss
+1125461,2011,LaLiga,24,H,Real Madrid,1,Racing Santander,18,4:0,LA,6',1:0,Kopfball
+1174226,2011,UEFA Champions League,Achtelfinale,A,Real Madrid,,ZSKA Moskau,,1:1,LA,28',0:1,Linksschuss
+1125471,2011,LaLiga,25,A,Real Madrid,1,Rayo Vallecano,11,0:1,LA,53',0:1,Rechtsschuss
+1125480,2011,LaLiga,26,H,Real Madrid,1,Espanyol Barcelona,8,5:0,LA,23',1:0,Linksschuss
+1125483,2011,LaLiga,27,A,Real Madrid,1,Real Betis Sevilla,10,2:3,LA,52',1:2,Linksschuss
+1125483,2011,LaLiga,27,A,Real Madrid,1,Real Betis Sevilla,10,2:3,LA,73',2:3,Linksschuss
+1174227,2011,UEFA Champions League,Achtelfinale,H,Real Madrid,,ZSKA Moskau,,4:1,LA,55',2:0,Rechtsschuss
+1174227,2011,UEFA Champions League,Achtelfinale,H,Real Madrid,,ZSKA Moskau,,4:1,LA,90'+4,4:1,Rechtsschuss
+1125509,2011,LaLiga,29,A,Real Madrid,1,FC Villarreal,17,1:1,LA,61',0:1,Rechtsschuss
+1125548,2011,LaLiga,30,H,Real Madrid,1,Real Sociedad San Sebastián,14,5:1,LA,32',2:0,Rechtsschuss
+1125548,2011,LaLiga,30,H,Real Madrid,1,Real Sociedad San Sebastián,14,5:1,LA,55',5:1,Rechtsschuss
+1134013,2011,LaLiga,31,A,Real Madrid,1,CA Osasuna,6,1:5,LA,37',0:2,Distanzschuss
+1134013,2011,LaLiga,31,A,Real Madrid,1,CA Osasuna,6,1:5,LA,70',1:4,Direkter Freistoß
+1193024,2011,UEFA Champions League,Viertelfinale,H,Real Madrid,,APOEL Nikosia,,5:2,LA,26',1:0,Rechtsschuss
+1193024,2011,UEFA Champions League,Viertelfinale,H,Real Madrid,,APOEL Nikosia,,5:2,LA,75',3:1,Direkter Freistoß
+1125537,2011,LaLiga,33,A,Real Madrid,1,Atlético Madrid,6,1:4,LA,24',0:1,Direkter Freistoß
+1125537,2011,LaLiga,33,A,Real Madrid,1,Atlético Madrid,6,1:4,LA,67',1:2,Distanzschuss
+1125537,2011,LaLiga,33,A,Real Madrid,1,Atlético Madrid,6,1:4,LA,82',1:3,Elfmeter
+1125556,2011,LaLiga,34,H,Real Madrid,1,Sporting Gijón,19,3:1,LA,74',2:1,Kopfball
+1125566,2011,LaLiga,35,A,Real Madrid,1,FC Barcelona,2,1:2,LA,73',1:2,Rechtsschuss
+2194740,2011,UEFA Champions League,Halbfinale,H,Real Madrid,,FC Bayern München,,3:4  n.E.,LA,6',1:0,Elfmeter
+2194740,2011,UEFA Champions League,Halbfinale,H,Real Madrid,,FC Bayern München,,3:4  n.E.,LA,14',2:0,Rechtsschuss
+1125575,2011,LaLiga,36,H,Real Madrid,1,FC Sevilla,9,3:0,LA,19',1:0,Rechtsschuss
+1125413,2011,LaLiga,20,A,Real Madrid,1,Athletic Bilbao,7,0:3,LA,49',0:3,Kopfball
+1125585,2011,LaLiga,37,A,Real Madrid,1,FC Granada,15,1:2,LA,81',1:1,Elfmeter
+1125594,2011,LaLiga,38,H,Real Madrid,1,RCD Mallorca,6,4:1,LA,18',1:0,Kopfball
+2244388,2012,Supercopa,Finale,A,Real Madrid,,FC Barcelona,,3:2,LA,55',0:1,Kopfball
+2244389,2012,Supercopa,Finale,H,Real Madrid,,FC Barcelona,,2:1,LA,19',2:0,Rechtsschuss
+2242882,2012,LaLiga,3,H,Real Madrid,14,FC Granada,15,3:0,LA,25',1:0,Rechtsschuss
+2242882,2012,LaLiga,3,H,Real Madrid,14,FC Granada,15,3:0,LA,53',2:0,Linksschuss
+2262153,2012,UEFA Champions League,Gruppenphase,H,Real Madrid,,Manchester City,,3:2,LA,90',3:2,Rechtsschuss
+2242897,2012,LaLiga,5,A,Real Madrid,13,Rayo Vallecano,6,0:2,LA,70',0:2,Elfmeter
+2242843,2012,LaLiga,6,H,Real Madrid,7,Deportivo La Coruna ,12,5:1,LA,22',1:1,Elfmeter
+2242843,2012,LaLiga,6,H,Real Madrid,7,Deportivo La Coruna ,12,5:1,LA,43',3:1,Kopfball
+2242843,2012,LaLiga,6,H,Real Madrid,7,Deportivo La Coruna ,12,5:1,LA,83',5:1,Elfmeter
+2262177,2012,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,1:4,LA,42',0:1,Rechtsschuss
+2262177,2012,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,1:4,LA,79',1:3,Rechtsschuss
+2262177,2012,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ajax Amsterdam,,1:4,LA,81',1:4,Linksschuss
+2242853,2012,LaLiga,7,A,Real Madrid,6,FC Barcelona,1,2:2,LA,22',0:1,Linksschuss
+2242853,2012,LaLiga,7,A,Real Madrid,6,FC Barcelona,1,2:2,LA,66',2:2,Rechtsschuss
+2242854,2012,LaLiga,8,H,Real Madrid,6,Celta Vigo,13,2:0,LA,67',2:0,Elfmeter
+2262193,2012,UEFA Champions League,Gruppenphase,A,Real Madrid,,Borussia Dortmund,,2:1,LA,38',1:1,Rechtsschuss
+2242888,2012,LaLiga,9,A,Real Madrid,5,RCD Mallorca,8,0:5,LA,22',0:2,Rechtsschuss
+2242888,2012,LaLiga,9,A,Real Madrid,5,RCD Mallorca,8,0:5,LA,73',0:4,Rechtsschuss
+2242915,2012,LaLiga,11,A,Real Madrid,3,UD Levante,6,1:2,MS,21',0:1,Rechtsschuss
+2243042,2012,LaLiga,14,H,Real Madrid,3,Atlético Madrid,2,2:0,LA,16',1:0,Direkter Freistoß
+2262234,2012,UEFA Champions League,Gruppenphase,H,Real Madrid,,Ajax Amsterdam,,4:1,LA,13',1:0,Rechtsschuss
+2282714,2012,Copa del Rey,Achtelfinale,A,Real Madrid,,Celta Vigo,,2:1,LA,87',2:1,Linksschuss
+2243056,2012,LaLiga,16,H,Real Madrid,3,Espanyol Barcelona,19,2:2,MS,45',1:1,Rechtsschuss
+2243047,2012,LaLiga,18,H,Real Madrid,3,Real Sociedad San Sebastián,7,4:3,LA,68',3:2,Linksschuss
+2243047,2012,LaLiga,18,H,Real Madrid,3,Real Sociedad San Sebastián,7,4:3,LA,70',4:2,Direkter Freistoß
+2282723,2012,Copa del Rey,Achtelfinale,H,Real Madrid,,Celta Vigo,,4:0,LA,2',1:0,Rechtsschuss
+2282723,2012,Copa del Rey,Achtelfinale,H,Real Madrid,,Celta Vigo,,4:0,LA,24',2:0,Linksschuss
+2282723,2012,Copa del Rey,Achtelfinale,H,Real Madrid,,Celta Vigo,,4:0,LA,87',3:0,Linksschuss
+2243082,2012,LaLiga,20,A,Real Madrid,3,FC Valencia,8,0:5,LA,35',0:3,Linksschuss
+2243082,2012,LaLiga,20,A,Real Madrid,3,FC Valencia,8,0:5,LA,41',0:4,Rechtsschuss
+2243104,2012,LaLiga,21,H,Real Madrid,3,FC Getafe,11,4:0,LA,62',2:0,Linksschuss
+2243104,2012,LaLiga,21,H,Real Madrid,3,FC Getafe,11,4:0,LA,65',3:0,Kopfball
+2243104,2012,LaLiga,21,H,Real Madrid,3,FC Getafe,11,4:0,LA,72',4:0,Elfmeter
+2243125,2012,LaLiga,23,H,Real Madrid,3,FC Sevilla,10,4:1,LA,26',2:0,Linksschuss
+2243125,2012,LaLiga,23,H,Real Madrid,3,FC Sevilla,10,4:1,LA,46',3:0,Linksschuss
+2243125,2012,LaLiga,23,H,Real Madrid,3,FC Sevilla,10,4:1,LA,59',4:0,Rechtsschuss
+2284450,2012,UEFA Champions League,Achtelfinale,H,Real Madrid,,Manchester United,,1:1,LA,30',1:1,Kopfball
+2288676,2012,Copa del Rey,Halbfinale,A,Real Madrid,,FC Barcelona,,1:3,LA,12',0:1,Elfmeter
+2288676,2012,Copa del Rey,Halbfinale,A,Real Madrid,,FC Barcelona,,1:3,LA,57',0:2,Linksschuss
+2284451,2012,UEFA Champions League,Achtelfinale,A,Real Madrid,,Manchester United,,1:2,LA,69',1:2,Rechtsschuss
+2243154,2012,LaLiga,27,A,Real Madrid,3,Celta Vigo,18,1:2,LA,61',0:1,Linksschuss
+2243154,2012,LaLiga,27,A,Real Madrid,3,Celta Vigo,18,1:2,LA,71',1:2,Elfmeter
+2243166,2012,LaLiga,28,H,Real Madrid,2,RCD Mallorca,18,5:2,LA,52',2:2,Kopfball
+2243177,2012,LaLiga,29,A,Real Madrid,2,Real Saragossa ,17,1:1,LA,38',1:1,Distanzschuss
+2301898,2012,UEFA Champions League,Viertelfinale,H,Real Madrid,,Galatasaray,,3:0,LA,9',1:0,Linksschuss
+2243189,2012,LaLiga,30,H,Real Madrid,2,UD Levante,10,5:1,MS,84',3:1,Rechtsschuss
+2301902,2012,UEFA Champions League,Viertelfinale,A,Real Madrid,,Galatasaray,,3:2,LA,8',0:1,Rechtsschuss
+2301902,2012,UEFA Champions League,Viertelfinale,A,Real Madrid,,Galatasaray,,3:2,LA,90'+2,3:2,Rechtsschuss
+2243194,2012,LaLiga,31,A,Real Madrid,2,Athletic Bilbao,13,0:3,LA,2',0:1,Direkter Freistoß
+2243194,2012,LaLiga,31,A,Real Madrid,2,Athletic Bilbao,13,0:3,LA,68',0:2,Kopfball
+2312109,2012,UEFA Champions League,Halbfinale,A,Real Madrid,,Borussia Dortmund,,4:1,LA,43',1:1,Rechtsschuss
+2242938,2012,LaLiga,34,H,Real Madrid,2,Real Valladolid,12,4:3,LA,32',2:1,Kopfball
+2242938,2012,LaLiga,34,H,Real Madrid,2,Real Valladolid,12,4:3,LA,70',4:2,Kopfball
+2242976,2012,LaLiga,36,H,Real Madrid,2,FC Málaga,6,6:2,LA,26',2:1,Rechtsschuss
+2299544,2012,Copa del Rey,Finale,A,Real Madrid,,Atlético Madrid,,2:1  n.V.,LA,14',0:1,Kopfball
+2341065,2013,LaLiga,3,H,Real Madrid,5,Athletic Bilbao,3,3:1,LA,45',2:0,Kopfball
+2341094,2013,LaLiga,4,A,Real Madrid,4,FC Villarreal,3,2:2,LA,64',1:2,Rechtsschuss
+2367029,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,Galatasaray,,1:6,LA,63',0:3,Linksschuss
+2367029,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,Galatasaray,,1:6,LA,66',0:4,Abstauber
+2367029,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,Galatasaray,,1:6,LA,90',1:6,Linksschuss
+2341081,2013,LaLiga,5,H,Real Madrid,4,FC Getafe,14,4:1,LA,34',2:1,Elfmeter
+2341081,2013,LaLiga,5,H,Real Madrid,4,FC Getafe,14,4:1,LA,90',4:1,Rechtsschuss
+2341189,2013,LaLiga,6,A,Real Madrid,3,FC Elche,19,1:2,LA,51',0:1,Direkter Freistoß
+2341189,2013,LaLiga,6,A,Real Madrid,3,FC Elche,19,1:2,LA,90'+6,1:2,Elfmeter
+2367112,2013,UEFA Champions League,Gruppenphase,H,Real Madrid,,FC Kopenhagen,,4:0,LA,21',1:0,Kopfball
+2367112,2013,UEFA Champions League,Gruppenphase,H,Real Madrid,,FC Kopenhagen,,4:0,LA,65',2:0,Kopfball
+2341174,2013,LaLiga,8,A,Real Madrid,3,UD Levante,9,2:3,LA,90'+4,2:3,Rechtsschuss
+2341153,2013,LaLiga,9,H,Real Madrid,3,FC Málaga,10,2:0,LA,90'+1,2:0,Elfmeter
+2368441,2013,UEFA Champions League,Gruppenphase,H,Real Madrid,,Juventus Turin,,2:1,LA,4',1:0,Rechtsschuss
+2368441,2013,UEFA Champions League,Gruppenphase,H,Real Madrid,,Juventus Turin,,2:1,LA,29',2:1,Elfmeter
+2341139,2013,LaLiga,11,H,Real Madrid,3,FC Sevilla,11,7:3,LA,31',3:0,Elfmeter
+2341139,2013,LaLiga,11,H,Real Madrid,3,FC Sevilla,11,7:3,LA,60',5:2,Rechtsschuss
+2341139,2013,LaLiga,11,H,Real Madrid,3,FC Sevilla,11,7:3,LA,71',6:3,Rechtsschuss
+2341248,2013,LaLiga,12,A,Real Madrid,3,Rayo Vallecano,19,2:3,LA,3',0:1,Rechtsschuss
+2341248,2013,LaLiga,12,A,Real Madrid,3,Rayo Vallecano,19,2:3,LA,48',0:3,Rechtsschuss
+2368448,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,Juventus Turin,,2:2,LA,52',1:1,Rechtsschuss
+2341218,2013,LaLiga,13,H,Real Madrid,3,Real Sociedad San Sebastián,7,5:1,LA,12',1:0,Rechtsschuss
+2341218,2013,LaLiga,13,H,Real Madrid,3,Real Sociedad San Sebastián,7,5:1,LA,27',3:0,Elfmeter
+2341218,2013,LaLiga,13,H,Real Madrid,3,Real Sociedad San Sebastián,7,5:1,LA,76',5:1,Direkter Freistoß
+2341246,2013,LaLiga,14,A,Real Madrid,3,UD Almería,17,0:5,LA,3',0:1,Linksschuss
+2368478,2013,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Kopenhagen,,0:2,LA,48',0:2,Rechtsschuss
+2341211,2013,LaLiga,17,A,Real Madrid,3,FC Valencia,9,2:3,LA,40',1:2,Kopfball
+2341054,2013,LaLiga,18,H,Real Madrid,3,Celta Vigo,15,3:0,LA,82',2:0,Rechtsschuss
+2341054,2013,LaLiga,18,H,Real Madrid,3,Celta Vigo,15,3:0,LA,90',3:0,Rechtsschuss
+2396429,2013,Copa del Rey,Achtelfinale,A,Real Madrid,,CA Osasuna,,0:2,LA,22',0:1,Direkter Freistoß
+2341059,2013,LaLiga,20,A,Real Madrid,3,Real Betis Sevilla,20,0:5,LA,10',0:1,Rechtsschuss
+2341034,2013,LaLiga,21,H,Real Madrid,3,FC Granada,11,2:0,LA,57',1:0,Rechtsschuss
+2423575,2013,Copa del Rey,Halbfinale,A,Real Madrid,,Atlético Madrid,,0:2,LA,6',0:1,Elfmeter
+2423575,2013,Copa del Rey,Halbfinale,A,Real Madrid,,Atlético Madrid,,0:2,LA,15',0:2,Elfmeter
+2385042,2013,UEFA Champions League,Achtelfinale,A,Real Madrid,,FC Schalke 04,,1:6,LA,52',0:3,Linksschuss
+2385042,2013,UEFA Champions League,Achtelfinale,A,Real Madrid,,FC Schalke 04,,1:6,LA,89',0:6,Rechtsschuss
+2341103,2013,LaLiga,26,A,Real Madrid,1,Atlético Madrid,3,2:2,LA,82',2:2,Rechtsschuss
+2341093,2013,LaLiga,27,H,Real Madrid,1,UD Levante,8,3:0,LA,11',1:0,Kopfball
+2341327,2013,LaLiga,28,A,Real Madrid,1,FC Málaga,14,0:1,LA,23',0:1,Rechtsschuss
+2385050,2013,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Schalke 04,,3:1,LA,22',1:0,Rechtsschuss
+2385050,2013,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Schalke 04,,3:1,LA,74',2:1,Rechtsschuss
+2341314,2013,LaLiga,29,H,Real Madrid,1,FC Barcelona,3,3:4,LA,55',3:2,Elfmeter
+2341292,2013,LaLiga,30,A,Real Madrid,2,FC Sevilla,5,2:1,LA,14',0:1,Direkter Freistoß
+2341302,2013,LaLiga,31,H,Real Madrid,3,Rayo Vallecano,12,5:0,LA,15',1:0,Rechtsschuss
+2449279,2013,UEFA Champions League,Viertelfinale,H,Real Madrid,,Borussia Dortmund,,3:0,LA,57',3:0,Linksschuss
+2341363,2013,LaLiga,35,H,Real Madrid,3,CA Osasuna,15,4:0,LA,6',1:0,Distanzschuss
+2341363,2013,LaLiga,35,H,Real Madrid,3,CA Osasuna,15,4:0,LA,52',2:0,Distanzschuss
+2452864,2013,UEFA Champions League,Halbfinale,A,Real Madrid,,FC Bayern München,,0:4,MS,34',0:3,Kontertor
+2452864,2013,UEFA Champions League,Halbfinale,A,Real Madrid,,FC Bayern München,,0:4,MS,90',0:4,Direkter Freistoß
+2341340,2013,LaLiga,36,H,Real Madrid,3,FC Valencia,8,2:2,LA,90',2:2,Rechtsschuss
+2456475,2013,UEFA Champions League,Finale,H,Real Madrid,,Atlético Madrid,,4:1  n.V.,LA,120',4:1,Elfmeter
+2483945,2014,UEFA Super Cup,Finale,H,Real Madrid,,FC Sevilla,,2:0,LA,30',1:0,Rechtsschuss
+2483945,2014,UEFA Super Cup,Finale,H,Real Madrid,,FC Sevilla,,2:0,LA,49',2:0,Linksschuss
+2475189,2014,LaLiga,1,H,Real Madrid,2,FC Córdoba,20,2:0,LA,90',2:0,Rechtsschuss
+2475204,2014,LaLiga,3,H,Real Madrid,12,Atlético Madrid,6,1:2,LA,25',1:1,Elfmeter
+2490845,2014,UEFA Champions League,Gruppenphase,H,Real Madrid,,FC Basel 1893,,5:1,LA,31',3:0,Rechtsschuss
+2475215,2014,LaLiga,4,A,Real Madrid,13,Deportivo La Coruna ,9,2:8,RA,29',0:1,Kopfball
+2475215,2014,LaLiga,4,A,Real Madrid,13,Deportivo La Coruna ,9,2:8,RA,41',0:3,Linksschuss
+2475215,2014,LaLiga,4,A,Real Madrid,13,Deportivo La Coruna ,9,2:8,RA,78',1:6,Linksschuss
+2475225,2014,LaLiga,5,H,Real Madrid,7,FC Elche,12,5:1,MS,28',2:1,Elfmeter
+2475225,2014,LaLiga,5,H,Real Madrid,7,FC Elche,12,5:1,MS,32',3:1,Kopfball
+2475225,2014,LaLiga,5,H,Real Madrid,7,FC Elche,12,5:1,MS,80',4:1,Elfmeter
+2475225,2014,LaLiga,5,H,Real Madrid,7,FC Elche,12,5:1,MS,90',5:1,Rechtsschuss
+2475236,2014,LaLiga,6,A,Real Madrid,5,FC Villarreal,7,0:2,MS,40',0:2,Rechtsschuss
+2495305,2014,UEFA Champions League,Gruppenphase,A,Real Madrid,,Ludogorets Razgrad,,1:2,MS,25',1:1,Elfmeter
+2475246,2014,LaLiga,7,H,Real Madrid,5,Athletic Bilbao,16,5:0,LA,3',1:0,Kopfball
+2475246,2014,LaLiga,7,H,Real Madrid,5,Athletic Bilbao,16,5:0,LA,55',3:0,Rechtsschuss
+2475246,2014,LaLiga,7,H,Real Madrid,5,Athletic Bilbao,16,5:0,LA,89',5:0,abgefälschter Torschuss
+2475257,2014,LaLiga,8,A,Real Madrid,4,UD Levante,17,0:5,MS,13',0:1,Elfmeter
+2475257,2014,LaLiga,8,A,Real Madrid,4,UD Levante,17,0:5,MS,61',0:3,Rechtsschuss
+2495320,2014,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Liverpool,,0:3,MS,23',0:1,Rechtsschuss
+2475267,2014,LaLiga,9,H,Real Madrid,3,FC Barcelona,1,3:1,MS,35',1:1,Elfmeter
+2475278,2014,LaLiga,10,A,Real Madrid,3,FC Granada,13,0:4,MS,2',0:1,Rechtsschuss
+2475288,2014,LaLiga,11,H,Real Madrid,1,Rayo Vallecano,11,5:1,MS,83',5:1,Rechtsschuss
+2475299,2014,LaLiga,12,A,Real Madrid,1,SD Eibar,10,0:4,MS,43',0:2,Rechtsschuss
+2475299,2014,LaLiga,12,A,Real Madrid,1,SD Eibar,10,0:4,MS,83',0:4,Elfmeter
+2495353,2014,UEFA Champions League,Gruppenphase,A,Real Madrid,,FC Basel 1893,,0:1,LA,35',0:1,Linksschuss
+2475319,2014,LaLiga,14,H,Real Madrid,1,Celta Vigo,8,3:0,MS,36',1:0,Elfmeter
+2475319,2014,LaLiga,14,H,Real Madrid,1,Celta Vigo,8,3:0,MS,65',2:0,Rechtsschuss
+2475319,2014,LaLiga,14,H,Real Madrid,1,Celta Vigo,8,3:0,MS,81',3:0,Linksschuss
+2495361,2014,UEFA Champions League,Gruppenphase,H,Real Madrid,,Ludogorets Razgrad,,4:0,MS,20',1:0,Elfmeter
+2475328,2014,LaLiga,15,A,Real Madrid,1,UD Almería,20,1:4,MS,81',1:3,Rechtsschuss
+2475328,2014,LaLiga,15,A,Real Madrid,1,UD Almería,20,1:4,MS,89',1:4,Rechtsschuss
+2475347,2014,LaLiga,17,A,Real Madrid,1,FC Valencia,4,2:1,LA,14',0:1,Elfmeter
+2518532,2014,Copa del Rey,Achtelfinale,H,Real Madrid,,Atlético Madrid,,2:2,MS,54',2:2,Kopfball
+2475366,2014,LaLiga,19,A,Real Madrid,1,FC Getafe,14,0:3,LA,63',0:1,Linksschuss
+2475366,2014,LaLiga,19,A,Real Madrid,1,FC Getafe,14,0:3,LA,79',0:3,Kopfball
+2517516,2014,UEFA Champions League,Achtelfinale,A,Real Madrid,,FC Schalke 04,,0:2,LA,26',0:1,Kopfball
+2475415,2014,LaLiga,24,A,Real Madrid,1,FC Elche,16,0:2,MS,69',0:2,Kopfball
+2475426,2014,LaLiga,25,H,Real Madrid,1,FC Villarreal,6,1:1,MS,52',1:0,Elfmeter
+2517524,2014,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Schalke 04,,3:4,MS,25',1:1,Kopfball
+2517524,2014,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Schalke 04,,3:4,MS,45',2:2,Kopfball
+2475457,2014,LaLiga,28,A,Real Madrid,2,FC Barcelona,1,2:1,LA,31',1:1,Rechtsschuss
+2475468,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,30',2:0,Rechtsschuss
+2475468,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,36',3:0,Rechtsschuss
+2475468,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,38',4:0,Distanzschuss
+2475468,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,54',6:0,Kopfball
+2475468,2014,LaLiga,29,H,Real Madrid,2,FC Granada,18,9:1,MS,90',9:1,Kopfball
+2475478,2014,LaLiga,30,A,Real Madrid,2,Rayo Vallecano,9,0:2,LA,68',0:1,Kopfball
+2475489,2014,LaLiga,31,H,Real Madrid,2,SD Eibar,14,3:0,LA,21',1:0,Direkter Freistoß
+2475499,2014,LaLiga,32,H,Real Madrid,2,FC Málaga,7,3:1,MS,90'+2,3:1,Linksschuss
+2475528,2014,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:3,MS,36',0:1,Kopfball
+2475528,2014,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:3,MS,37',0:2,Rechtsschuss
+2475528,2014,LaLiga,35,A,Real Madrid,2,FC Sevilla,5,2:3,MS,69',1:3,Kopfball
+2560715,2014,UEFA Champions League,Halbfinale,A,Real Madrid,,Juventus Turin,,2:1,MS,27',1:1,Kopfball
+2560718,2014,UEFA Champions League,Halbfinale,H,Real Madrid,,Juventus Turin,,1:1,LA,23',1:0,Elfmeter
+2475547,2014,LaLiga,37,A,Real Madrid,2,Espanyol Barcelona,8,1:4,LA,59',0:1,Linksschuss
+2475547,2014,LaLiga,37,A,Real Madrid,2,Espanyol Barcelona,8,1:4,LA,83',1:3,Rechtsschuss
+2475547,2014,LaLiga,37,A,Real Madrid,2,Espanyol Barcelona,8,1:4,LA,90'+1,1:4,Kopfball
+2475556,2014,LaLiga,38,H,Real Madrid,2,FC Getafe,14,7:3,LA,13',1:0,Kopfball
+2475556,2014,LaLiga,38,H,Real Madrid,2,FC Getafe,14,7:3,LA,32',2:2,Direkter Freistoß
+2475556,2014,LaLiga,38,H,Real Madrid,2,FC Getafe,14,7:3,LA,34',3:2,Elfmeter
+2594497,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,7',0:1,Rechtsschuss
+2594497,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,17',0:2,Elfmeter
+2594497,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,20',0:3,Linksschuss
+2594497,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,61',0:5,Rechtsschuss
+2594497,2015,LaLiga,3,A,Real Madrid,5,Espanyol Barcelona,8,0:6,LA,81',0:6,Rechtsschuss
+2618536,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Shakhtar Donetsk,,4:0,LA,56',2:0,Elfmeter
+2618536,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Shakhtar Donetsk,,4:0,LA,64',3:0,Elfmeter
+2618536,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Shakhtar Donetsk,,4:0,LA,82',4:0,Kopfball
+2618566,2015,UEFA Champions League,Gruppenphase,A,Real Madrid,,Malmö FF,,0:2,LA,29',0:1,Rechtsschuss
+2618566,2015,UEFA Champions League,Gruppenphase,A,Real Madrid,,Malmö FF,,0:2,LA,90',0:2,Linksschuss
+2594545,2015,LaLiga,8,H,Real Madrid,3,UD Levante,18,3:0,MS,30',2:0,Rechtsschuss
+2594554,2015,LaLiga,9,A,Real Madrid,2,Celta Vigo,1,1:3,MS,8',0:1,Rechtsschuss
+2594564,2015,LaLiga,10,H,Real Madrid,1,UD Las Palmas,18,3:1,MS,14',2:0,Kopfball
+2618610,2015,UEFA Champions League,Gruppenphase,A,Real Madrid,,Shakhtar Donetsk,,3:4,MS,18',0:1,Kopfball
+2618610,2015,UEFA Champions League,Gruppenphase,A,Real Madrid,,Shakhtar Donetsk,,3:4,MS,70',0:4,Rechtsschuss
+2594592,2015,LaLiga,13,A,Real Madrid,3,SD Eibar,6,0:2,MS,82',0:2,Elfmeter
+2594602,2015,LaLiga,14,H,Real Madrid,3,FC Getafe,13,4:1,LA,38',4:0,Rechtsschuss
+2618627,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Malmö FF,,8:0,LA,39',3:0,Direkter Freistoß
+2618627,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Malmö FF,,8:0,LA,47',4:0,Abstauber
+2618627,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Malmö FF,,8:0,LA,50',5:0,Rechtsschuss
+2618627,2015,UEFA Champions League,Gruppenphase,H,Real Madrid,,Malmö FF,,8:0,LA,59',6:0,Rechtsschuss
+2594621,2015,LaLiga,16,H,Real Madrid,3,Rayo Vallecano,17,10:2,LA,30',3:2,Elfmeter
+2594621,2015,LaLiga,16,H,Real Madrid,3,Rayo Vallecano,17,10:2,LA,54',6:2,Kopfball
+2594631,2015,LaLiga,17,H,Real Madrid,3,Real Sociedad San Sebastián,14,3:1,LA,42',1:0,Elfmeter
+2594631,2015,LaLiga,17,H,Real Madrid,3,Real Sociedad San Sebastián,14,3:1,LA,68',2:1,Linksschuss
+2594669,2015,LaLiga,20,H,Real Madrid,3,Sporting Gijón,19,5:1,LA,9',2:0,Linksschuss
+2594669,2015,LaLiga,20,H,Real Madrid,3,Sporting Gijón,19,5:1,LA,18',4:0,Linksschuss
+2594687,2015,LaLiga,22,H,Real Madrid,3,Espanyol Barcelona,13,6:0,LA,12',2:0,Elfmeter
+2594687,2015,LaLiga,22,H,Real Madrid,3,Espanyol Barcelona,13,6:0,LA,45',4:0,Linksschuss
+2594687,2015,LaLiga,22,H,Real Madrid,3,Espanyol Barcelona,13,6:0,LA,82',5:0,Kopfball
+2594706,2015,LaLiga,24,H,Real Madrid,3,Athletic Bilbao,6,4:2,LA,3',1:0,Rechtsschuss
+2594706,2015,LaLiga,24,H,Real Madrid,3,Athletic Bilbao,6,4:2,LA,87',4:1,Rechtsschuss
+2645807,2015,UEFA Champions League,Achtelfinale,A,Real Madrid,,AS Rom,,0:2,LA,57',0:1,Rechtsschuss
+2594716,2015,LaLiga,25,A,Real Madrid,3,FC Málaga,10,1:1,LA,33',0:1,Kopfball
+2594735,2015,LaLiga,27,A,Real Madrid,3,UD Levante,20,1:3,LA,34',0:1,Elfmeter
+2594744,2015,LaLiga,28,H,Real Madrid,3,Celta Vigo,6,7:1,LA,50',2:0,Distanzschuss
+2594744,2015,LaLiga,28,H,Real Madrid,3,Celta Vigo,6,7:1,LA,58',3:0,Direkter Freistoß
+2594744,2015,LaLiga,28,H,Real Madrid,3,Celta Vigo,6,7:1,LA,64',4:1,Rechtsschuss
+2594744,2015,LaLiga,28,H,Real Madrid,3,Celta Vigo,6,7:1,LA,76',5:1,Kopfball
+2645815,2015,UEFA Champions League,Achtelfinale,H,Real Madrid,,AS Rom,,2:0,MS,64',1:0,Rechtsschuss
+2594763,2015,LaLiga,30,H,Real Madrid,3,FC Sevilla,5,4:0,LA,64',2:0,Linksschuss
+2594773,2015,LaLiga,31,A,Real Madrid,3,FC Barcelona,1,1:2,LA,85',1:2,Rechtsschuss
+2594782,2015,LaLiga,32,H,Real Madrid,3,SD Eibar,10,4:0,MS,19',3:0,Rechtsschuss
+2675297,2015,UEFA Champions League,Viertelfinale,H,Real Madrid,,VfL Wolfsburg,,3:0,LA,16',1:0,Rechtsschuss
+2675297,2015,UEFA Champions League,Viertelfinale,H,Real Madrid,,VfL Wolfsburg,,3:0,LA,17',2:0,Kopfball
+2675297,2015,UEFA Champions League,Viertelfinale,H,Real Madrid,,VfL Wolfsburg,,3:0,LA,77',3:0,Direkter Freistoß
+2594792,2015,LaLiga,33,A,Real Madrid,3,FC Getafe,18,1:5,LA,90'+2,1:5,Linksschuss
+2594832,2015,LaLiga,37,H,Real Madrid,3,FC Valencia,9,3:2,LA,26',1:0,Rechtsschuss
+2594832,2015,LaLiga,37,H,Real Madrid,3,FC Valencia,9,3:2,LA,59',3:1,Linksschuss
+2594842,2015,LaLiga,38,A,Real Madrid,2,Deportivo La Coruna ,13,0:2,LA,8',0:1,Linksschuss
+2594842,2015,LaLiga,38,A,Real Madrid,2,Deportivo La Coruna ,13,0:2,LA,25',0:2,Kopfball
+2718728,2016,LaLiga,3,H,Real Madrid,3,CA Osasuna,15,5:2,LA,6',1:0,Rechtsschuss
+2754187,2016,UEFA Champions League,Gruppenphase,H,Real Madrid,,Sporting Lissabon,,2:1,LA,89',1:1,Direkter Freistoß
+2754900,2016,UEFA Champions League,Gruppenphase,A,Real Madrid,,Borussia Dortmund,,2:2,LA,17',0:1,Rechtsschuss
+2718781,2016,LaLiga,8,A,Real Madrid,2,Real Betis Sevilla,15,1:6,LA,78',1:6,Rechtsschuss
+2718802,2016,LaLiga,10,A,Real Madrid,1,Deportivo Alavés,13,1:4,LA,17',1:1,Elfmeter
+2718802,2016,LaLiga,10,A,Real Madrid,1,Deportivo Alavés,13,1:4,LA,33',1:2,Rechtsschuss
+2718802,2016,LaLiga,10,A,Real Madrid,1,Deportivo Alavés,13,1:4,LA,88',1:4,Rechtsschuss
+2718823,2016,LaLiga,12,A,Real Madrid,1,Atlético Madrid,4,0:3,MS,23',0:1,Direkter Freistoß
+2718823,2016,LaLiga,12,A,Real Madrid,1,Atlético Madrid,4,0:3,MS,71',0:2,Elfmeter
+2718823,2016,LaLiga,12,A,Real Madrid,1,Atlético Madrid,4,0:3,MS,77',0:3,Rechtsschuss
+2718833,2016,LaLiga,13,H,Real Madrid,1,Sporting Gijón,18,2:1,LA,5',1:0,Elfmeter
+2718833,2016,LaLiga,13,H,Real Madrid,1,Sporting Gijón,18,2:1,LA,18',2:0,Kopfball
+2805576,2016,FIFA Klub-WM,Halbfinale,A,Real Madrid,,CF América,,0:2,LA,90'+3,0:2,Rechtsschuss
+2806749,2016,FIFA Klub-WM,Finale,H,Real Madrid,,Kashima Antlers,,4:2  n.V.,LA,60',2:2,Elfmeter
+2806749,2016,FIFA Klub-WM,Finale,H,Real Madrid,,Kashima Antlers,,4:2  n.V.,LA,97',3:2,Linksschuss
+2806749,2016,FIFA Klub-WM,Finale,H,Real Madrid,,Kashima Antlers,,4:2  n.V.,LA,104',4:2,Linksschuss
+2718875,2016,LaLiga,17,H,Real Madrid,1,FC Granada,19,5:0,LA,27',3:0,Kopfball
+2718886,2016,LaLiga,18,A,Real Madrid,1,FC Sevilla,2,2:1,MS,67',0:1,Elfmeter
+2814843,2016,Copa del Rey,Viertelfinale,A,Real Madrid,,Celta Vigo,,2:2,MS,62',1:1,Direkter Freistoß
+2718898,2016,LaLiga,20,H,Real Madrid,1,Real Sociedad San Sebastián,5,3:0,LA,51',2:0,Rechtsschuss
+2718918,2016,LaLiga,22,A,Real Madrid,1,CA Osasuna,20,1:3,MS,24',0:1,Rechtsschuss
+2718865,2016,LaLiga,16,A,Real Madrid,1,FC Valencia,17,2:1,LA,44',2:1,Kopfball
+2718939,2016,LaLiga,24,A,Real Madrid,1,FC Villarreal,6,2:3,LA,74',2:2,Elfmeter
+2718950,2016,LaLiga,25,H,Real Madrid,1,UD Las Palmas,12,3:3,LA,86',2:3,Elfmeter
+2718950,2016,LaLiga,25,H,Real Madrid,1,UD Las Palmas,12,3:3,LA,89',3:3,Kopfball
+2718971,2016,LaLiga,27,H,Real Madrid,1,Real Betis Sevilla,14,2:1,LA,41',1:1,Kopfball
+2840937,2016,UEFA Champions League,Viertelfinale,A,Real Madrid,,FC Bayern München,,1:2,LA,47',1:1,Rechtsschuss
+2840937,2016,UEFA Champions League,Viertelfinale,A,Real Madrid,,FC Bayern München,,1:2,LA,77',1:2,Rechtsschuss
+2840941,2016,UEFA Champions League,Viertelfinale,H,Real Madrid,,FC Bayern München,,4:2  n.V.,MS,76',1:1,Kopfball
+2840941,2016,UEFA Champions League,Viertelfinale,H,Real Madrid,,FC Bayern München,,4:2  n.V.,MS,105',2:2,Linksschuss
+2840941,2016,UEFA Champions League,Viertelfinale,H,Real Madrid,,FC Bayern München,,4:2  n.V.,MS,109',3:2,Rechtsschuss
+2719055,2016,LaLiga,35,H,Real Madrid,1,FC Valencia,12,2:1,LA,27',1:0,Kopfball
+2849342,2016,UEFA Champions League,Halbfinale,H,Real Madrid,,Atlético Madrid,,3:0,MS,10',1:0,Kopfball
+2849342,2016,UEFA Champions League,Halbfinale,H,Real Madrid,,Atlético Madrid,,3:0,MS,73',2:0,Rechtsschuss
+2849342,2016,UEFA Champions League,Halbfinale,H,Real Madrid,,Atlético Madrid,,3:0,MS,86',3:0,Rechtsschuss
+2719076,2016,LaLiga,37,H,Real Madrid,1,FC Sevilla,4,4:1,LA,23',2:0,Rechtsschuss
+2719076,2016,LaLiga,37,H,Real Madrid,1,FC Sevilla,4,4:1,LA,78',3:1,Linksschuss
+2718908,2016,LaLiga,21,A,Real Madrid,1,Celta Vigo,8,1:4,MS,10',0:1,Linksschuss
+2718908,2016,LaLiga,21,A,Real Madrid,1,Celta Vigo,8,1:4,MS,48',0:2,Linksschuss
+2719086,2016,LaLiga,38,A,Real Madrid,1,FC Málaga,11,0:2,MS,2',0:1,Rechtsschuss
+2853591,2016,UEFA Champions League,Finale,A,Real Madrid,,Juventus Turin,,1:4,MS,20',0:1,Rechtsschuss
+2853591,2016,UEFA Champions League,Finale,A,Real Madrid,,Juventus Turin,,1:4,MS,64',1:3,Rechtsschuss
+2878318,2017,Supercopa,Finale,A,Real Madrid,,FC Barcelona,,1:3,MS,80',1:2,Rechtsschuss
+2917371,2017,UEFA Champions League,Gruppenphase,H,Real Madrid,,APOEL Nikosia,,3:0,MS,12',1:0,Kontertor
+2917371,2017,UEFA Champions League,Gruppenphase,H,Real Madrid,,APOEL Nikosia,,3:0,MS,51',2:0,Elfmeter
+2917379,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,Borussia Dortmund,,1:3,MS,49',0:2,Linksschuss
+2917379,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,Borussia Dortmund,,1:3,MS,79',1:3,Rechtsschuss
+2899614,2017,LaLiga,8,A,Real Madrid,5,FC Getafe,12,1:2,MS,85',1:2,Rechtsschuss
+2917404,2017,UEFA Champions League,Gruppenphase,H,Real Madrid,,Tottenham Hotspur,,1:1,LA,43',1:1,Elfmeter
+2917420,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,Tottenham Hotspur,,3:1,LA,80',3:1,Rechtsschuss
+2917435,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,APOEL Nikosia,,0:6,LA,49',0:5,Kopfball
+2917435,2017,UEFA Champions League,Gruppenphase,A,Real Madrid,,APOEL Nikosia,,0:6,LA,54',0:6,Linksschuss
+2899672,2017,LaLiga,13,H,Real Madrid,3,FC Málaga,18,3:2,MS,76',3:2,Elfmeternachschuss
+2917451,2017,UEFA Champions League,Gruppenphase,H,Real Madrid,,Borussia Dortmund,,3:2,LA,12',2:0,Rechtsschuss
+2899693,2017,LaLiga,15,H,Real Madrid,4,FC Sevilla,5,5:0,MS,23',2:0,Rechtsschuss
+2899693,2017,LaLiga,15,H,Real Madrid,4,FC Sevilla,5,5:0,MS,31',3:0,Elfmeter
+2981467,2017,FIFA Klub-WM,Halbfinale,A,Real Madrid,,Al-Jazira Club,,1:2,LA,53',1:1,Rechtsschuss
+2982738,2017,FIFA Klub-WM,Finale,H,Real Madrid,,Grêmio Porto Alegre,,1:0,LA,53',1:0,Direkter Freistoß
+2899737,2017,LaLiga,20,H,Real Madrid,4,Deportivo La Coruna ,18,7:1,LA,78',5:1,Linksschuss
+2899737,2017,LaLiga,20,H,Real Madrid,4,Deportivo La Coruna ,18,7:1,LA,84',6:1,Kopfball
+2899758,2017,LaLiga,21,A,Real Madrid,4,FC Valencia,3,1:4,LA,16',0:1,Elfmeter
+2899758,2017,LaLiga,21,A,Real Madrid,4,FC Valencia,3,1:4,LA,38',0:2,Elfmeter
+2899766,2017,LaLiga,23,H,Real Madrid,3,Real Sociedad San Sebastián,14,5:2,MS,27',2:0,Rechtsschuss
+2899766,2017,LaLiga,23,H,Real Madrid,3,Real Sociedad San Sebastián,14,5:2,MS,37',4:0,Kopfball
+2899766,2017,LaLiga,23,H,Real Madrid,3,Real Sociedad San Sebastián,14,5:2,MS,80',5:1,Abstauber
+2981997,2017,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Paris Saint-Germain,,3:1,LA,45',1:1,Elfmeter
+2981997,2017,UEFA Champions League,Achtelfinale,H,Real Madrid,,FC Paris Saint-Germain,,3:1,LA,83',2:1,Abstauber
+2899768,2017,LaLiga,24,A,Real Madrid,3,Real Betis Sevilla,8,3:5,MS,65',2:4,Rechtsschuss
+2899783,2017,LaLiga,25,H,Real Madrid,3,Deportivo Alavés,15,4:0,MS,44',1:0,Linksschuss
+2899783,2017,LaLiga,25,H,Real Madrid,3,Deportivo Alavés,15,4:0,MS,61',3:0,Rechtsschuss
+2899817,2017,LaLiga,27,H,Real Madrid,3,FC Getafe,10,3:1,MS,45'+1,2:0,Linksschuss
+2899817,2017,LaLiga,27,H,Real Madrid,3,FC Getafe,10,3:1,MS,78',3:1,Kopfball
+2982005,2017,UEFA Champions League,Achtelfinale,A,Real Madrid,,FC Paris Saint-Germain,,1:2,MS,51',0:1,Kopfball
+2899832,2017,LaLiga,28,A,Real Madrid,3,SD Eibar,8,1:2,MS,33',0:1,Rechtsschuss
+2899832,2017,LaLiga,28,A,Real Madrid,3,SD Eibar,8,1:2,MS,84',1:2,Kopfball
+2899815,2017,LaLiga,29,H,Real Madrid,3,FC Girona,7,6:3,MS,11',1:0,Linksschuss
+2899815,2017,LaLiga,29,H,Real Madrid,3,FC Girona,7,6:3,MS,47',2:1,Linksschuss
+2899815,2017,LaLiga,29,H,Real Madrid,3,FC Girona,7,6:3,MS,64',4:1,Abstauber
+2899815,2017,LaLiga,29,H,Real Madrid,3,FC Girona,7,6:3,MS,90'+1,6:3,Rechtsschuss
+3018931,2017,UEFA Champions League,Viertelfinale,A,Real Madrid,,Juventus Turin,,0:3,MS,3',0:1,Rechtsschuss
+3018931,2017,UEFA Champions League,Viertelfinale,A,Real Madrid,,Juventus Turin,,0:3,MS,64',0:2,Rechtsschuss
+2899838,2017,LaLiga,31,H,Real Madrid,3,Atlético Madrid,2,1:1,MS,53',1:0,Rechtsschuss
+3018935,2017,UEFA Champions League,Viertelfinale,H,Real Madrid,,Juventus Turin,,1:3,MS,90'+7,1:3,Elfmeter
+2899884,2017,LaLiga,33,H,Real Madrid,3,Athletic Bilbao,13,1:1,MS,87',1:1,Rechtsschuss
+2899869,2017,LaLiga,36,A,Real Madrid,3,FC Barcelona,1,2:2,LA,14',1:1,Rechtsschuss
+2899917,2017,LaLiga,38,A,Real Madrid,3,FC Villarreal,5,2:2,MS,32',0:2,Kopfball
+3080937,2018,Serie A,4,H,Juventus Turin,1,US Sassuolo,3,2:1,MS,50',1:0,Abstauber
+3080937,2018,Serie A,4,H,Juventus Turin,1,US Sassuolo,3,2:1,MS,65',2:0,Linksschuss
+3080956,2018,Serie A,5,A,Juventus Turin,1,Frosinone Calcio,19,0:2,LA,81',0:1,Linksschuss
+3081041,2018,Serie A,8,A,Juventus Turin,1,Udinese Calcio,14,0:2,LA,37',0:2,Linksschuss
+3081047,2018,Serie A,9,H,Juventus Turin,1,Genua CFC,12,1:1,LA,18',1:0,Abstauber
+3081054,2018,Serie A,10,A,Juventus Turin,1,FC Empoli,18,1:2,MS,54',1:1,Elfmeter
+3081054,2018,Serie A,10,A,Juventus Turin,1,FC Empoli,18,1:2,MS,70',1:2,Rechtsschuss
+3098026,2018,UEFA Champions League,Gruppenphase,H,Juventus Turin,,Manchester United,,1:2,LA,65',1:0,Rechtsschuss
+3081146,2018,Serie A,12,A,Juventus Turin,1,AC Mailand,4,0:2,LA,81',0:2,Abstauber
+3081156,2018,Serie A,13,H,Juventus Turin,1,SPAL,15,2:0,MS,29',1:0,Linksschuss
+3081164,2018,Serie A,14,A,Juventus Turin,1,AC Florenz,9,0:3,LA,79',0:3,Elfmeter
+3081191,2018,Serie A,16,A,Juventus Turin,1,FC Turin,6,0:1,LA,70',0:1,Elfmeter
+3081202,2018,Serie A,18,A,Juventus Turin,1,Atalanta Bergamo,9,2:2,MS,78',2:2,Kopfball
+3081215,2018,Serie A,19,H,Juventus Turin,1,Sampdoria Genua,5,2:1,LA,2',1:0,Rechtsschuss
+3081215,2018,Serie A,19,H,Juventus Turin,1,Sampdoria Genua,5,2:1,LA,65',2:1,Elfmeter
+3122645,2018,Supercoppa Italiana,Finale,H,Juventus Turin,,AC Mailand,,1:0,MS,61',1:0,Kopfball
+3081237,2018,Serie A,21,A,Juventus Turin,1,Lazio Rom,6,1:2,LA,88',1:2,Elfmeter
+3081248,2018,Serie A,22,H,Juventus Turin,1,Parma Calcio 1913,12,3:3,LA,36',1:0,Rechtsschuss
+3081248,2018,Serie A,22,H,Juventus Turin,1,Parma Calcio 1913,12,3:3,LA,66',3:1,Kopfball
+3081257,2018,Serie A,23,A,Juventus Turin,1,US Sassuolo,11,0:3,LA,70',0:2,Kopfball
+3081265,2018,Serie A,24,H,Juventus Turin,1,Frosinone Calcio,19,3:0,LA,63',3:0,Rechtsschuss
+3135814,2018,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Atlético Madrid,,3:0,MS,27',1:0,Kopfball
+3135814,2018,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Atlético Madrid,,3:0,MS,49',2:0,Kopfball
+3135814,2018,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Atlético Madrid,,3:0,MS,86',3:0,Elfmeter
+3167761,2018,UEFA Champions League,Viertelfinale,A,Juventus Turin,,Ajax Amsterdam,,1:1,LA,45',0:1,Kopfball
+3167762,2018,UEFA Champions League,Viertelfinale,H,Juventus Turin,,Ajax Amsterdam,,1:2,LA,28',1:0,Kopfball
+3081365,2018,Serie A,34,A,Juventus Turin,1,Inter Mailand,3,1:1,MS,62',1:1,Linksschuss
+3081381,2018,Serie A,35,H,Juventus Turin,1,FC Turin,6,1:1,MS,84',1:1,Kopfball
+3229180,2019,Serie A,2,H,Juventus Turin,7,SSC Napoli,3,4:3,LA,62',3:0,Linksschuss
+3229199,2019,Serie A,4,H,Juventus Turin,3,Hellas Verona,11,2:1,LA,49',2:1,Elfmeter
+3229217,2019,Serie A,6,H,Juventus Turin,2,SPAL,19,2:0,MS,78',2:0,Kopfball
+3252168,2019,UEFA Champions League,Gruppenphase,H,Juventus Turin,,Bayer 04 Leverkusen,,3:0,MS,89',3:0,Rechtsschuss
+3229238,2019,Serie A,8,H,Juventus Turin,1,FC Bologna,12,2:1,MS,19',1:0,Rechtsschuss
+3229258,2019,Serie A,10,H,Juventus Turin,1,Genua CFC,17,2:1,MS,90'+6,2:1,Elfmeter
+3229302,2019,Serie A,14,H,Juventus Turin,1,US Sassuolo,11,2:2,MS,68',2:2,Elfmeter
+3229309,2019,Serie A,15,A,Juventus Turin,2,Lazio Rom,3,3:1,MS,25',0:1,Abstauber
+3252249,2019,UEFA Champions League,Gruppenphase,A,Juventus Turin,,Bayer 04 Leverkusen,,0:2,MS,75',0:1,Rechtsschuss
+3229322,2019,Serie A,16,H,Juventus Turin,2,Udinese Calcio,16,3:1,MS,9',1:0,Rechtsschuss
+3229322,2019,Serie A,16,H,Juventus Turin,2,Udinese Calcio,16,3:1,MS,37',2:0,Linksschuss
+3229332,2019,Serie A,17,A,Juventus Turin,1,Sampdoria Genua,15,1:2,LA,45',1:2,Kopfball
+3229340,2019,Serie A,18,H,Juventus Turin,1,Cagliari Calcio,6,4:0,MS,49',1:0,Rechtsschuss
+3229340,2019,Serie A,18,H,Juventus Turin,1,Cagliari Calcio,6,4:0,MS,67',2:0,Elfmeter
+3229340,2019,Serie A,18,H,Juventus Turin,1,Cagliari Calcio,6,4:0,MS,82',4:0,Linksschuss
+3229352,2019,Serie A,19,A,Juventus Turin,1,AS Rom,4,1:2,MS,10',0:2,Elfmeter
+3229360,2019,Serie A,20,H,Juventus Turin,1,Parma Calcio 1913,7,2:1,MS,43',1:0,abgefälschter Torschuss
+3229360,2019,Serie A,20,H,Juventus Turin,1,Parma Calcio 1913,7,2:1,MS,58',2:1,Rechtsschuss
+3305855,2019,Coppa Italia,Viertelfinale,H,Juventus Turin,,AS Rom,,3:1,LA,26',1:0,Linksschuss
+3229370,2019,Serie A,21,A,Juventus Turin,1,SSC Napoli,14,2:1,LA,90',2:1,Rechtsschuss
+3229377,2019,Serie A,22,H,Juventus Turin,1,AC Florenz,13,3:0,LA,40',1:0,Elfmeter
+3229377,2019,Serie A,22,H,Juventus Turin,1,AC Florenz,13,3:0,LA,80',2:0,Elfmeter
+3229389,2019,Serie A,23,A,Juventus Turin,1,Hellas Verona,9,2:1,LA,65',0:1,Rechtsschuss
+3312132,2019,Coppa Italia,Halbfinale,A,Juventus Turin,,AC Mailand,,1:1,LA,90'+1,1:1,Elfmeter
+3229407,2019,Serie A,25,A,Juventus Turin,1,SPAL,20,1:2,LA,39',0:1,Abstauber
+3229428,2019,Serie A,27,A,Juventus Turin,1,FC Bologna,10,0:2,LA,23',0:1,Elfmeter
+3229442,2019,Serie A,28,H,Juventus Turin,1,US Lecce,18,4:0,LA,62',2:0,Elfmeter
+3229448,2019,Serie A,29,A,Juventus Turin,1,Genua CFC,17,1:3,LA,56',0:2,Distanzschuss
+3229465,2019,Serie A,30,H,Juventus Turin,1,FC Turin,13,4:1,LA,61',3:1,Direkter Freistoß
+3229469,2019,Serie A,31,A,Juventus Turin,1,AC Mailand,7,4:2,LA,53',0:2,Linksschuss
+3229476,2019,Serie A,32,H,Juventus Turin,1,Atalanta Bergamo,3,2:2,LA,55',1:1,Elfmeter
+3229476,2019,Serie A,32,H,Juventus Turin,1,Atalanta Bergamo,3,2:2,LA,90',2:2,Elfmeter
+3229499,2019,Serie A,34,H,Juventus Turin,1,Lazio Rom,4,2:1,LA,51',1:0,Elfmeter
+3229499,2019,Serie A,34,H,Juventus Turin,1,Lazio Rom,4,2:1,LA,54',2:0,Kontertor
+3229522,2019,Serie A,36,H,Juventus Turin,1,Sampdoria Genua,14,2:0,LA,45'+7,1:0,Rechtsschuss
+3291940,2019,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Olympique Lyon,,2:1,LA,43',1:1,Elfmeter
+3291940,2019,UEFA Champions League,Achtelfinale,H,Juventus Turin,,Olympique Lyon,,2:1,LA,60',2:1,Linksschuss
+3433188,2020,Serie A,1,H,Juventus Turin,4,Sampdoria Genua,9,3:0,MS,88',3:0,Rechtsschuss
+3433200,2020,Serie A,2,A,Juventus Turin,5,AS Rom,19,2:2,MS,44',1:1,Elfmeter
+3433200,2020,Serie A,2,A,Juventus Turin,5,AS Rom,19,2:2,MS,69',2:2,Kopfball
+3433241,2020,Serie A,6,A,Juventus Turin,5,Spezia Calcio,14,1:4,MS,59',1:2,Rechtsschuss
+3433241,2020,Serie A,6,A,Juventus Turin,5,Spezia Calcio,14,1:4,MS,76',1:4,Elfmeter
+3433250,2020,Serie A,7,A,Juventus Turin,4,Lazio Rom,10,1:1,LA,15',0:1,Rechtsschuss
+3433258,2020,Serie A,8,H,Juventus Turin,5,Cagliari Calcio,10,2:0,MS,38',1:0,Rechtsschuss
+3433258,2020,Serie A,8,H,Juventus Turin,5,Cagliari Calcio,10,2:0,MS,42',2:0,Rechtsschuss
+3461777,2020,UEFA Champions League,Gruppenphase,H,Juventus Turin,,Ferencvárosi TC,,2:1,MS,35',1:1,Linksschuss
+3461788,2020,UEFA Champions League,Gruppenphase,H,Juventus Turin,,Dynamo Kyiv,,3:0,MS,57',2:0,Rechtsschuss
+3461820,2020,UEFA Champions League,Gruppenphase,A,Juventus Turin,,FC Barcelona,,0:3,MS,13',0:1,Elfmeter
+3461820,2020,UEFA Champions League,Gruppenphase,A,Juventus Turin,,FC Barcelona,,0:3,MS,52',0:3,Elfmeter
+3433289,2020,Serie A,11,A,Juventus Turin,4,Genua CFC,19,1:3,MS,78',1:2,Elfmeter
+3433289,2020,Serie A,11,A,Juventus Turin,4,Genua CFC,19,1:3,MS,89',1:3,Elfmeter
+3433311,2020,Serie A,13,A,Juventus Turin,3,Parma Calcio 1913,14,0:4,MS,26',0:2,Kopfball
+3433311,2020,Serie A,13,A,Juventus Turin,3,Parma Calcio 1913,14,0:4,MS,48',0:3,Linksschuss
+3433331,2020,Serie A,15,H,Juventus Turin,3,Udinese Calcio,12,4:1,MS,31',1:0,Rechtsschuss
+3433331,2020,Serie A,15,H,Juventus Turin,3,Udinese Calcio,12,4:1,MS,70',3:0,Linksschuss
+3433348,2020,Serie A,17,H,Juventus Turin,3,US Sassuolo,6,3:1,MS,90'+2,3:1,Rechtsschuss
+3488720,2020,Supercoppa Italiana,Finale,H,Juventus Turin,,SSC Napoli,,2:0,MS,64',1:0,Abstauber
+3512279,2020,Coppa Italia,Halbfinale,A,Juventus Turin,,Inter Mailand,,1:2,MS,26',1:1,Elfmeter
+3512279,2020,Coppa Italia,Halbfinale,A,Juventus Turin,,Inter Mailand,,1:2,MS,35',1:2,Linksschuss
+3433390,2020,Serie A,21,H,Juventus Turin,3,AS Rom,4,2:0,MS,13',1:0,Linksschuss
+3433406,2020,Serie A,23,H,Juventus Turin,3,FC Crotone,20,3:0,MS,38',1:0,Kopfball
+3433406,2020,Serie A,23,H,Juventus Turin,3,FC Crotone,20,3:0,MS,45'+1,2:0,Kopfball
+3433420,2020,Serie A,24,A,Juventus Turin,3,Hellas Verona,9,1:1,MS,49',0:1,Rechtsschuss
+3433431,2020,Serie A,25,H,Juventus Turin,3,Spezia Calcio,15,3:0,MS,89',3:0,Kontertor
+3433448,2020,Serie A,27,A,Juventus Turin,3,Cagliari Calcio,18,1:3,MS,10',0:1,Kopfball
+3433448,2020,Serie A,27,A,Juventus Turin,3,Cagliari Calcio,18,1:3,MS,25',0:2,Elfmeter
+3433448,2020,Serie A,27,A,Juventus Turin,3,Cagliari Calcio,18,1:3,MS,32',0:3,Linksschuss
+3433468,2020,Serie A,29,A,Juventus Turin,3,FC Turin,17,2:2,MS,79',2:2,Kopfball
+3433209,2020,Serie A,3,H,Juventus Turin,6,SSC Napoli,1,2:1,MS,13',1:0,Rechtsschuss
+3433521,2020,Serie A,34,A,Juventus Turin,3,Udinese Calcio,11,1:2,MS,83',1:1,Elfmeter
+3433521,2020,Serie A,34,A,Juventus Turin,3,Udinese Calcio,11,1:2,MS,89',1:2,Kopfball
+3433538,2020,Serie A,36,A,Juventus Turin,5,US Sassuolo,8,1:3,MS,45',0:2,Linksschuss
+3433549,2020,Serie A,37,H,Juventus Turin,5,Inter Mailand,1,3:2,MS,24',1:0,Elfmeternachschuss
+3592028,2021,Premier League,4,H,Manchester United,3,Newcastle United,17,4:1,MS,45'+2,1:0,Abstauber
+3592028,2021,Premier League,4,H,Manchester United,3,Newcastle United,17,4:1,MS,62',2:1,Linksschuss
+3651031,2021,UEFA Champions League,Gruppenphase,A,Manchester United,,BSC Young Boys,,2:1,MS,13',0:1,Rechtsschuss
+3591969,2021,Premier League,5,A,Manchester United,1,West Ham United,8,1:2,MS,35',1:1,Rechtsschuss
+3651072,2021,UEFA Champions League,Gruppenphase,H,Manchester United,,FC Villarreal,,2:1,MS,90'+5,2:1,Rechtsschuss
+3651088,2021,UEFA Champions League,Gruppenphase,H,Manchester United,,Atalanta Bergamo,,3:2,MS,81',3:2,Kopfball
+3591978,2021,Premier League,10,A,Manchester United,7,Tottenham Hotspur,6,0:3,MS,39',0:1,Rechtsschuss
+3651096,2021,UEFA Champions League,Gruppenphase,A,Manchester United,,Atalanta Bergamo,,2:2,MS,45'+1,1:1,Rechtsschuss
+3651096,2021,UEFA Champions League,Gruppenphase,A,Manchester United,,Atalanta Bergamo,,2:2,MS,90'+1,2:2,Rechtsschuss
+3651111,2021,UEFA Champions League,Gruppenphase,A,Manchester United,,FC Villarreal,,0:2,MS,78',0:1,Rechtsschuss
+3592134,2021,Premier League,14,H,Manchester United,8,FC Arsenal,5,3:2,MS,52',2:1,Rechtsschuss
+3592134,2021,Premier League,14,H,Manchester United,8,FC Arsenal,5,3:2,MS,70',3:2,Elfmeter
+3592080,2021,Premier League,16,A,Manchester United,6,Norwich City,20,0:1,MS,75',0:1,Elfmeter
+3592298,2021,Premier League,20,H,Manchester United,6,FC Burnley,16,3:1,MS,35',3:0,Rechtsschuss
+3592084,2021,Premier League,18,H,Manchester United,5,Brighton & Hove Albion,13,2:0,MS,51',1:0,Rechtsschuss
+3592236,2021,Premier League,29,H,Manchester United,6,Tottenham Hotspur,4,3:2,MS,12',1:0,Rechtsschuss
+3592236,2021,Premier League,29,H,Manchester United,6,Tottenham Hotspur,4,3:2,MS,38',2:1,Rechtsschuss
+3592236,2021,Premier League,29,H,Manchester United,6,Tottenham Hotspur,4,3:2,MS,81',3:2,Kopfball
+3592218,2021,Premier League,33,H,Manchester United,7,Norwich City,20,3:2,MS,7',1:0,Rechtsschuss
+3592218,2021,Premier League,33,H,Manchester United,7,Norwich City,20,3:2,MS,32',2:0,Kopfball
+3592218,2021,Premier League,33,H,Manchester United,7,Norwich City,20,3:2,MS,76',3:2,Direkter Freistoß
+3592170,2021,Premier League,34,A,Manchester United,6,FC Arsenal,5,3:1,MS,34',2:1,Linksschuss
+3592202,2021,Premier League,37,H,Manchester United,6,FC Chelsea,3,1:1,MS,62',1:1,Rechtsschuss
+3592219,2021,Premier League,35,H,Manchester United,6,FC Brentford,12,3:0,MS,61',2:0,Elfmeter
+3912589,2022,UEFA Europa League,Gruppenphase,A,Manchester United,,FC Sheriff Tiraspol,,0:2,MS,39',0:2,Elfmeter
+3838023,2022,Premier League,10,A,Manchester United,9,FC Everton,13,1:2,MS,44',1:2,Kontertor
+3912584,2022,UEFA Europa League,Gruppenphase,H,Manchester United,,FC Sheriff Tiraspol,,3:0,MS,81',3:0,Linksschuss
+3901022,2022,Saudi Pro League,15,A,Al-Nassr FC,1,Al-Fateh SC,7,2:2,MS,90'+3,2:2,Elfmeter
+4002722,2022,Saudi Pro League,16,A,Al-Nassr FC,1,Al-Wehda FC,13,0:4,MS,21',0:1,Linksschuss
+4002722,2022,Saudi Pro League,16,A,Al-Nassr FC,1,Al-Wehda FC,13,0:4,MS,40',0:2,Rechtsschuss
+4002722,2022,Saudi Pro League,16,A,Al-Nassr FC,1,Al-Wehda FC,13,0:4,MS,53',0:3,Elfmeter
+4002722,2022,Saudi Pro League,16,A,Al-Nassr FC,1,Al-Wehda FC,13,0:4,MS,61',0:4,Rechtsschuss
+4002742,2022,Saudi Pro League,18,A,Al-Nassr FC,1,Damac FC,8,0:3,MS,18',0:1,Elfmeter
+4002742,2022,Saudi Pro League,18,A,Al-Nassr FC,1,Damac FC,8,0:3,MS,23',0:2,Linksschuss
+4002742,2022,Saudi Pro League,18,A,Al-Nassr FC,1,Damac FC,8,0:3,MS,44',0:3,Kontertor
+4002766,2022,Saudi Pro League,21,H,Al-Nassr FC,2,Abha Club,12,2:1,MS,78',1:1,Direkter Freistoß
+4002769,2022,Saudi Pro League,22,A,Al-Nassr FC,2,Al-Adalah FC,14,0:5,MS,40',0:1,Elfmeter
+4002769,2022,Saudi Pro League,22,A,Al-Nassr FC,2,Al-Adalah FC,14,0:5,MS,66',0:3,Linksschuss
+4057500,2022,Saudi Pro League,24,H,Al-Nassr FC,2,Al-Raed SFC,11,4:0,MS,4',1:0,Kopfball
+4066486,2022,Saudi Pro League,27,A,Al-Nassr FC,2,Al-Tai FC,7,0:2,MS,52',0:1,Elfmeter
+4066495,2022,Saudi Pro League,28,H,Al-Nassr FC,2,Al-Shabab FC,3,3:2,MS,59',3:2,Rechtsschuss
+4138384,2023,Saudi Pro League,3,A,Al-Nassr FC,15,Al-Fateh SC,6,0:5,MS,38',0:2,Kopfball
+4138384,2023,Saudi Pro League,3,A,Al-Nassr FC,15,Al-Fateh SC,6,0:5,MS,55',0:3,Linksschuss
+4138384,2023,Saudi Pro League,3,A,Al-Nassr FC,15,Al-Fateh SC,6,0:5,MS,90'+6,0:5,Linksschuss
+4138411,2023,Saudi Pro League,4,H,Al-Nassr FC,10,Al-Shabab FC,14,4:0,MS,13',1:0,Elfmeter
+4138411,2023,Saudi Pro League,4,H,Al-Nassr FC,10,Al-Shabab FC,14,4:0,MS,38',2:0,Elfmeter
+4138484,2023,Saudi Pro League,5,A,Al-Nassr FC,6,Al-Hazem SC,16,1:5,MS,68',1:4,Rechtsschuss
+4138206,2023,Saudi Pro League,6,A,Al-Nassr FC,6,Al-Raed SFC,14,1:3,MS,78',0:3,Linksschuss
+4138494,2023,Saudi Pro League,7,H,Al-Nassr FC,6,Al-Ahli SFC,3,4:3,MS,4',1:0,Linksschuss
+4138494,2023,Saudi Pro League,7,H,Al-Nassr FC,6,Al-Ahli SFC,3,4:3,MS,52',4:2,Linksschuss
+4138431,2023,Saudi Pro League,8,A,Al-Nassr FC,5,Al-Tai FC,12,1:2,MS,87',1:2,Elfmeter
+4166325,2023,AFC Champions League,Gruppenphase,H,Al-Nassr FC,,Istiklol Dushanbe,,3:1,MS,66',1:1,Linksschuss
+4138350,2023,Saudi Pro League,10,H,Al-Nassr FC,3,Damac FC,10,2:1,MS,56',2:1,Direkter Freistoß
+4166327,2023,AFC Champions League,Gruppenphase,H,Al-Nassr FC,,Al-Duhail SC,,4:3,MS,61',3:0,Linksschuss
+4166327,2023,AFC Champions League,Gruppenphase,H,Al-Nassr FC,,Al-Duhail SC,,4:3,MS,81',4:2,Linksschuss
+4138442,2023,Saudi Pro League,12,H,Al-Nassr FC,2,Al-Khaleej FC,13,2:0,MS,26',1:0,Rechtsschuss
+4138414,2023,Saudi Pro League,13,A,Al-Nassr FC,2,Al-Wehda FC,8,1:3,MS,49',0:3,Rechtsschuss
+4138465,2023,Saudi Pro League,14,H,Al-Nassr FC,2,Al-Okhdood Club,16,3:0,MS,77',2:0,Rechtsschuss
+4138465,2023,Saudi Pro League,14,H,Al-Nassr FC,2,Al-Okhdood Club,16,3:0,MS,80',3:0,Rechtsschuss
+4138449,2023,Saudi Pro League,16,H,Al-Nassr FC,2,Al-Riyadh SC,13,4:1,MS,31',1:0,Rechtsschuss
+4222014,2023,King's Cup,Viertelfinale,A,Al-Nassr FC,,Al-Shabab FC,,2:5,MS,74',1:4,Rechtsschuss
+4138245,2023,Saudi Pro League,18,H,Al-Nassr FC,2,Al-Ettifaq FC,8,3:1,MS,73',3:0,Elfmeter
+4138499,2023,Saudi Pro League,17,A,Al-Nassr FC,2,Al-Ittihad Club,5,2:5,MS,19',1:1,Elfmeter
+4138499,2023,Saudi Pro League,17,A,Al-Nassr FC,2,Al-Ittihad Club,5,2:5,MS,68',2:3,Elfmeter
+4138239,2023,Saudi Pro League,19,A,Al-Nassr FC,2,Al-Taawoun FC,4,1:4,MS,90'+2,1:4,Kopfball
+4249781,2023,AFC Champions League,Achtelfinale,A,Al-Nassr FC,,Al-Fayha FC,,0:1,MS,81',0:1,Rechtsschuss
+4138215,2023,Saudi Pro League,20,H,Al-Nassr FC,2,Al-Fateh SC,7,2:1,MS,17',1:0,Rechtsschuss
+4250456,2023,AFC Champions League,Achtelfinale,H,Al-Nassr FC,,Al-Fayha FC,,2:0,MS,86',2:0,Rechtsschuss
+4138231,2023,Saudi Pro League,21,A,Al-Nassr FC,2,Al-Shabab FC,10,2:3,MS,21',0:1,Elfmeter
+4304560,2023,AFC Champions League,Viertelfinale,H,Al-Nassr FC,,Al-Ain FC,,5:6  n.E.,MS,118',4:3,Elfmeter
+4138343,2023,Saudi Pro League,24,A,Al-Nassr FC,2,Al-Ahli SFC,3,0:1,MS,68',0:1,Elfmeter
+4138334,2023,Saudi Pro League,25,H,Al-Nassr FC,2,Al-Tai FC,16,5:1,MS,64',3:1,Rechtsschuss
+4138334,2023,Saudi Pro League,25,H,Al-Nassr FC,2,Al-Tai FC,16,5:1,MS,67',4:1,Rechtsschuss
+4138334,2023,Saudi Pro League,25,H,Al-Nassr FC,2,Al-Tai FC,16,5:1,MS,87',5:1,Kopfball
+4138319,2023,Saudi Pro League,26,A,Al-Nassr FC,2,Abha Club,17,0:8,MS,11',0:1,Direkter Freistoß
+4138319,2023,Saudi Pro League,26,A,Al-Nassr FC,2,Abha Club,17,0:8,MS,21',0:2,Direkter Freistoß
+4138319,2023,Saudi Pro League,26,A,Al-Nassr FC,2,Abha Club,17,0:8,MS,42',0:4,Rechtsschuss
+4326097,2023,King's Cup,Halbfinale,H,Al-Nassr FC,,Al-Khaleej FC,,3:1,MS,17',1:0,Linksschuss
+4326097,2023,King's Cup,Halbfinale,H,Al-Nassr FC,,Al-Khaleej FC,,3:1,MS,57',3:0,Linksschuss
+4138260,2023,Saudi Pro League,30,H,Al-Nassr FC,2,Al-Wehda FC,12,6:0,MS,5',1:0,Rechtsschuss
+4138260,2023,Saudi Pro League,30,H,Al-Nassr FC,2,Al-Wehda FC,12,6:0,MS,12',2:0,Kopfball
+4138260,2023,Saudi Pro League,30,H,Al-Nassr FC,2,Al-Wehda FC,12,6:0,MS,52',5:0,Linksschuss
+4138250,2023,Saudi Pro League,31,A,Al-Nassr FC,2,Al-Okhdood Club,15,2:3,MS,15',0:2,Rechtsschuss
+4138369,2023,Saudi Pro League,34,H,Al-Nassr FC,2,Al-Ittihad Club,5,4:2,MS,45'+3,1:0,Linksschuss
+4138369,2023,Saudi Pro League,34,H,Al-Nassr FC,2,Al-Ittihad Club,5,4:2,MS,69',2:0,Kopfball
+4430263,2024,Saudi Super Cup,Halbfinale,A,Al-Nassr FC,,Al-Taawoun FC,,0:2,MS,57',0:2,Rechtsschuss
+4431572,2024,Saudi Super Cup,Finale,A,Al-Nassr FC,,Al-Hilal SFC,,4:1,MS,44',0:1,Rechtsschuss
+4404838,2024,Saudi Pro League,1,H,Al-Nassr FC,4,Al-Raed SFC,12,1:1,MS,34',1:0,Kopfball
+4404847,2024,Saudi Pro League,2,A,Al-Nassr FC,10,Al-Fayha FC,12,1:4,MS,45'+10,0:2,Direkter Freistoß
+4404867,2024,Saudi Pro League,4,A,Al-Nassr FC,7,Al-Ettifaq FC,3,0:3,MS,33',0:1,Elfmeter
+4404873,2024,Saudi Pro League,5,H,Al-Nassr FC,5,Al-Wehda FC,14,2:0,MS,56',2:0,Elfmeter
+4434598,2024,AFC Champions League Elite,Gruppenphase,H,Al-Nassr FC,,Al-Rayyan SC,,2:1,MS,76',2:0,Linksschuss
+4404887,2024,Saudi Pro League,6,H,Al-Nassr FC,4,Al-Orobah FC,9,3:0,MS,17',1:0,Elfmeter
+4404909,2024,Saudi Pro League,7,A,Al-Nassr FC,3,Al-Shabab FC,4,1:2,MS,90'+7,1:2,Elfmeter
+4434625,2024,AFC Champions League Elite,Gruppenphase,H,Al-Nassr FC,,Al-Ain FC,,5:1,MS,31',2:0,Linksschuss
+4410853,2024,Saudi Pro League,11,H,Al-Nassr FC,3,Al-Qadsiah FC,5,1:2,MS,32',1:0,Rechtsschuss
+4434633,2024,AFC Champions League Elite,Gruppenphase,A,Al-Nassr FC,,Al-Gharafa SC,,1:3,MS,46',0:1,Kopfball
+4434633,2024,AFC Champions League Elite,Gruppenphase,A,Al-Nassr FC,,Al-Gharafa SC,,1:3,MS,64',0:3,Kontertor
+4410956,2024,Saudi Pro League,12,H,Al-Nassr FC,3,Damac FC,11,2:0,MS,17',1:0,Elfmeter
+4410956,2024,Saudi Pro League,12,H,Al-Nassr FC,3,Damac FC,11,2:0,MS,79',2:0,Linksschuss
+4410794,2024,Saudi Pro League,13,A,Al-Nassr FC,3,Al-Ittihad Club,1,2:1,MS,57',1:1,Rechtsschuss
