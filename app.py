@@ -20,6 +20,18 @@ injuries = pd.read_csv("data/player_injuries.csv")
 international_peformances = pd.read_csv("data/player_international_performance.csv")
 penalties = pd.read_csv("data/player_penalties.csv")
 
+# sidebar with index table
+sections = [
+    ["1. Disziplin - Tore", "disziplin-1-tore",],
+    ["2. Disziplin - Elfmeter", "disziplin-2-elfmeter"],
+    ["3. Disziplin - Assists", "disziplin-3-assists"]
+]
+
+# Create the table of contents
+st.sidebar.title("Inhaltsverzeichnis")
+for section in sections:
+    st.sidebar.markdown(f"- [{section[0]}](#{section[1]})")
+
 ###############################################################################
 ################################ 1. Disziplin #################################
 ###############################################################################
@@ -100,10 +112,11 @@ lm_int_perf = international_peformances[international_peformances["player_name"]
 messi_int_goals = lm_int_perf["goals"].sum()
 messi_goal_amount = messi_club_goals + messi_int_goals
 
+
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 #<<<<<<<<<<<<<<<<<<<<<< Display Data for Goals >>>>>>>>>>>>>>>>>>>>>>>>#
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
-st.header("Disziplin 1: Tore")
+st.header("Disziplin 1 - Tore")
 st.write("Ohne Tore kann man nur schwer ein Fussballspiel gewinnen, sie sind daher das Herzstück des Fussballs und ein Maßstab für Erfolg und Einfluss auf dem Spielfeld. In dieser ersten Disziplin werfen wir daher einen Blick auf die Torhistorie der beiden Giganten, um Unterschiede und Ähnlichkeiten in der Spielweise und Effizienz der beiden Spieler aufzuzeigen.")
 
 st.write("Zunächst werfen wir einen Blick auf die Art der Tore der beiden Spieler. Da jedoch nur die Torart Daten zu Club-Spielen öffentlich auf Transfermarkt verfügbar ist, werden hier keine Daten zu internationalen Spielen verwendet. Im Pie Chart ist zu erkennen, dass Christiano Ronaldo eher zum Rechtsschuss neigt und Lionel Messi eher den linken Fuß verwendet. Jedoch hat Ronaldo im Vergleich zu Messi eine gleichmäßige Verteilung der Torarten mit einer leichten Vorliebe für Rechtsschüsse. Bei Messi jedoch sind es zu einem sehr großen Teil Linksschüsse.")
@@ -169,8 +182,6 @@ ronaldo_pen_total = penalties[penalties["player_name"] == cr]
 ronaldo_pen_missed = ronaldo_pen_total[~ronaldo_pen_total["has_scored"]]
 ronaldo_pen_scored = ronaldo_pen_total[ronaldo_pen_total["has_scored"]]
 
-
-
 # amount of penalties per season
 messi_pen_per_saison = messi_pen_total.groupby('saison').size().reset_index(name='count')
 messi_pen_per_saison = messi_pen_per_saison.set_index('saison')
@@ -178,13 +189,33 @@ messi_pen_per_saison = messi_pen_per_saison.set_index('saison')
 ronaldo_pen_per_saison = ronaldo_pen_total.groupby('saison').size().reset_index(name='count')
 ronaldo_pen_per_saison = ronaldo_pen_per_saison.set_index('saison')
 
+# amount of penalties per competition
+messi_competitions = messi_pen_total.groupby("competition").size().reset_index(name='count')
+scored_penalties = messi_pen_total.groupby("competition")["has_scored"].sum().reset_index(name="scored")
+messi_competitions = messi_competitions.merge(scored_penalties, on="competition")
+messi_competitions["accuracy"] = (messi_competitions["count"] / messi_competitions["scored"]).round(2)
+messi_competitions = messi_competitions.set_index('competition')
+messi_competitions = messi_competitions.sort_values(by='count', ascending=False)
+
+ronaldo_competitions = ronaldo_pen_total.groupby("competition").size().reset_index(name='count')
+scored_penalties = ronaldo_pen_total.groupby("competition")["has_scored"].sum().reset_index(name="scored")
+ronaldo_competitions = ronaldo_competitions.merge(scored_penalties, on="competition")
+ronaldo_competitions["accuracy"] = (ronaldo_competitions["count"] / ronaldo_competitions["scored"]).round(2)
+ronaldo_competitions = ronaldo_competitions.set_index('competition')
+ronaldo_competitions = ronaldo_competitions.sort_values(by='count', ascending=False)
+
+# amount of penalties per competition type
+messi_comp_types = messi_pen_scored.groupby("competition_type").size().reset_index(name='count')
+messi_comp_types = messi_comp_types.set_index('competition_type')
+ronaldo_comp_types = ronaldo_pen_scored.groupby("competition_type").size().reset_index(name='count')
+ronaldo_comp_types = ronaldo_comp_types.set_index('competition_type')
 
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 #<<<<<<<<<<<<<<<<<<<<< Display Data for Penalties >>>>>>>>>>>>>>>>>>>>>#
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 
-st.header("Disziplin 2: Elfmeter")
-st.write("Elfmeter sind nicht nur eine Frage von Präzision und Nervenstärke, sondern auch ein zentraler Punkt in der polarisierenden Debatte zwischen Lionel Messi und Cristiano Ronaldo. In diesem Kapitel widmen wir uns den Elfmeterstatistiken der beiden Spieler, um Licht in diese kontroverse Thematik zu bringen und ihre Leistungen objektiv zu vergleichen.")
+st.header("Disziplin 2 - Elfmeter")
+st.write("Elfmeter sind nicht nur eine Frage von Präzision und Nervenstärke, sondern auch ein zentraler Punkt in der polarisierenden Debatte zwischen Lionel Messi und Cristiano Ronaldo. In dieser Disziplin widmen wir uns den Elfmeterstatistiken der beiden Spieler, um Licht in diese kontroverse Thematik zu bringen und ihre Leistungen objektiv zu vergleichen.")
 
 # display penalties per year
 st.write(f"Sehen wir uns zunächst die Anzahl der geschossenen Elfmeter pro Saison an. Hier ist zu sehen, dass Ronaldo zu Beginn seiner Karriere im Profifussball bereits vermehrt Elfmeter schießen durfte als Messi. Dies zieht sich durch die gesamte Karriere der beiden Spieler und ist auch anhand der durchschnittlichen Anzahl an Elfmetern zu sehen.")
@@ -203,7 +234,29 @@ with col2:
         label="Average Penalties per Season", 
         value=f"{len(ronaldo_pen_total) / len(ronaldo_pen_per_saison):.2f} per Season"
     )
-# display total penaltie stats
+
+# display penalties per competition
+st.write("Nun betrachten wir die Verteilung der Wettbewerbe, in denen Elfmeter geschossen wurden. Es wird schnell deutlich, dass Ronaldo in einer Vielzahl unterschiedlicher Wettbewerbe vom Elfmeterpunkt aus erfolgreich war – deutlich mehr als sein Rivale Messi. Allerdings liegt Ronaldo in den Wettbewerben, an denen auch Lionel Messi teilgenommen hat, im Vergleich hinter ihm zurück. Diese Wettbewerbe umfassen die La Liga, die Copa del Rey, die UEFA Champions League sowie die Weltmeisterschaft. In diesen Wettbewerben erriecht Messi sogar die höhere Trefferquote.")
+col1, col2 = st.columns(2)
+with col1:
+    st.write("Messi Penalties per Competition")
+    st.write(messi_competitions)
+with col2:
+    st.write("Ronaldo Penalties  per Competition")
+    st.write(ronaldo_competitions)
+
+# display penalty per competition type
+st.write("Abschließend werfen wir einen Blick auf die Verteilung der erzielten Elfmeter in Club- und internationalen Wettbewerben. Dabei wird deutlich, dass Messi auf internationaler Ebene ein Tor mehr als Ronaldo erzielt hat, jedoch deutlich hinter Ronaldo liegt, wenn es um die Treffer in Clubwettbewerben geht.")
+col1, col2 = st.columns(2)
+with col1:
+    st.write("Messi Scored Penalties Club vs International")
+    st.bar_chart(messi_comp_types)
+with col2:
+    st.write("Ronaldo Scored Penalties Club vs International")
+    st.bar_chart(ronaldo_comp_types)
+
+# display total penalty stats
+st.write("Und nun zur entscheidenden Frage dieser Kategorie: Wer ist der bessere Elfmeterschütze? Ein Blick auf die Zahlen zeigt, dass Cristiano Ronaldo deutlich mehr Elfmeter ausgeführt hat als Lionel Messi und dabei die gleiche Anzahl an Fehlversuchen aufweist. Dadurch erzielt Ronaldo eine höhere Trefferquote als sein Rivale. Zudem hat er auch eine größere Anzahl verwandelter Elfmeter auf seinem Konto. Damit geht diese Runde eindeutig an Ronaldo!")
 col1, col2 = st.columns(2)
 with col1:
     st.metric(label="Total Penalties", value=f"{len(messi_pen_total)} Penalties")
@@ -227,7 +280,44 @@ with col2:
     st.progress(len(ronaldo_pen_scored) / len(ronaldo_pen_total))
     st.write("🟢🟢⚪⚪⚪⚪⚪")
 
+###############################################################################
+################################ 3. Disziplin #################################
+###############################################################################
+
+# get int and club stats to calculate sum of assists
+messi_stats_club = club_performances[club_performances["player_name"] == lm]
+messi_stats_int = international_peformances[international_peformances["player_name"] == lm]
+
+ronaldo_stats_club = club_performances[club_performances["player_name"] == cr]
+ronaldo_stats_int = international_peformances[international_peformances["player_name"] == cr]
+
+# get assists per competition
+
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<<<<<<<< Display Data for Assists >>>>>>>>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
+
+st.header("Disziplin 3 - Assists")
+st.write("Lionel Messi und Cristiano Ronaldo sind nicht nur herausragende Torschützen, sondern auch Meister im Vorbereiten von Toren. Assists zeigen ihre Fähigkeit, das Spiel zu lesen und Mitspieler in Szene zu setzen. Dieses Kapitel vergleicht die Assist-Statistiken der beiden Legenden, beleuchtet ihre unterschiedlichen Spielstile und fragt: Wer hat mehr zum Erfolg seiner Mitspieler beigetragen?")
+
+# display total assist stats
+st.write("")
+col1, col2 = st.columns(2)
+with col1:
+    st.metric(label="Club Assists", value=f"{messi_stats_club['assists'].sum()} Assists")
+    st.metric(label="International Assists", value=f"{messi_stats_int['assists_amount'].sum()} Assists")
+    st.metric(label="Total Assists", value=f"{messi_stats_club['assists'].sum() + messi_stats_int['assists_amount'].sum()} Assists")
+    st.write("🔴🔴🟢⚪⚪⚪⚪")
+
+with col2:
+    st.metric(label="Club Assists", value=f"{ronaldo_stats_club['assists'].sum()} Assists")
+    st.metric(label="International Assists", value=f"{ronaldo_stats_int['assists_amount'].sum()} Assists")
+    st.metric(label="Total Assists", value=f"{ronaldo_stats_club['assists'].sum() + ronaldo_stats_int['assists_amount'].sum()} Assists")
+    
+    st.write("🟢🟢🔴⚪⚪⚪⚪")
+
 # Disziplin 3: Spielentscheidende Tore
+# Disziplin ?: Assists
 # Disziplin 4: Titel
 # Disziplin 5: Fair Play (Gelbe Karten, Rote Karten)
 # Disziplin 6: Verletzungen [Spielzeit]
