@@ -3,14 +3,17 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+st.set_page_config(page_title="Messi vs Ronaldo", page_icon="⚽")
+
 cr = "Christiano Ronaldo"
 lm = "Lionel Messi"
 
 ### Title and Description
 st.title("Die ewige Debatte: Messi vs Ronaldo in Zahlen")
-st.write("Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.")
-# TODO: Erkläre, wie der Vergleich aufgebaut ist [Mehrere Disziplinen zu Gewinnen]
-# TODO: Sidebar for Chapters
+st.write("Lionel Messi und Cristiano Ronaldo – zwei Namen, die den modernen Fußball geprägt haben wie kaum andere. Doch wer von ihnen ist der vollständigere Spieler? Während Tore oft im Mittelpunkt stehen, lohnt sich ein genauer Blick auf die Assists, die Kreativität und Spielintelligenz beider Legenden. Diese Datenanalyse bietet spannende Einblicke in die Frage, wie Messi und Ronaldo ihre Mitspieler in Szene setzen und welche Muster sich in ihrer außergewöhnlichen Karriere abzeichnen.")
+st.write("Diese Analyse nimmt beide Ausnahmesportler genauer unter die Lupe, indem sie ihre Leistungen in verschiedenen Disziplinen vergleicht. Für jede Kategorie wird der bessere Spieler mit Punkten belohnt, und am Ende entscheidet die Gesamtwertung, wer in diesem ultimativen Duell die Nase vorn hat. Eine spannende Reise durch Zahlen, Fakten und Fußballkunst erwartet uns – wer wird triumphieren?")
+st.write("Die Daten dieser Analyse basieren auf dem Stand vom 31. Dezember 2024 und wurden ausschließlich aus der umfangreichen Datenbank von transfermarkt.com gewonnen.")
+# TODO: Stand von Daten angeben!
 
 # Loading data
 achievments = pd.read_csv("data/player_achievements.csv")
@@ -292,16 +295,43 @@ ronaldo_stats_club = club_performances[club_performances["player_name"] == cr]
 ronaldo_stats_int = international_peformances[international_peformances["player_name"] == cr]
 
 # get assists per competition
+messi_assists_int_by_tournament = messi_stats_int[["tournament", "assists_amount"]]
+messi_assists_int_by_tournament = messi_assists_int_by_tournament.groupby("tournament").sum().reset_index()
+messi_assists_club_by_tournament = messi_stats_club[["competition", "assists"]]
+messi_assists_club_by_tournament = messi_assists_club_by_tournament.groupby("competition").sum().reset_index()
+messi_assists_int_by_tournament.columns = messi_assists_club_by_tournament.columns
+messi_assists_per_tournament = pd.concat([messi_assists_int_by_tournament, messi_assists_club_by_tournament], ignore_index=True)
+messi_assists_per_tournament = messi_assists_per_tournament.sort_values(by="assists", ascending=False)
+messi_assists_per_tournament = messi_assists_per_tournament.set_index('competition')
+
+ronaldo_assists_int_by_tournament = ronaldo_stats_int[["tournament", "assists_amount"]]
+ronaldo_assists_int_by_tournament = ronaldo_assists_int_by_tournament.groupby("tournament").sum().reset_index()
+ronaldo_assists_club_by_tournament = ronaldo_stats_club[["competition", "assists"]]
+ronaldo_assists_club_by_tournament = ronaldo_assists_club_by_tournament.groupby("competition").sum().reset_index()
+ronaldo_assists_int_by_tournament.columns = ronaldo_assists_club_by_tournament.columns
+ronaldo_assists_per_tournament = pd.concat([ronaldo_assists_int_by_tournament, ronaldo_assists_club_by_tournament], ignore_index=True)
+ronaldo_assists_per_tournament = ronaldo_assists_per_tournament.sort_values(by="assists", ascending=False)
+ronaldo_assists_per_tournament = ronaldo_assists_per_tournament.set_index('competition')
 
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
-#<<<<<<<<<<<<<<<<<<<<< Display Data for Assists >>>>>>>>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<<<<<<<<< Display Data for Assists >>>>>>>>>>>>>>>>>>>>>>#
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 
 st.header("Disziplin 3 - Assists")
 st.write("Lionel Messi und Cristiano Ronaldo sind nicht nur herausragende Torschützen, sondern auch Meister im Vorbereiten von Toren. Assists zeigen ihre Fähigkeit, das Spiel zu lesen und Mitspieler in Szene zu setzen. Dieses Kapitel vergleicht die Assist-Statistiken der beiden Legenden, beleuchtet ihre unterschiedlichen Spielstile und fragt: Wer hat mehr zum Erfolg seiner Mitspieler beigetragen?")
 
+# display assists per tournament
+st.write("Zunächst werfen wir einen Blick auf die Verteilung der Assists in den verschiedenen Wettbewerben. Dabei wird deutlich, dass beide Spieler ihre größte Anzahl an Vorlagen in der La Liga verzeichnen. Lionel Messi sticht hier jedoch besonders hervor: Er liefert mehr als doppelt so viele Assists wie Cristiano Ronaldo. In der Champions League hingegen hat Ronaldo die Nase leicht vorn und übertrifft Messi knapp. Im spanischen Pokal, der Copa del Rey, zeigt Messi wiederum seine Überlegenheit und ist deutlich erfolgreicher als sein Konkurrent. Abschließend betrachten wir noch die internationalen Assists, hierbei können beide Fussballgiganten jedoch nicht wirklich überzeugen und erzielen vergleichsweise weniger Assists als im Clubsport.")
+col1, col2 = st.columns(2)
+with col1:
+    st.write("Messi Assists per Tournament")
+    st.write(messi_assists_per_tournament.head(10))
+with col2:
+    st.write("Ronaldo Assists per Tournament")
+    st.write(ronaldo_assists_per_tournament.head(10))
+
 # display total assist stats
-st.write("")
+st.write("Und nun zur entscheidenden Frage dieser Kategorie: Wer ist der bessere Vorlagengeber? Die Zahlen sprechen eine klare Sprache: Lionel Messi hat über seine Karriere hinweg deutlich mehr Assists geliefert als Cristiano Ronaldo. Während Ronaldo durch seine physischen Fähigkeiten und seine Abschlussstärke glänzt, zeigt Messi seine außergewöhnliche Spielintelligenz und Präzision bei der Vorbereitung von Toren. Damit geht diese Runde eindeutig an Messi!")
 col1, col2 = st.columns(2)
 with col1:
     st.metric(label="Club Assists", value=f"{messi_stats_club['assists'].sum()} Assists")
@@ -316,8 +346,5 @@ with col2:
     
     st.write("🟢🟢🔴⚪⚪⚪⚪")
 
-# Disziplin 3: Spielentscheidende Tore
-# Disziplin ?: Assists
 # Disziplin 4: Titel
 # Disziplin 5: Fair Play (Gelbe Karten, Rote Karten)
-# Disziplin 6: Verletzungen [Spielzeit]
