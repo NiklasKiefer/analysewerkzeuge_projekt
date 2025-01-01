@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import altair as alt
 
 st.set_page_config(page_title="Messi vs Ronaldo", page_icon="⚽")
 
@@ -28,7 +29,8 @@ sections = [
     ["1. Disziplin - Tore", "disziplin-1-tore",],
     ["2. Disziplin - Elfmeter", "disziplin-2-elfmeter"],
     ["3. Disziplin - Assists", "disziplin-3-assists"],
-    ["4. Disziplin - Fair Play", "disziplin-4-fair-play"]
+    ["4. Disziplin - Fair Play", "disziplin-4-fair-play"],
+    ["5. Disziplin - Titel", "disziplin-5-titel"]
 ]
 
 # Create the table of contents
@@ -435,9 +437,11 @@ st.write("Werfen wir zunächst einen Blick auf die Verteilung der gelben Karten 
 st.write("Darüber hinaus nahmen beide Spieler an verschiedenen Wettbewerben teil, an denen der jeweils andere nicht beteiligt war. Aus diesem Grund lassen sich diese Daten nicht sinnvoll miteinander vergleichen.")
 col1, col2 = st.columns(2)
 with col1:
+    st.write("Messi Yellow Cards by Competition")
     st.bar_chart(messi_cards_per_comp["yellow_cards"] + messi_cards_per_comp["yellow_red_cards"] )
 
 with col2:
+    st.write("Ronaldo Yellow Cards by Competition")
     st.bar_chart(ronaldo_cards_per_comp["yellow_cards"] + ronaldo_cards_per_comp["yellow_red_cards"])
 
 # display total assist stats
@@ -466,9 +470,63 @@ with col2:
 ################################# 4. Titel ####################################
 ###############################################################################
 
+## get trophies grouped
+messi_titles = achievments[achievments["player_name"] == lm]
+messi_title_types = messi_titles[["title", "year"]].groupby(['title']).count()
+messi_title_types.rename(columns={'year': 'count'}, inplace=True)
+messi_title_types = messi_title_types.sort_values(by="count", ascending=False)
+display_mes = messi_title_types
+messi_title_types = messi_title_types.reset_index()
+
+ronaldo_titles = achievments[achievments["player_name"] == cr]
+ronaldo_title_types = ronaldo_titles[["title", "year"]].groupby(['title']).count()
+ronaldo_title_types.rename(columns={'year': 'count'}, inplace=True)
+ronaldo_title_types = ronaldo_title_types.sort_values(by="count", ascending=False)
+display_ron = ronaldo_title_types
+ronaldo_title_types = ronaldo_title_types.reset_index()
 
 
+## get title sum
+messi_title_sum = len(messi_titles)
+ronaldo_title_sum = len(ronaldo_titles)
 
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
-#<<<<<<<<<<<<<<<<<<<<< Display Data for Fair Play >>>>>>>>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<<<<<<<<<<< Display Data for Titles >>>>>>>>>>>>>>>>>>>>>#
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
+
+st.header("Disziplin 5 - Titel")
+st.write("Und nun kommen wir zu unserer letzten, alles entscheidenden Kategorie: Lionel Messi und Cristiano Ronaldo sind nicht nur herausragende Athleten, sondern auch Rekordhalter und Champions in nahezu jeder Hinsicht. Ihre Karrieren sind gespickt mit Preisen und Titeln, die ihresgleichen suchen. Von nationalen Meisterschaften bis hin zu internationalen Triumphen, von individuellen Auszeichnungen wie dem Ballon d'Or bis hin zu Team-Erfolgen wie der Champions League – dieser Abschnitt widmet sich dem ultimativen Vergleich ihrer Errungenschaften. Wer hat die meisten Titel gesammelt? Welche Auszeichnungen unterstreichen ihre Dominanz? Und was sagen diese Erfolge über ihre Stellung in der Fußballgeschichte aus? Ein detaillierter Blick auf die schillernden Trophäenschränke der beiden Legenden.. ")
+
+st.write("Werfen wir zunächst mal einen Blick auf die Liste aller Titel der beiden Spieler gruppiert nach Titel. Hier kann man gleich erkennen, dass beide Spieler eine riesige Anzahl an Trophäen im Verlauf ihrer Karriere erreicht haben. Der häufigste Preis der beiden Spieler ist der Toptorschütze. Dieser Preis wird an den Spieler eines Turniers vergeben, der die meisten Tore erzielt hat. Dabei kann der Bewerb auf Clubebene oder internationaler Ebene stattfinden. ")
+col1, col2 = st.columns(2)
+with col1:
+    st.write(display_mes)
+
+with col2:
+    st.write(display_ron)
+
+
+st.write("Lionel Messi und Cristiano Ronaldo zählen zu den erfolgreichsten Fußballern aller Zeiten, doch ein Vergleich zeigt Unterschiede: Messi hat mit 1 Weltmeistertitel und 2 kontinentalen Titeln (Copa América 2021, Finalissima 2022) die Nase vorn, während Ronaldo in der Champions League mit 5 Titeln Messi’s 4 übertrifft. Individuell dominiert Messi mit 8 Ballon d’Or-Trophäen gegenüber Ronaldos 5. Auch bei der Gesamtzahl an Titeln führt Messi mit 134 gegenüber 110 bei Ronaldo. Während Messi vor allem durch seine Vielseitigkeit und Erfolge auf internationaler Ebene glänzt, unterstreicht Ronaldo seine Klasse in Europas größtem Vereinswettbewerb. Beide haben auf unterschiedliche Weise Fußballgeschichte geschrieben, doch den finalen Punkt erhält hier Lionel Messi! Und was sagt das Ergebnis?")
+col1, col2 = st.columns(2)
+with col1:
+    st.metric(label="World Champion Titles", value=f"{messi_title_types[messi_title_types['title'] == 'Weltmeister'].sum()['count']} Titles")
+    st.metric(label="Continental Champion Titles", value=f"{messi_title_types[messi_title_types['title'] == 'Copa América-Sieger'].sum()['count']} Titles")
+    st.metric(label="Champions League Titles", value=f"{messi_title_types[messi_title_types['title'].str.contains('Champions-League', na=False)].sum()['count']} Titles")
+    st.metric(label="Ballon d'Or Winner", value=f"{messi_title_types[messi_title_types['title'].str.contains('Ballon', na=False)].sum()['count']} Trophies")
+    st.metric(label="Total Titles", value=f"{messi_title_sum} Titles")
+    st.write("🔴🔴🟢🟢🟢")
+
+with col2:
+    st.metric(label="World Champion Titles", value=f"{ronaldo_title_types[ronaldo_title_types['title'] == 'Weltmeister'].sum()['count']} Titles")
+    st.metric(label="Continental Champion Titles", value=f"{ronaldo_title_types[ronaldo_title_types['title'] == 'Europameister'].sum()['count']} Titles")
+    st.metric(label="Champions League Titles", value=f"{ronaldo_title_types[ronaldo_title_types['title'].str.contains('Champions-League', na=False)].sum()['count']} Titles")
+    st.metric(label="Ballon d'Or Winner", value=f"{ronaldo_title_types[ronaldo_title_types['title'].str.contains('Ballon', na=False)].sum()['count']} Trophies")
+    st.metric(label="Total Titles", value=f"{ronaldo_title_sum} Titles")
+    st.write("🟢🟢🔴🔴🔴")
+
+
+###############################################################################
+################################### Fazit #####################################
+###############################################################################
+
+st.header("Fazit")
