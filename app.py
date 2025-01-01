@@ -27,7 +27,8 @@ penalties = pd.read_csv("data/player_penalties.csv")
 sections = [
     ["1. Disziplin - Tore", "disziplin-1-tore",],
     ["2. Disziplin - Elfmeter", "disziplin-2-elfmeter"],
-    ["3. Disziplin - Assists", "disziplin-3-assists"]
+    ["3. Disziplin - Assists", "disziplin-3-assists"],
+    ["4. Disziplin - Fair Play", "disziplin-4-fair-play"]
 ]
 
 # Create the table of contents
@@ -163,13 +164,13 @@ with col1:
     st.metric(label="Club Goals", value=f"{messi_club_goals} Goals")
     st.metric(label="International Goals", value=f"{messi_int_goals} Goals")
     st.metric(label="Total Goals", value=f"{messi_goal_amount} Goals")
-    st.write("🔴⚪⚪⚪⚪⚪⚪")
+    st.write("🔴⚪⚪⚪⚪")
 
 with col2:
     st.metric(label="Club Goals", value=f"{ronaldo_club_goals} Goals")
     st.metric(label="International Goals", value=f"{ronaldo_int_goals} Goals")
     st.metric(label="Total Goals", value=f"{ronaldo_goal_amount} Goals")
-    st.write("🟢⚪⚪⚪⚪⚪⚪")
+    st.write("🟢⚪⚪⚪⚪")
 
 
 ###############################################################################
@@ -270,7 +271,7 @@ with col1:
         value=f"{(len(messi_pen_scored) / len(messi_pen_total)) * 100:.2f}%"
     )
     st.progress(len(messi_pen_scored) / len(messi_pen_total))
-    st.write("🔴🔴⚪⚪⚪⚪⚪")
+    st.write("🔴🔴⚪⚪⚪")
 
 with col2:
     st.metric(label="Total Penalties", value=f"{len(ronaldo_pen_total)} Penalties")
@@ -281,7 +282,7 @@ with col2:
         value=f"{(len(ronaldo_pen_scored) / len(ronaldo_pen_total)) * 100:.2f}%"
     )
     st.progress(len(ronaldo_pen_scored) / len(ronaldo_pen_total))
-    st.write("🟢🟢⚪⚪⚪⚪⚪")
+    st.write("🟢🟢⚪⚪⚪")
 
 ###############################################################################
 ################################ 3. Disziplin #################################
@@ -337,14 +338,137 @@ with col1:
     st.metric(label="Club Assists", value=f"{messi_stats_club['assists'].sum()} Assists")
     st.metric(label="International Assists", value=f"{messi_stats_int['assists_amount'].sum()} Assists")
     st.metric(label="Total Assists", value=f"{messi_stats_club['assists'].sum() + messi_stats_int['assists_amount'].sum()} Assists")
-    st.write("🔴🔴🟢⚪⚪⚪⚪")
+    st.write("🔴🔴🟢⚪⚪")
 
 with col2:
     st.metric(label="Club Assists", value=f"{ronaldo_stats_club['assists'].sum()} Assists")
     st.metric(label="International Assists", value=f"{ronaldo_stats_int['assists_amount'].sum()} Assists")
     st.metric(label="Total Assists", value=f"{ronaldo_stats_club['assists'].sum() + ronaldo_stats_int['assists_amount'].sum()} Assists")
     
-    st.write("🟢🟢🔴⚪⚪⚪⚪")
+    st.write("🟢🟢🔴⚪⚪")
 
-# Disziplin 4: Titel
-# Disziplin 5: Fair Play (Gelbe Karten, Rote Karten)
+
+###############################################################################
+############################### 4. Fair Play ##################################
+###############################################################################
+# get club and international performance data
+messi_stats_club = club_performances[club_performances["player_name"] == lm]
+messi_stats_int = international_peformances[international_peformances["player_name"] == lm]
+
+ronaldo_stats_club = club_performances[club_performances["player_name"] == cr]
+ronaldo_stats_int = international_peformances[international_peformances["player_name"] == cr]
+
+## get yellow card count
+messi_yellows = (messi_stats_club["yellow_cards"].sum()) + (messi_stats_int["yellow_card"].notnull().sum())
+ronaldo_yellows = (ronaldo_stats_club["yellow_cards"].sum()) + (ronaldo_stats_int["yellow_card"].notnull().sum()) 
+
+## get yellow red card count
+messi_yellow_red = (messi_stats_club["yellow_red_cards"].sum()) + (messi_stats_int["yellow_red_card"].notnull().sum())
+ronaldo_yellow_red= (ronaldo_stats_club["yellow_red_cards"].sum()) + (ronaldo_stats_int["yellow_red_card"].notnull().sum()) 
+
+## get red card count
+messi_reds = (messi_stats_club["red_cards"].sum()) + (messi_stats_int["red_card"].notnull().sum())
+ronaldo_reds = (ronaldo_stats_club["red_cards"].sum()) + (ronaldo_stats_int["red_card"].notnull().sum())
+
+# get yellow per game played
+messi_games_club = messi_stats_club["games_played"].sum()
+messi_games_int = len(messi_stats_club)
+messi_game_count = messi_games_club + messi_games_int
+messi_yellow_per_game = messi_game_count / (messi_yellows + messi_yellow_red)
+messi_red_per_game = messi_game_count / (messi_reds + messi_yellow_red)
+
+ronaldo_games_club = ronaldo_stats_club["games_played"].sum()
+ronaldo_games_int = len(ronaldo_stats_club)
+ronaldo_game_count = ronaldo_games_club + ronaldo_games_int
+ronaldo_yellow_per_game = ronaldo_game_count / (ronaldo_yellows + ronaldo_yellow_red)
+ronaldo_red_per_game = ronaldo_game_count / (ronaldo_reds + ronaldo_yellow_red)
+
+## get cards per competition type:
+messi_stats_club = club_performances[club_performances["player_name"] == lm]
+messi_stats_int = international_peformances[international_peformances["player_name"] == lm]
+
+# get club card per competition stats
+messi_card_per_club_comp = messi_stats_club[["competition_type", "yellow_cards", "yellow_red_cards", "red_cards"]].groupby("competition_type").sum().reset_index()
+
+# aggreagte all yellow, yellow red and red card 
+messi_stats_int["yellow_card"] = messi_stats_int["yellow_card"].notnull()
+messi_stats_int["yellow_red_card"] = messi_stats_int["yellow_red_card"].notnull()
+messi_stats_int["red_card"] = messi_stats_int["red_card"].notnull()
+
+# get international card per tournament stats
+messi_cards_per_int_comp = messi_stats_int[["tournament", "yellow_card", "yellow_red_card", "red_card"]]
+messi_cards_per_int_comp = messi_cards_per_int_comp.groupby("tournament").sum().reset_index()
+messi_cards_per_comp = pd.DataFrame(np.vstack([messi_card_per_club_comp.values, messi_cards_per_int_comp.values]))
+messi_cards_per_comp.columns = messi_card_per_club_comp.columns
+messi_cards_per_comp.sort_values(by="yellow_cards", ascending=False)
+messi_cards_per_comp.set_index("competition_type", inplace=True)
+
+
+ronaldo_stats_club = club_performances[club_performances["player_name"] == cr]
+ronaldo_stats_int = international_peformances[international_peformances["player_name"] == cr]
+
+# get club card per competition stats
+ronaldo_card_per_club_comp = ronaldo_stats_club[["competition_type", "yellow_cards", "yellow_red_cards", "red_cards"]].groupby("competition_type").sum().reset_index()
+
+# aggreagte all yellow, yellow red and red card 
+ronaldo_stats_int["yellow_card"] = ronaldo_stats_int["yellow_card"].notnull()
+ronaldo_stats_int["yellow_red_card"] = ronaldo_stats_int["yellow_red_card"].notnull()
+ronaldo_stats_int["red_card"] = ronaldo_stats_int["red_card"].notnull()
+
+# get international card per tournament stats
+ronaldo_cards_per_int_comp = ronaldo_stats_int[["tournament", "yellow_card", "yellow_red_card", "red_card"]]
+ronaldo_cards_per_int_comp = ronaldo_cards_per_int_comp.groupby("tournament").sum().reset_index()
+ronaldo_cards_per_comp = pd.DataFrame(np.vstack([ronaldo_card_per_club_comp.values, ronaldo_cards_per_int_comp.values]))
+ronaldo_cards_per_comp.columns = ronaldo_card_per_club_comp.columns
+ronaldo_cards_per_comp.sort_values(by="yellow_cards", ascending=False)
+ronaldo_cards_per_comp.set_index("competition_type", inplace=True)
+
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<<<<<<<< Display Data for Fair Play >>>>>>>>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
+
+st.header("Disziplin 4 - Fair Play")
+st.write("Lionel Messi und Cristiano Ronaldo glänzen nicht nur durch ihre sportlichen Leistungen, sondern auch durch ihr Verhalten auf dem Spielfeld. Fair Play, gemessen an gelben und roten Karten, offenbart viel über ihre Disziplin, Selbstkontrolle und Spielweise. Dieses Kapitel vergleicht die Fair-Play-Statistiken der beiden Fußballlegenden, beleuchtet ihre Herangehensweise in schwierigen Spielsituationen und fragt: Wer zeigt die größere Disziplin, wenn es darauf ankommt?")
+
+# display yellow cards per game played
+st.write("Werfen wir zunächst einen Blick auf die Verteilung der gelben Karten in den verschiedenen Wettbewerben. Dabei fällt sofort eine Gemeinsamkeit zwischen den beiden Spielern auf: Sowohl Messi als auch Ronaldo erhielten die meisten ihrer gelben Karten in den nationalen Ligen, gefolgt von internationalen Pokalwettbewerben und nationalen Pokalturnieren. Dies lässt sich dadurch erklären, dass die meisten Spiele in diesen drei Wettbewerbsarten stattfinden.")
+st.write("Darüber hinaus nahmen beide Spieler an verschiedenen Wettbewerben teil, an denen der jeweils andere nicht beteiligt war. Aus diesem Grund lassen sich diese Daten nicht sinnvoll miteinander vergleichen.")
+col1, col2 = st.columns(2)
+with col1:
+    st.bar_chart(messi_cards_per_comp["yellow_cards"] + messi_cards_per_comp["yellow_red_cards"] )
+
+with col2:
+    st.bar_chart(ronaldo_cards_per_comp["yellow_cards"] + ronaldo_cards_per_comp["yellow_red_cards"])
+
+# display total assist stats
+st.write("Nun stellt sich die Frage: Wer von den beiden ist der fairere Spieler, zumindest wenn man die Anzahl der Karten betrachtet? Die Daten sprechen hier eine klare Sprache zugunsten von Lionel Messi, der deutlich weniger gelbe Karten als Cristiano Ronaldo erhalten hat. Bemerkenswert ist zudem, dass Messi in seiner gesamten Karriere keine einzige Gelb-Rote Karte kassiert hat und lediglich vier Rote Karten aufweist. Zum Vergleich: Ronaldo musste in seiner Laufbahn ganze zwölf Mal mit Rot vom Platz.")
+st.write("Diese Zahlen wirken sich auch auf die durchschnittliche Anzahl an Spielen aus, die bis zu einer gelben oder roten Karte vergeht. Auch hier hat Messi die Nase vorn und entscheidet damit die vierte Disziplin für sich. Es bleibt also bis zum Schluss spannend!")
+col1, col2 = st.columns(2)
+with col1:
+    st.metric(label="Yellow Cards", value=f"{messi_yellows} Cards")
+    st.metric(label="Yellow Red Cards", value=f"{messi_yellow_red} Cards")
+    st.metric(label="Red Cards", value=f"{messi_reds} Cards")
+    st.metric(label="Average Games per Yellow Card", value=f"{messi_yellow_per_game:.2f}")
+    st.metric(label="Average Games per Red Card", value=f"{messi_red_per_game:.2f}")
+    st.write("🔴🔴🟢🟢⚪")
+
+with col2:
+    st.metric(label="Yellow Cards", value=f"{ronaldo_yellows} Cards")
+    st.metric(label="Yellow Red Cards", value=f"{ronaldo_yellow_red} Cards")
+    st.metric(label="Red Cards", value=f"{ronaldo_reds} Cards")
+    st.metric(label="Average Games per Yellow Card", value=f"{ronaldo_yellow_per_game:.2f}")
+    st.metric(label="Average Games per Red Card", value=f"{ronaldo_red_per_game:.2f}")
+    st.write("🟢🟢🔴🔴⚪")
+
+# Disziplin 5: Titel
+
+###############################################################################
+################################# 4. Titel ####################################
+###############################################################################
+
+
+
+
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<<<<<<<< Display Data for Fair Play >>>>>>>>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
