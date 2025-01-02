@@ -1,0 +1,17 @@
+[source]
+url = "https://pypi.org/simple"
+name = "pypi"
+
+[packages]
+requests = "*"
+numpy = "*"
+pandas = "*"
+plotly-express = "*"
+selenium = "*"
+beautifulsoup4 = "*"
+streamlit = "*" 
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
