@@ -38,9 +38,9 @@ sections = [
 ]
 
 # Create the table of contents
-st.sidebar.title("Inhaltsverzeichnis")
+st.title("Inhaltsverzeichnis")
 for section in sections:
-    st.sidebar.markdown(f"- [{section[0]}](#{section[1]})")
+    st.markdown(f"- [{section[0]}](#{section[1]})")
 
 ###############################################################################
 ################################ 1. Disziplin #################################
@@ -203,14 +203,14 @@ ronaldo_pen_per_saison = ronaldo_pen_per_saison.set_index('saison')
 messi_competitions = messi_pen_total.groupby("competition").size().reset_index(name='count')
 scored_penalties = messi_pen_total.groupby("competition")["has_scored"].sum().reset_index(name="scored")
 messi_competitions = messi_competitions.merge(scored_penalties, on="competition")
-messi_competitions["accuracy"] = (messi_competitions["count"] / messi_competitions["scored"]).round(2)
+messi_competitions["accuracy"] = (messi_competitions["scored"] / messi_competitions["count"] * 100).round(2)
 messi_competitions = messi_competitions.set_index('competition')
 messi_competitions = messi_competitions.sort_values(by='count', ascending=False)
 
 ronaldo_competitions = ronaldo_pen_total.groupby("competition").size().reset_index(name='count')
 scored_penalties = ronaldo_pen_total.groupby("competition")["has_scored"].sum().reset_index(name="scored")
 ronaldo_competitions = ronaldo_competitions.merge(scored_penalties, on="competition")
-ronaldo_competitions["accuracy"] = (ronaldo_competitions["count"] / ronaldo_competitions["scored"]).round(2)
+ronaldo_competitions["accuracy"] = (ronaldo_competitions["scored"] / ronaldo_competitions["count"] * 100).round(2)
 ronaldo_competitions = ronaldo_competitions.set_index('competition')
 ronaldo_competitions = ronaldo_competitions.sort_values(by='count', ascending=False)
 
@@ -471,7 +471,7 @@ with col2:
 # Disziplin 5: Titel
 
 ###############################################################################
-################################# 4. Titel ####################################
+################################# 5. Titel ####################################
 ###############################################################################
 
 ## get trophies grouped
@@ -480,6 +480,7 @@ messi_title_types = messi_titles[["title", "year"]].groupby(['title']).count()
 messi_title_types.rename(columns={'year': 'count'}, inplace=True)
 messi_title_types = messi_title_types.sort_values(by="count", ascending=False)
 display_mes = messi_title_types
+display_mes = display_mes.reset_index()
 messi_title_types = messi_title_types.reset_index()
 
 ronaldo_titles = achievments[achievments["player_name"] == cr]
@@ -487,8 +488,18 @@ ronaldo_title_types = ronaldo_titles[["title", "year"]].groupby(['title']).count
 ronaldo_title_types.rename(columns={'year': 'count'}, inplace=True)
 ronaldo_title_types = ronaldo_title_types.sort_values(by="count", ascending=False)
 display_ron = ronaldo_title_types
+display_ron = display_ron.reset_index()
 ronaldo_title_types = ronaldo_title_types.reset_index()
 
+lm_dif_cr = display_mes[~display_mes['title'].isin(display_ron['title'])]
+lm_dif_cr = lm_dif_cr.set_index('title')
+cr_dif_lm = display_ron[~display_ron['title'].isin(display_mes['title'])]
+cr_dif_lm = cr_dif_lm.set_index('title')
+
+lm_uni_cr = display_mes[display_mes['title'].isin(display_ron['title'])]
+lm_uni_cr = lm_uni_cr.set_index('title')
+cr_uni_lm = display_ron[display_ron['title'].isin(display_mes['title'])]
+cr_uni_lm = cr_uni_lm.set_index('title')
 
 ## get title sum
 messi_title_sum = len(messi_titles)
@@ -501,16 +512,28 @@ ronaldo_title_sum = len(ronaldo_titles)
 st.header("Disziplin 5 - Titel")
 st.write("Und nun kommen wir zu unserer letzten, alles entscheidenden Kategorie: Lionel Messi und Cristiano Ronaldo sind nicht nur herausragende Athleten, sondern auch Rekordhalter und Champions in nahezu jeder Hinsicht. Ihre Karrieren sind gespickt mit Preisen und Titeln, die ihresgleichen suchen. Von nationalen Meisterschaften bis hin zu internationalen Triumphen, von individuellen Auszeichnungen wie dem Ballon d'Or bis hin zu Team-Erfolgen wie der Champions League – dieser Abschnitt widmet sich dem ultimativen Vergleich ihrer Errungenschaften. Wer hat die meisten Titel gesammelt? Welche Auszeichnungen unterstreichen ihre Dominanz? Und was sagen diese Erfolge über ihre Stellung in der Fußballgeschichte aus? Ein detaillierter Blick auf die schillernden Trophäenschränke der beiden Legenden.. ")
 
-st.write("Werfen wir zunächst mal einen Blick auf die Liste aller Titel der beiden Spieler gruppiert nach Titel. Hier kann man gleich erkennen, dass beide Spieler eine riesige Anzahl an Trophäen im Verlauf ihrer Karriere erreicht haben. Der häufigste Preis der beiden Spieler ist der Toptorschütze. Dieser Preis wird an den Spieler eines Turniers vergeben, der die meisten Tore erzielt hat. Dabei kann der Bewerb auf Clubebene oder internationaler Ebene stattfinden. ")
+st.write("Beide Spieler können auf eine beeindruckende Liste an Titeln und Erfolgen zurückblicken. Beginnen wir mit den Auszeichnungen, die Messi und Ronaldo gemeinsam haben: Beide wurden mehrfach Torschützenkönig, gewannen Champions-League-Titel, den Goldenen Schuh und wurden als Spieler der Saison ausgezeichnet. Messi hingegen übertrifft Ronaldo in der Anzahl der Ballon-d'Or-Siege, als Topvorbereiter sowie bei spanischen Pokalsiegen.")
 col1, col2 = st.columns(2)
 with col1:
-    st.write(display_mes)
+    st.write("Awards Won by Lionel Messi That Were Also Won by Cristiano Ronaldo")
+    st.write(lm_uni_cr)
+with col2:
+    st.write("Awards Won by Lionel Messi That Were Also Won by Cristiano Ronaldo")
+    st.write(cr_uni_lm)
+
+st.write("Nun werfen wir einen Blick auf die Unterschiede, also auf Titel, die der jeweils andere Spieler nie gewinnen konnte. Viele davon resultieren aus den Ligen, in denen sie gespielt haben. Da Ronaldo in der Primeira Liga, Premier League, Serie A und der Saudi League aktiv war, konnte er nur in Portugal, England, Italien und Saudi-Arabien Titel gewinnen. Messi hingegen hat in der Ligue 1 und der MLS gespielt und deshalb Erfolge in Frankreich und den USA gefeiert.")
+st.write("Auch auf internationaler Ebene gibt es markante Unterschiede: Messi, als Südamerikaner, tritt bei der Copa América an, während Ronaldo bei der Europameisterschaft spielt. Da sich die Leistungsniveaus dieser Turniere unterscheiden, ist ein direkter Vergleich schwierig – auch wenn beide die jeweils wichtigsten Kontinentalwettbewerbe repräsentieren. Jedoch hat einen Weltmeistertitel, welche Cristiano Ronaldo bislang verwehrt bleibt.")
+st.write("Die individuellen Erfolge sind nun folgende: Messi hat den Weltmeistertitel, eine olympische Goldmedaille und den Titel 'Spieler des Turniers' gewonnen, während Ronaldo als 'Fußballer des Jahres' ausgezeichnet wurde und den prestigeträchtigen Puskás Award für das beste Tor erhielt.")
+col1, col2 = st.columns(2)
+with col1:
+    st.write("Awards Won by Lionel Messi That Were Not Won by Cristiano Ronaldo")
+    st.write(lm_dif_cr)
 
 with col2:
-    st.write(display_ron)
+    st.write("Awards Won by Cristiano Ronaldo That Were Not Won by Lionel Messi")
+    st.write(cr_dif_lm)
 
-
-st.write("Lionel Messi und Cristiano Ronaldo zählen zu den erfolgreichsten Fußballern aller Zeiten, doch ein Vergleich zeigt Unterschiede: Messi hat mit 1 Weltmeistertitel und 2 kontinentalen Titeln (Copa América 2021, Finalissima 2022) die Nase vorn, während Ronaldo in der Champions League mit 5 Titeln Messi’s 4 übertrifft. Individuell dominiert Messi mit 8 Ballon d’Or-Trophäen gegenüber Ronaldos 5. Auch bei der Gesamtzahl an Titeln führt Messi mit 134 gegenüber 110 bei Ronaldo. Während Messi vor allem durch seine Vielseitigkeit und Erfolge auf internationaler Ebene glänzt, unterstreicht Ronaldo seine Klasse in Europas größtem Vereinswettbewerb. Beide haben auf unterschiedliche Weise Fußballgeschichte geschrieben, doch den finalen Punkt erhält hier Lionel Messi! Und was sagt das Ergebnis?")
+st.write("Beide Spieler haben in ihrer Fußballkarriere beeindruckende Erfolge erzielt und auf einem ähnlich hohen Niveau performt. Letztendlich kann Messi jedoch insgesamt mehr Titel vorweisen und entscheidet somit diese finale Disziplin für sich!")
 col1, col2 = st.columns(2)
 with col1:
     st.metric(label="World Champion Titles", value=f"{messi_title_types[messi_title_types['title'] == 'Weltmeister'].sum()['count']} Titles")
@@ -535,11 +558,11 @@ with col2:
 
 st.header("Fazit")
 st.write("**Und der Sieger ist... Lionel Messi** – mit 3:2 entscheidet er den Vergleich für sich und wird als der bessere Spieler gefeiert. *Oder etwa doch nicht?*")
-st.write("Seien wir ehrlich: Der Versuch, zwei Ausnahmefußballer wie Lionel Messi und Cristiano Ronaldo endgültig zu vergleichen, ist subjektiv und abhängig von den betrachteten Aspekten.")
+st.write("Seien wir ehrlich: Der Versuch, zwei Ausnahmefußballer wie Lionel Messi und Cristiano Ronaldo endgültig zu vergleichen, ist subjektiv und abhängig von den betrachteten Aspekten. Außerdem sind ihre individuellen Erfolge untrennbar mit der Qualität ihrer Mitspieler verbunden. Großartige Pässe, präzise Vorlagen und eine starke Teamleistung bilden oft die Grundlage für ihre herausragenden Momente. Ohne ihre Mitspieler, die sie unterstützen und Räume schaffen, wären viele ihrer Titel und Rekorde kaum möglich gewesen.")
 st.write("Man könnte unzählige weitere Metriken heranziehen und käme wohl doch nie zu einem klaren Ergebnis. Zum Beispiel könnte man sich natürlich noch unter anderem folgende Metriken genauer ansehen:")
 
 # display other metrics to show how many things we would have to compare
-other_metrics = ["Tore pro Spiel", "Erzielte Hattricks", "Tore in Finals", "Tore in Derbys", "Spielentscheidende Tore", "Tore außerhalb des Strafraums", "Tore innerhalb des Strafraums", "Abschlussquote", "Erwartete Tore (xG)", "Tore gegen Top-Teams", "Tore in Champions-League", "Vorlagen in Finals", "Erwartete Vorlagen (xA)", "Schlüsselpässe", "Pässe ins letzte Drittel", "Pässe in den Strafraum", "Angekommene Flanken", "Angekommene Steilpässe", "Angekommene lange Bälle", "Pre-Assists", "Passgenauigkeit", "Kreierte Großchancen", "Kreierte Chancen pro Spiel", "Erfolgreiche Dribblings", "Dribblingserfolgsquote", "Progressive Ballführungen", "Ballführungen in den Strafraum", "Zurückgelegte Distanz mit Ball", "1-gegen-1-Situationen","Gelungene Tunnel", "Getätigte Tacklings", "Gewonnene Tacklings", "Abgefangene Bälle", "Blocks", "Klärungsaktionen", "Gewonnene Kopfballduelle", "Erfolgsquote bei Kopfballduellen", "Ballrückeroberungen", "Angewandter Druck", "Erfolgreicher Druck", "Defensivaktionen pro Spiel", "Zurückgelegte Distanz pro Spiel", "Erreichte Höchstgeschwindigkeit", "Durchschnittliche Sprintdistanz", "Anzahl der Sprints pro Spiel", "Ausdauer", "Gewonnene Zweikämpfe", "Stärke in physischen Duellen", "Abwehrquote", "Weiße Westen", "Gegentore pro Spiel", "Erwartete Gegentore (xGA)", "Über-/Unterperformance bei xGA", "Aktionen außerhalb des Strafraums", "Verursachte Fouls", "Erhaltene Fouls", "Abseitsstellungen", "Spiele", "Platzverweise in entscheidenden Spielen", "Gespielte Spiele", "Gespielte Minuten", "Siegquote in gespielten Spielen", "Kapitänseinsätze", "Einfluss als Einwechselspieler", "Karriere-Länge", "Spiele pro Saison", "Beste Jahre", "Konstanz über mehrere Saisons", "Torbeteiligung pro 90 Minuten", "Anteil an Teamtoren", "Schussvorbereitende Aktionen", "Passvorbereitende Aktionen", "Offensive Added Value", "Defensive Added Value", "Fortschritt im Ballbesitz", "Beitrag im Spielaufbau", "Prozentualer Anteil an xG/xA des Teams", "Leistung in entscheidenden Spielen", "Führungsqualitäten", "Mentale Stärke in Drucksituationen", "Einfluss auf Teamkollegen", "Wahrnehmung bei Fans und Medien", "Anpassungsfähigkeit an verschiedene Ligen/Stile", "Widerstandsfähigkeit bei Verletzungen", "Transfergebühren", "Höchster Marktwert", "Sponsorenverträge und Werbedeals", "Trikotverkäufe"]
+other_metrics = ["Tore pro Spiel", "Erzielte Hattricks", "Tore in Finals", "Tore in Derbys", "Spielentscheidende Tore", "Tore außerhalb des Strafraums", "Tore innerhalb des Strafraums", "Abschlussquote", "Erwartete Tore (xG)", "Tore gegen Top-Teams", "Tore in Champions-League", "Vorlagen in Finals", "Erwartete Vorlagen (xA)", "Schlüsselpässe", "Pässe ins letzte Drittel", "Pässe in den Strafraum", "Angekommene Flanken", "Angekommene Steilpässe", "Angekommene lange Bälle", "Pre-Assists", "Passgenauigkeit", "Kreierte Großchancen", "Kreierte Chancen pro Spiel", "Erfolgreiche Dribblings", "Dribblingserfolgsquote", "Progressive Ballführungen", "Ballführungen in den Strafraum", "Zurückgelegte Distanz mit Ball", "1-gegen-1-Situationen","Gelungene Tunnel", "Getätigte Tacklings", "Gewonnene Tacklings", "Abgefangene Bälle", "Blocks", "Klärungsaktionen", "Gewonnene Kopfballduelle", "Erfolgsquote bei Kopfballduellen", "Ballrückeroberungen", "Angewandter Druck", "Erfolgreicher Druck", "Defensivaktionen pro Spiel", "Zurückgelegte Distanz pro Spiel", "Erreichte Höchstgeschwindigkeit", "Durchschnittliche Sprintdistanz", "Anzahl der Sprints pro Spiel", "Ausdauer", "Gewonnene Zweikämpfe", "Stärke in physischen Duellen", "Abwehrquote", "Weiße Westen", "Gegentore pro Spiel", "Erwartete Gegentore (xGA)", "Über-/Unterperformance bei xGA", "Aktionen außerhalb des Strafraums", "Verursachte Fouls", "Erhaltene Fouls", "Abseitsstellungen", "Platzverweise in entscheidenden Spielen", "Gespielte Spiele", "Gespielte Minuten", "Siegquote in gespielten Spielen", "Kapitänseinsätze", "Einfluss als Einwechselspieler", "Karriere-Länge", "Spiele pro Saison", "Beste Jahre", "Konstanz über mehrere Saisons", "Torbeteiligung pro 90 Minuten", "Anteil an Teamtoren", "Schussvorbereitende Aktionen", "Passvorbereitende Aktionen", "Offensive Added Value", "Defensive Added Value", "Fortschritt im Ballbesitz", "Beitrag im Spielaufbau", "Prozentualer Anteil an xG/xA des Teams", "Leistung in entscheidenden Spielen", "Führungsqualitäten", "Mentale Stärke in Drucksituationen", "Einfluss auf Teamkollegen", "Wahrnehmung bei Fans und Medien", "Anpassungsfähigkeit an verschiedene Ligen/Stile", "Widerstandsfähigkeit bei Verletzungen", "Transfergebühren", "Höchster Marktwert", "Sponsorenverträge und Werbedeals", "Trikotverkäufe"]
 col1, col2, col3, col4 = st.columns(4)
 
 with col1:
