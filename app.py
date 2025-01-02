@@ -13,7 +13,7 @@ lm = "Lionel Messi"
 st.title("Die ewige Debatte: Messi vs Ronaldo in Zahlen")
 st.write("Lionel Messi und Cristiano Ronaldo – zwei Namen, die den modernen Fußball geprägt haben wie kaum andere. Doch wer von ihnen ist der vollständigere Spieler? Während Tore oft im Mittelpunkt stehen, lohnt sich ein genauer Blick auf die Assists, die Kreativität und Spielintelligenz beider Legenden. Diese Datenanalyse bietet spannende Einblicke in die Frage, wie Messi und Ronaldo ihre Mitspieler in Szene setzen und welche Muster sich in ihrer außergewöhnlichen Karriere abzeichnen.")
 st.write("Diese Analyse nimmt beide Ausnahmesportler genauer unter die Lupe, indem sie ihre Leistungen in verschiedenen Disziplinen vergleicht. Für jede Kategorie wird der bessere Spieler mit Punkten belohnt, und am Ende entscheidet die Gesamtwertung, wer in diesem ultimativen Duell die Nase vorn hat. Eine spannende Reise durch Zahlen, Fakten und Fußballkunst erwartet uns – wer wird triumphieren?")
-st.write("Die Daten dieser Analyse basieren auf dem Stand vom 31. Dezember 2024 und wurden ausschließlich aus der umfangreichen Datenbank von transfermarkt.com gewonnen.")
+st.write("*Die Daten dieser Analyse basieren auf dem Stand vom 31. Dezember 2024 und wurden ausschließlich aus der umfangreichen Datenbank von transfermarkt.com gewonnen.*")
 # TODO: Stand von Daten angeben!
 
 # Loading data
@@ -23,6 +23,10 @@ club_performances = pd.read_csv("data/player_club_performance.csv")
 injuries = pd.read_csv("data/player_injuries.csv")
 international_peformances = pd.read_csv("data/player_international_performance.csv")
 penalties = pd.read_csv("data/player_penalties.csv")
+la_liga_top_scorer = pd.read_csv("data/laliga_top_scorer.csv")
+cl_top_scorer = pd.read_csv("data/cl_top_scorer.csv")
+most_penalties = pd.read_csv("data/all_time_most_penalties.csv")
+most_assists = pd.read_csv("data/all_time_most_assists.csv")
 
 # sidebar with index table
 sections = [
@@ -555,4 +559,59 @@ with col4:
     for metric in other_metrics[3::4]:
         st.write(f"***{metric}***")
 
-st.write("Natürlich könnten wir die Analyse noch weiter vertiefen und in unzähligen Details verlieren. Doch das würde nicht nur den Rahmen sprengen, sondern vermutlich auch nicht die entscheidenden Antworten liefern, die wir so dringend suchen. Ein sinnvoller Ansatz könnte stattdessen sein, die Daten von Messi und Ronaldo mit denen anderer erfolgreicher Spieler zu vergleichen, um ihre Leistungen in einen breiteren Kontext einzuordnen.")
+## display top scorer in la liga
+st.write("Natürlich könnten wir die Analyse noch weiter vertiefen und uns in unzähligen Details verlieren. Doch das würde nicht nur den Rahmen sprengen, sondern vermutlich auch nicht die entscheidenden Antworten liefern, die wir so dringend suchen. Ein sinnvoller Ansatz könnte stattdessen sein, die Daten von Messi und Ronaldo mit denen anderer erfolgreicher Spieler zu vergleichen, um ihre Leistungen in einen breiteren Kontext einzuordnen.")
+st.write("Betrachten wir zum Beispiel die Top-Torschützen der La Liga, jener Liga, in der beide während ihrer Prime brillierten. Ein Blick auf die Statistiken zeigt eindrucksvoll, dass Messi und Ronaldo nicht nur die Spitze der Tabelle dominieren, sondern dies mit einem beeindruckenden Vorsprung tun.") 
+la_liga_display = la_liga_top_scorer[["name", "goals"]].sort_values("goals", ascending=True)
+la_liga_display = la_liga_display.reset_index(drop=True)
+fig, ax = plt.subplots()
+ax.barh(la_liga_display["name"], la_liga_display["goals"], color="skyblue")
+ax.set_xlabel("Goals")
+ax.set_ylabel("Player Name")
+ax.set_title("Top Scorers in La Liga")
+# Streamlit Display
+st.pyplot(fig)
+
+## display top scorer in UEFA champions league
+st.write("Neben der La Liga gibt es eine weitere Bühne, die sich perfekt für einen Vergleich der beiden Fußballlegenden eignet: die Champions League. Diese prestigeträchtige Liga haben Messi und Ronaldo über Jahre hinweg geprägt und mit Spannung erfüllt.")
+st.write("Auch hier wird ihre außergewöhnliche Klasse deutlich sichtbar. Während Ronaldo in diesem Wettbewerb die Nase leicht vorn hat, lassen beide Spieler die Konkurrenz weit hinter sich.")
+cl_display = cl_top_scorer[["name", "goals"]].sort_values("goals", ascending=True)
+cl_display = cl_display.reset_index(drop=True)
+fig, ax = plt.subplots()
+ax.barh(cl_display["name"], cl_display["goals"], color="skyblue")
+ax.set_xlabel("Goals")
+ax.set_ylabel("Player Name")
+ax.set_title("Top Scorers in UEFA Champions League")
+# Streamlit Display
+st.pyplot(fig)
+
+## display top penalty takers in 21st century
+st.write("Wir könnten zahlreiche weitere Torstatistiken analysieren und würden dabei immer wieder auf ein ähnliches Muster stoßen. Doch anstatt uns weiter auf die Tore zu konzentrieren, richten wir den Blick auf eine andere interessante Kategorie: die Elfmetertreffer. Werfen wir einen Blick auf die Statistik der erfolgreichsten Elfmeterschützen des 21. Jahrhunderts. Auch hier zeigt sich erneut die fussballtechnische Dominanz der beiden Spieler. Wobei Ronaldo hier seiner Konkurrenz doch ein paar Schritte voraus zu sein scheint.")
+
+pen_display = most_penalties[["player_name", "penalties_scored"]].sort_values("penalties_scored", ascending=True)
+pen_display = pen_display.reset_index(drop=True)
+fig, ax = plt.subplots()
+ax.barh(pen_display["player_name"], pen_display["penalties_scored"], color="skyblue")
+ax.set_xlabel("Penalties")
+ax.set_ylabel("Player Name")
+ax.set_title("Top Penalty Scorer in 21st Century")
+# Streamlit Display
+st.pyplot(fig)
+
+
+## display assist stats
+st.write("Nun sehen wir uns noch zuletzt die Daten zu den Spielern mit den meisten Assists im 21. Jahrhundert an. Wenig verwunderlich ist es, dass auch hier die Spitze von niemand anderem als Messi und Ronaldo angeführt wird.")
+assist_display = most_assists[["player_name", "assists"]].sort_values("assists", ascending=True)
+assist_display = assist_display.reset_index(drop=True)
+fig, ax = plt.subplots()
+ax.barh(assist_display["player_name"], assist_display["assists"], color="skyblue")
+ax.set_xlabel("Assists")
+ax.set_ylabel("Player Name")
+ax.set_title("Players with Most Goal Assist in 21st Century")
+# Streamlit Display
+st.pyplot(fig)
+
+
+# Finish
+st.write("Man könnte diese Analyse noch unendlich fortsetzen, doch die wesentliche Erkenntnis sollte bereits klar sein: Eine endgültige Antwort darauf, wer von Messi und Ronaldo der Bessere ist, lässt sich nicht eindeutig geben.")
+st.write("Was jedoch unbestreitbar ist, ist ihr Status als absolute Ausnahmetalente, die die Fußballwelt über Jahre hinweg geprägt und Geschichte geschrieben haben. Spieler ihres Kalibers sind eine seltene Erscheinung, und es wird wohl noch lange dauern, bis wir erneut Talente erleben, die mit diesen beiden Legenden auf Augenhöhe stehen.")
