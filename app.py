@@ -30,7 +30,8 @@ sections = [
     ["2. Disziplin - Elfmeter", "disziplin-2-elfmeter"],
     ["3. Disziplin - Assists", "disziplin-3-assists"],
     ["4. Disziplin - Fair Play", "disziplin-4-fair-play"],
-    ["5. Disziplin - Titel", "disziplin-5-titel"]
+    ["5. Disziplin - Titel", "disziplin-5-titel"],
+    ["Fazit", "fazit"],
 ]
 
 # Create the table of contents
@@ -530,3 +531,28 @@ with col2:
 ###############################################################################
 
 st.header("Fazit")
+st.write("**Und der Sieger ist... Lionel Messi** – mit 3:2 entscheidet er den Vergleich für sich und wird als der bessere Spieler gefeiert. *Oder etwa doch nicht?*")
+st.write("Seien wir ehrlich: Der Versuch, zwei Ausnahmefußballer wie Lionel Messi und Cristiano Ronaldo endgültig zu vergleichen, ist subjektiv und abhängig von den betrachteten Aspekten.")
+st.write("Man könnte unzählige weitere Metriken heranziehen und käme wohl doch nie zu einem klaren Ergebnis. Zum Beispiel könnte man sich natürlich noch unter anderem folgende Metriken genauer ansehen:")
+
+# display other metrics to show how many things we would have to compare
+other_metrics = ["Tore pro Spiel", "Erzielte Hattricks", "Tore in Finals", "Tore in Derbys", "Spielentscheidende Tore", "Tore außerhalb des Strafraums", "Tore innerhalb des Strafraums", "Abschlussquote", "Erwartete Tore (xG)", "Tore gegen Top-Teams", "Tore in Champions-League", "Vorlagen in Finals", "Erwartete Vorlagen (xA)", "Schlüsselpässe", "Pässe ins letzte Drittel", "Pässe in den Strafraum", "Angekommene Flanken", "Angekommene Steilpässe", "Angekommene lange Bälle", "Pre-Assists", "Passgenauigkeit", "Kreierte Großchancen", "Kreierte Chancen pro Spiel", "Erfolgreiche Dribblings", "Dribblingserfolgsquote", "Progressive Ballführungen", "Ballführungen in den Strafraum", "Zurückgelegte Distanz mit Ball", "1-gegen-1-Situationen","Gelungene Tunnel", "Getätigte Tacklings", "Gewonnene Tacklings", "Abgefangene Bälle", "Blocks", "Klärungsaktionen", "Gewonnene Kopfballduelle", "Erfolgsquote bei Kopfballduellen", "Ballrückeroberungen", "Angewandter Druck", "Erfolgreicher Druck", "Defensivaktionen pro Spiel", "Zurückgelegte Distanz pro Spiel", "Erreichte Höchstgeschwindigkeit", "Durchschnittliche Sprintdistanz", "Anzahl der Sprints pro Spiel", "Ausdauer", "Gewonnene Zweikämpfe", "Stärke in physischen Duellen", "Abwehrquote", "Weiße Westen", "Gegentore pro Spiel", "Erwartete Gegentore (xGA)", "Über-/Unterperformance bei xGA", "Aktionen außerhalb des Strafraums", "Verursachte Fouls", "Erhaltene Fouls", "Abseitsstellungen", "Spiele", "Platzverweise in entscheidenden Spielen", "Gespielte Spiele", "Gespielte Minuten", "Siegquote in gespielten Spielen", "Kapitänseinsätze", "Einfluss als Einwechselspieler", "Karriere-Länge", "Spiele pro Saison", "Beste Jahre", "Konstanz über mehrere Saisons", "Torbeteiligung pro 90 Minuten", "Anteil an Teamtoren", "Schussvorbereitende Aktionen", "Passvorbereitende Aktionen", "Offensive Added Value", "Defensive Added Value", "Fortschritt im Ballbesitz", "Beitrag im Spielaufbau", "Prozentualer Anteil an xG/xA des Teams", "Leistung in entscheidenden Spielen", "Führungsqualitäten", "Mentale Stärke in Drucksituationen", "Einfluss auf Teamkollegen", "Wahrnehmung bei Fans und Medien", "Anpassungsfähigkeit an verschiedene Ligen/Stile", "Widerstandsfähigkeit bei Verletzungen", "Transfergebühren", "Höchster Marktwert", "Sponsorenverträge und Werbedeals", "Trikotverkäufe"]
+col1, col2, col3, col4 = st.columns(4)
+
+with col1:
+    for metric in other_metrics[0::4]:
+        st.write(f"***{metric}***")
+
+with col2:
+    for metric in other_metrics[1::4]:
+        st.write(f"***{metric}***")
+
+with col3:
+    for metric in other_metrics[2::4]:
+        st.write(f"***{metric}***")
+    
+with col4:
+    for metric in other_metrics[3::4]:
+        st.write(f"***{metric}***")
+
+st.write("Natürlich könnten wir die Analyse noch weiter vertiefen und in unzähligen Details verlieren. Doch das würde nicht nur den Rahmen sprengen, sondern vermutlich auch nicht die entscheidenden Antworten liefern, die wir so dringend suchen. Ein sinnvoller Ansatz könnte stattdessen sein, die Daten von Messi und Ronaldo mit denen anderer erfolgreicher Spieler zu vergleichen, um ihre Leistungen in einen breiteren Kontext einzuordnen.")
