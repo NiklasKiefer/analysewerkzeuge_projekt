@@ -1,0 +1,358 @@
+player_name,game_id,saison,competition_type,competition,team,opponent,date,result,minute,score,goalkeeper,has_scored
+Lionel Messi,4249002,23/24,Club,Major League Soccer,Inter Miami CF,Nashville SC,2024-04-21,3:1,81',3:1,Joe Willis,True
+Lionel Messi,3975879,21/22,International,Weltmeisterschaft,Argentinien,Frankreich,2022-12-18,7:5,23',1:0,Hugo Lloris,True
+Lionel Messi,3974501,21/22,International,Weltmeisterschaft,Argentinien,Kroatien,2022-12-13,3:0,34',1:0,Dominik Livakovic,True
+Lionel Messi,3971598,21/22,International,Weltmeisterschaft,Argentinien,Niederlande,2022-12-09,6:5,73',2:0,Andries Noppert,True
+Lionel Messi,3788889,21/22,International,Weltmeisterschaft,Argentinien,Polen,2022-11-30,2:0,39',0:0,Wojciech Szczęsny,False
+Lionel Messi,3788838,21/22,International,Weltmeisterschaft,Argentinien,Saudi-Arabien,2022-11-22,1:2,10',1:0,Mohammed Al-Owais,True
+Lionel Messi,3926402,22/23,International,Freundschaftsspiele,Argentinien,Honduras,2022-09-24,3:0,45',2:0,Luis López,True
+Lionel Messi,3826305,21/22,International,Freundschaftsspiele,Argentinien,Estland,2022-06-05,5:0,8',1:0,Matvei Igonen,True
+Lionel Messi,3714221,21/22,Club,UEFA Champions League,FC Paris Saint-Germain,Real Madrid,2022-02-15,1:0,62',0:0,Thibaut Courtois,False
+Lionel Messi,3651125,21/22,Club,UEFA Champions League,FC Paris Saint-Germain,FC Brügge,2021-12-07,4:1,76',4:1,Simon Mignolet,True
+Lionel Messi,3651078,21/22,Club,UEFA Champions League,FC Paris Saint-Germain,RB Leipzig,2021-10-19,3:2,74',3:2,Péter Gulácsi,True
+Lionel Messi,3482743,20/21,International,Copa América,Argentinien,Bolivien,2021-06-29,4:1,33',2:0,Carlos Lampe,True
+Lionel Messi,3557026,20/21,International,WM-Qualifikation Südamerika,Argentinien,Chile,2021-06-04,1:1,24',1:0,Claudio Bravo,True
+Lionel Messi,3451441,20/21,Club,LaLiga,FC Barcelona,FC Valencia,2021-05-02,3:2,57',1:1,Jasper Cillessen,False
+Lionel Messi,3496461,20/21,Club,UEFA Champions League,FC Barcelona,FC Paris Saint-Germain,2021-03-10,1:1,45',1:1,Keylor Navas,False
+Lionel Messi,3451158,20/21,Club,LaLiga,FC Barcelona,FC Cádiz,2021-02-21,1:1,32',1:0,Conan Ledesma,True
+Lionel Messi,3496453,20/21,Club,UEFA Champions League,FC Barcelona,FC Paris Saint-Germain,2021-02-16,1:4,27',1:0,Keylor Navas,True
+Lionel Messi,3451042,20/21,Club,LaLiga,FC Barcelona,FC Valencia,2020-12-19,2:2,45',1:1,Jaume Doménech,False
+Lionel Messi,3450991,20/21,Club,LaLiga,FC Barcelona,Real Betis Sevilla,2020-11-07,5:2,61',3:1,Claudio Bravo,True
+Lionel Messi,3461761,20/21,Club,UEFA Champions League,FC Barcelona,Dynamo Kyiv,2020-11-04,2:1,5',1:0,Ruslan Neshcheret,True
+Lionel Messi,3461746,20/21,Club,UEFA Champions League,FC Barcelona,Juventus Turin,2020-10-28,2:0,90',2:0,Wojciech Szczęsny,True
+Lionel Messi,3461723,20/21,Club,UEFA Champions League,FC Barcelona,Ferencvárosi TC,2020-10-20,5:1,27',1:0,Dénes Dibusz,True
+Lionel Messi,3334201,20/21,International,WM-Qualifikation Südamerika,Argentinien,Ecuador,2020-10-09,1:0,13',1:0,Alexander Domínguez,True
+Lionel Messi,3431926,20/21,Club,LaLiga,FC Barcelona,FC Villarreal,2020-09-27,4:0,35',3:0,Sergio Asenjo,True
+Lionel Messi,3210094,19/20,Club,LaLiga,FC Barcelona,Atlético Madrid,2020-06-30,2:2,50',2:1,Jan Oblak,True
+Lionel Messi,3210036,19/20,Club,LaLiga,FC Barcelona,CD Leganés,2020-06-16,2:0,69',2:0,Iván Cuéllar,True
+Lionel Messi,3209999,19/20,Club,LaLiga,FC Barcelona,Real Sociedad San Sebastián,2020-03-07,1:0,81',1:0,Álex Remiro,True
+Lionel Messi,3282924,19/20,International,Freundschaftsspiele,Argentinien,Uruguay,2019-11-18,2:2,90',2:2,Martín Campaña,True
+Lionel Messi,3281616,19/20,International,Freundschaftsspiele,Argentinien,Brasilien,2019-11-15,1:0,13',0:0,Alisson,False
+Lionel Messi,3208765,19/20,Club,LaLiga,FC Barcelona,Celta Vigo,2019-11-09,4:1,23',1:0,Rubén Blanco,True
+Lionel Messi,3208756,19/20,Club,LaLiga,FC Barcelona,UD Levante,2019-11-02,1:3,38',1:0,Aitor Fernández,True
+Lionel Messi,3150751,18/19,International,Copa América,Argentinien,Paraguay,2019-06-20,1:1,57',1:1,Gatito Fernández,True
+Lionel Messi,3135810,18/19,Club,UEFA Champions League,FC Barcelona,Olympique Lyon,2019-03-13,5:1,18',1:0,Anthony Lopes,True
+Lionel Messi,3080835,18/19,Club,LaLiga,FC Barcelona,Rayo Vallecano,2019-03-09,3:1,51',2:1,Stole Dimitrievski,True
+Lionel Messi,3080802,18/19,Club,LaLiga,FC Barcelona,Real Valladolid,2019-02-16,1:0,85',1:0,Jordi Masip,False
+Lionel Messi,3080802,18/19,Club,LaLiga,FC Barcelona,Real Valladolid,2019-02-16,1:0,43',1:0,Jordi Masip,True
+Lionel Messi,3080782,18/19,Club,LaLiga,FC Barcelona,FC Valencia,2019-02-02,2:2,39',1:2,Neto,True
+Lionel Messi,3079452,18/19,Club,LaLiga,FC Barcelona,Real Betis Sevilla,2018-11-11,3:4,68',1:2,Pau López,True
+Lionel Messi,2977701,17/18,International,Weltmeisterschaft,Argentinien,Island,2018-06-16,1:1,64',1:1,Hannes Thór Halldórsson,False
+Lionel Messi,3040789,17/18,International,Freundschaftsspiele,Argentinien,Haiti,2018-05-30,4:0,17',1:0,Johny Placide,True
+Lionel Messi,2989785,17/18,Club,Copa del Rey,FC Barcelona,Espanyol Barcelona,2018-01-17,0:1,62',0:0,Diego López,False
+Lionel Messi,2899698,17/18,Club,LaLiga,FC Barcelona,Real Madrid,2017-12-23,3:0,64',2:0,Keylor Navas,True
+Lionel Messi,2899707,17/18,Club,LaLiga,FC Barcelona,Deportivo La Coruna ,2017-12-17,4:0,70',3:0,Rubén Martínez,False
+Lionel Messi,2899594,17/18,Club,LaLiga,FC Barcelona,SD Eibar,2017-09-19,6:1,21',1:0,Marko Dmitrovic,True
+Lionel Messi,2899930,17/18,Club,LaLiga,FC Barcelona,Deportivo Alavés,2017-08-26,2:0,39',0:0,Fernando Pacheco,False
+Lionel Messi,2878318,17/18,Club,Supercopa,FC Barcelona,Real Madrid,2017-08-13,1:3,77',1:1,Keylor Navas,True
+Lionel Messi,2719081,16/17,Club,LaLiga,FC Barcelona,SD Eibar,2017-05-21,4:2,75',3:2,Yoel Rodríguez,True
+Lionel Messi,2719081,16/17,Club,LaLiga,FC Barcelona,SD Eibar,2017-05-21,4:2,70',1:2,Yoel Rodríguez,False
+Lionel Messi,2719062,16/17,Club,LaLiga,FC Barcelona,FC Villarreal,2017-05-06,4:1,82',4:1,Andrés Fernández,True
+Lionel Messi,2838788,15/16,International,WM-Qualifikation Südamerika,Argentinien,Chile,2017-03-24,1:0,16',1:0,Claudio Bravo,True
+Lionel Messi,2718986,16/17,Club,LaLiga,FC Barcelona,FC Valencia,2017-03-19,4:2,45',2:1,Diego Alves,True
+Lionel Messi,2805651,16/17,Club,UEFA Champions League,FC Barcelona,FC Paris Saint-Germain,2017-03-08,6:1,50',3:0,Kevin Trapp,True
+Lionel Messi,2718936,16/17,Club,LaLiga,FC Barcelona,CD Leganés,2017-02-19,2:1,90',2:1,Iago Herrerín,True
+Lionel Messi,2814842,16/17,Club,Copa del Rey,FC Barcelona,Real Sociedad San Sebastián,2017-01-26,5:2,55',2:0,Gerónimo Rulli,True
+Lionel Messi,2755717,16/17,Club,UEFA Champions League,FC Barcelona,Celtic Glasgow,2016-11-23,2:0,55',2:0,Craig Gordon,True
+Lionel Messi,2718796,16/17,Club,LaLiga,FC Barcelona,FC Valencia,2016-10-22,3:2,90',3:2,Diego Alves,True
+Lionel Messi,2718746,16/17,Club,LaLiga,FC Barcelona,CD Leganés,2016-09-17,5:1,55',4:0,Jon Ander Serantes,True
+Lionel Messi,2643084,15/16,International,WM-Qualifikation Südamerika,Argentinien,Bolivien,2016-03-30,2:0,30',2:0,Carlos Lampe,True
+Lionel Messi,2594752,15/16,Club,LaLiga,FC Barcelona,FC Getafe,2016-03-12,6:0,11',1:0,Vicente Guaita,False
+Lionel Messi,2594741,15/16,Club,LaLiga,FC Barcelona,SD Eibar,2016-03-06,4:0,76',3:0,Asier Riesgo,True
+Lionel Messi,2645809,15/16,Club,UEFA Champions League,FC Barcelona,FC Arsenal,2016-02-23,2:0,83',2:0,Petr Cech,True
+Lionel Messi,2594702,15/16,Club,LaLiga,FC Barcelona,Celta Vigo,2016-02-14,6:1,81',3:1,Sergio Álvarez,False
+Lionel Messi,2594661,15/16,Club,LaLiga,FC Barcelona,Athletic Bilbao,2016-01-17,6:0,7',1:0,Iago Herrerín,True
+Lionel Messi,2594503,15/16,Club,LaLiga,FC Barcelona,UD Levante,2015-09-20,4:1,61',3:0,Rubén Martínez,True
+Lionel Messi,2594503,15/16,Club,LaLiga,FC Barcelona,UD Levante,2015-09-20,4:1,75',3:1,Rubén Martínez,False
+Lionel Messi,2594471,15/16,Club,LaLiga,FC Barcelona,Athletic Bilbao,2015-08-23,1:0,31',0:0,Gorka Iraizoz,False
+Lionel Messi,2547017,14/15,International,Copa América,Argentinien,Paraguay,2015-06-13,2:2,36',2:0,Antony Silva,True
+Lionel Messi,2475514,14/15,Club,LaLiga,FC Barcelona,FC Getafe,2015-04-28,6:0,9',1:0,Vicente Guaita,True
+Lionel Messi,2475448,14/15,Club,LaLiga,FC Barcelona,SD Eibar,2015-03-14,2:0,31',1:0,Jaime Jiménez,True
+Lionel Messi,2475438,14/15,Club,LaLiga,FC Barcelona,Rayo Vallecano,2015-03-08,6:1,56',3:0,Cristian Álvarez,True
+Lionel Messi,2517513,14/15,Club,UEFA Champions League,FC Barcelona,Manchester City,2015-02-24,2:1,90',2:1,Joe Hart,False
+Lionel Messi,2475409,14/15,Club,LaLiga,FC Barcelona,UD Levante,2015-02-15,5:0,65',4:0,Diego Mariño,True
+Lionel Messi,2475374,14/15,Club,LaLiga,FC Barcelona,FC Elche,2015-01-24,6:0,55',2:0,Przemyslaw Tyton,True
+Lionel Messi,2528139,14/15,Club,Copa del Rey,FC Barcelona,Atlético Madrid,2015-01-21,1:0,85',0:0,Jan Oblak,False
+Lionel Messi,2518529,14/15,Club,Copa del Rey,FC Barcelona,FC Elche,2015-01-08,5:0,45',3:0,Przemyslaw Tyton,True
+Lionel Messi,2510920,14/15,International,Freundschaftsspiele,Argentinien,Kroatien,2014-11-12,2:1,57',2:1,Lovre Kalinic,True
+Lionel Messi,2504246,14/15,International,Freundschaftsspiele,Argentinien,Brasilien,2014-10-11,0:2,40',0:1,Jefferson,False
+Lionel Messi,2475219,14/15,Club,LaLiga,FC Barcelona,UD Levante,2014-09-21,5:0,42',1:0,Jesús Fernández,False
+Lionel Messi,2341281,13/14,Club,LaLiga,FC Barcelona,Real Betis Sevilla,2014-04-05,3:1,15',1:0,Antonio Adán,True
+Lionel Messi,2341281,13/14,Club,LaLiga,FC Barcelona,Real Betis Sevilla,2014-04-05,3:1,86',3:1,Antonio Adán,False
+Lionel Messi,2341330,13/14,Club,LaLiga,FC Barcelona,Espanyol Barcelona,2014-03-29,1:0,77',1:0,Kiko Casilla,True
+Lionel Messi,2341314,13/14,Club,LaLiga,FC Barcelona,Real Madrid,2014-03-23,4:3,65',3:3,Diego López,True
+Lionel Messi,2341314,13/14,Club,LaLiga,FC Barcelona,Real Madrid,2014-03-23,4:3,84',4:3,Diego López,True
+Lionel Messi,2385037,13/14,Club,UEFA Champions League,FC Barcelona,Manchester City,2014-02-18,2:0,54',1:0,Joe Hart,True
+Lionel Messi,2341025,13/14,Club,LaLiga,FC Barcelona,FC Valencia,2014-02-01,2:3,54',2:2,Diego Alves,True
+Lionel Messi,2368459,13/14,Club,UEFA Champions League,FC Barcelona,AC Mailand,2013-11-06,3:1,30',1:0,Christian Abbiati,True
+Lionel Messi,2303496,11/12,International,WM-Qualifikation Südamerika,Argentinien,Paraguay,2013-09-11,5:2,12',1:0,Gatito Fernández,True
+Lionel Messi,2303496,11/12,International,WM-Qualifikation Südamerika,Argentinien,Paraguay,2013-09-11,5:2,53',4:1,Gatito Fernández,True
+Lionel Messi,2348143,13/14,Club,Supercopa,FC Barcelona,Atlético Madrid,2013-08-28,0:0,89',0:0,Thibaut Courtois,False
+Lionel Messi,2346404,13/14,Club,LaLiga,FC Barcelona,UD Levante,2013-08-18,7:0,42',5:0,Keylor Navas,True
+Lionel Messi,2317005,12/13,International,Freundschaftsspiele,Argentinien,Guatemala,2013-06-15,4:0,40',3:0,Ricardo Jérez,True
+Lionel Messi,2268959,11/12,International,WM-Qualifikation Südamerika,Argentinien,Venezuela,2013-03-23,3:0,43',2:0,Dani Hernández,True
+Lionel Messi,2243099,12/13,Club,LaLiga,FC Barcelona,FC Valencia,2013-02-03,1:1,39',1:1,Vicente Guaita,True
+Lionel Messi,2243102,12/13,Club,LaLiga,FC Barcelona,CA Osasuna,2013-01-27,5:1,28',2:1,Andrés Fernández,True
+Lionel Messi,2243058,12/13,Club,LaLiga,FC Barcelona,Espanyol Barcelona,2013-01-06,4:0,28',4:0,Kiko Casilla,True
+Lionel Messi,2242910,12/13,Club,LaLiga,FC Barcelona,FC Getafe,2012-09-15,4:1,74',2:0,Miguel Ángel Moyá,True
+Lionel Messi,2244388,12/13,Club,Supercopa,FC Barcelona,Real Madrid,2012-08-23,3:2,70',2:1,Iker Casillas,True
+Lionel Messi,2255568,12/13,International,Freundschaftsspiele,Argentinien,Deutschland,2012-08-15,3:1,32',0:0,Marc-André ter Stegen,False
+Lionel Messi,1125587,11/12,Club,LaLiga,FC Barcelona,Espanyol Barcelona,2012-05-05,4:0,78',4:0,Cristian Álvarez,True
+Lionel Messi,1125587,11/12,Club,LaLiga,FC Barcelona,Espanyol Barcelona,2012-05-05,4:0,63',2:0,Cristian Álvarez,True
+Lionel Messi,1125414,11/12,Club,LaLiga,FC Barcelona,FC Málaga,2012-05-02,4:1,60',3:1,Carlos Kameni,True
+Lionel Messi,1125414,11/12,Club,LaLiga,FC Barcelona,FC Málaga,2012-05-02,4:1,34',2:1,Carlos Kameni,True
+Lionel Messi,2194739,11/12,Club,UEFA Champions League,FC Barcelona,FC Chelsea,2012-04-24,2:2,49',2:1,Petr Cech,False
+Lionel Messi,1125555,11/12,Club,LaLiga,FC Barcelona,UD Levante,2012-04-14,2:1,73',2:1,Gustavo Munúa,True
+Lionel Messi,1125524,11/12,Club,LaLiga,FC Barcelona,Real Saragossa ,2012-04-07,4:1,86',3:1,Roberto,True
+Lionel Messi,1193025,11/12,Club,UEFA Champions League,FC Barcelona,AC Mailand,2012-04-03,3:1,42',2:1,Christian Abbiati,True
+Lionel Messi,1193025,11/12,Club,UEFA Champions League,FC Barcelona,AC Mailand,2012-04-03,3:1,11',1:0,Christian Abbiati,True
+Lionel Messi,1134009,11/12,Club,LaLiga,FC Barcelona,Athletic Bilbao,2012-03-31,2:0,57',2:0,Gorka Iraizoz,True
+Lionel Messi,1125485,11/12,Club,LaLiga,FC Barcelona,Racing Santander,2012-03-11,2:0,56',2:0,Mario Fernández,True
+Lionel Messi,1179858,11/12,International,Freundschaftsspiele,Argentinien,Schweiz,2012-02-29,3:1,90',3:1,Marco Wölfli,True
+Lionel Messi,1182748,11/12,Club,Copa del Rey,FC Barcelona,FC Valencia,2012-02-01,1:1,57',1:1,Diego Alves,False
+Lionel Messi,1125407,11/12,Club,LaLiga,FC Barcelona,Real Betis Sevilla,2012-01-15,4:2,86',4:2,Casto,True
+Lionel Messi,1141924,11/12,Club,UEFA Champions League,FC Barcelona,AC Mailand,2011-11-23,3:2,31',2:1,Christian Abbiati,True
+Lionel Messi,1141895,11/12,Club,UEFA Champions League,FC Barcelona,FC Viktoria Pilsen,2011-11-01,4:0,24',1:0,Roman Pavlik,True
+Lionel Messi,1125323,11/12,Club,LaLiga,FC Barcelona,RCD Mallorca,2011-10-29,5:0,13',1:0,Dudu Aouate,True
+Lionel Messi,1125302,11/12,Club,LaLiga,FC Barcelona,FC Sevilla,2011-10-22,0:0,90',0:0,Javi Varas,False
+Lionel Messi,1036385,10/11,Club,LaLiga,FC Barcelona,Real Madrid,2011-04-16,1:1,53',1:0,Iker Casillas,True
+Lionel Messi,1036375,10/11,Club,LaLiga,FC Barcelona,UD Almería,2011-04-09,3:1,52',1:1,Diego Alves,True
+Lionel Messi,1083668,10/11,Club,UEFA Champions League,FC Barcelona,FC Arsenal,2011-03-08,3:1,72',3:1,Manuel Almunia,True
+Lionel Messi,1078435,10/11,International,Freundschaftsspiele,Argentinien,Portugal,2011-02-09,2:1,90',2:1,Rui Patrício,True
+Lionel Messi,1036269,10/11,Club,LaLiga,FC Barcelona,Racing Santander,2011-01-22,3:0,33',2:0,Toño,True
+Lionel Messi,1072030,10/11,Club,Copa del Rey,FC Barcelona,Real Betis Sevilla,2011-01-19,1:3,53',1:3,Casto,False
+Lionel Messi,1036206,10/11,Club,LaLiga,FC Barcelona,CA Osasuna,2010-12-04,3:0,82',3:0,Ricardo,True
+Lionel Messi,1050074,10/11,Club,UEFA Champions League,FC Barcelona,Panathinaikos Athen,2010-09-14,5:1,55',3:1,Alexandros Tzorvas,False
+Lionel Messi,971550,09/10,International,Freundschaftsspiele,Argentinien,Spanien,2009-11-14,1:2,61',1:1,Iker Casillas,True
+Lionel Messi,955906,09/10,Club,LaLiga,FC Barcelona,RCD Mallorca,2009-11-07,4:2,86',4:1,Dudu Aouate,True
+Lionel Messi,949294,09/10,Club,Supercopa,FC Barcelona,Athletic Bilbao,2009-08-23,3:0,68',2:0,Gorka Iraizoz,True
+Lionel Messi,920628,08/09,Club,LaLiga,FC Barcelona,Recreativo Huelva,2009-04-11,2:0,81',2:0,Asier Riesgo,False
+Lionel Messi,920590,08/09,Club,LaLiga,FC Barcelona,Athletic Bilbao,2009-03-07,2:0,31',2:0,Gorka Iraizoz,True
+Lionel Messi,931759,08/09,Club,Copa del Rey,FC Barcelona,Atlético Madrid,2009-01-06,3:1,57',2:0,Grégory Coupet,True
+Lionel Messi,926975,08/09,Club,Copa del Rey,FC Barcelona,Benidorm CF (-2011),2008-11-12,1:0,86',1:0,Juan Carlos Caballero,False
+Lionel Messi,920381,08/09,Club,LaLiga,FC Barcelona,Espanyol Barcelona,2008-09-27,2:1,90',2:1,Carlos Kameni,True
+Lionel Messi,920353,08/09,Club,LaLiga,FC Barcelona,Racing Santander,2008-09-13,1:1,70',1:0,Toño,True
+Lionel Messi,79132,07/08,Club,LaLiga,FC Barcelona,FC Valencia,2008-05-04,6:0,5',1:0,Timo Hildebrand,True
+Lionel Messi,88488,07/08,Club,Copa del Rey,FC Barcelona,FC Villarreal,2008-01-31,1:0,76',1:0,Diego López,False
+Lionel Messi,83378,07/08,Club,UEFA Champions League,FC Barcelona,Olympique Lyon,2007-11-27,2:2,58',2:1,Rémy Vercoutre,True
+Lionel Messi,78906,07/08,Club,LaLiga,FC Barcelona,Recreativo Huelva,2007-11-24,3:0,81',3:0,Stefano Sorrentino,True
+Lionel Messi,78865,07/08,Club,LaLiga,FC Barcelona,UD Almería,2007-10-28,2:0,80',2:0,David Cobeño,True
+Lionel Messi,78816,07/08,Club,LaLiga,FC Barcelona,FC Sevilla,2007-09-22,2:1,79',2:0,Andrés Palop,True
+Lionel Messi,1059977,06/07,International,Freundschaftsspiele,Argentinien,Algerien,2007-06-05,4:3,55',2:2,Samir Hadjaoui,True
+Lionel Messi,2410342,04/05,International,U20-Weltmeisterschaft,Argentinien U20,Nigeria U20,2005-07-02,2:1,40',1:0,Ambruse Vanzekin,True
+Lionel Messi,2410342,04/05,International,U20-Weltmeisterschaft,Argentinien U20,Nigeria U20,2005-07-02,2:1,75',2:1,Ambruse Vanzekin,True
+Christiano Ronaldo,4410956,24/25,Club,Saudi Pro League,Al-Nassr FC,Damac FC,2024-11-29,2:0,17',1:0,Amin Al-Bukhari,True
+Christiano Ronaldo,4284226,24/25,International,UEFA Nations League A,Portugal,Polen,2024-11-15,5:1,72',2:0,Marcin Bulka,True
+Christiano Ronaldo,4483579,24/25,Club,King's Cup,Al-Nassr FC,Al-Taawoun FC,2024-10-29,0:1,90',0:1,Mailson,False
+Christiano Ronaldo,4404909,24/25,Club,Saudi Pro League,Al-Nassr FC,Al-Shabab FC,2024-10-18,2:1,90',2:1,Seung-gyu Kim,True
+Christiano Ronaldo,4404887,24/25,Club,Saudi Pro League,Al-Nassr FC,Al-Orobah FC,2024-10-05,3:0,17',1:0,Gaëtan Coucke,True
+Christiano Ronaldo,4404873,24/25,Club,Saudi Pro League,Al-Nassr FC,Al-Wehda FC,2024-09-27,2:0,56',2:0,Abdullah Al-Oaisher,True
+Christiano Ronaldo,4404867,24/25,Club,Saudi Pro League,Al-Nassr FC,Al-Ettifaq FC,2024-09-20,3:0,33',1:0,Marek Rodák,True
+Christiano Ronaldo,4359332,23/24,International,Europameisterschaft,Portugal,Slowenien,2024-07-01,3:0,105',0:0,Jan Oblak,False
+Christiano Ronaldo,4138343,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Ahli SFC,2024-03-15,1:0,68',1:0,Edouard Mendy,True
+Christiano Ronaldo,4304560,23/24,Club,AFC Champions League,Al-Nassr FC,Al-Ain FC,2024-03-11,5:6,118',4:3,Khalid Eisa,True
+Christiano Ronaldo,4138231,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Shabab FC,2024-02-25,3:2,21',1:0,Mohammed Al-Absi,True
+Christiano Ronaldo,4138499,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Ittihad Club,2023-12-26,5:2,68',3:2,Abdullah Al-Mayouf,True
+Christiano Ronaldo,4138499,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Ittihad Club,2023-12-26,5:2,19',1:1,Abdullah Al-Mayouf,True
+Christiano Ronaldo,4138245,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Ettifaq FC,2023-12-22,3:1,73',3:0,Paulo Victor,True
+Christiano Ronaldo,3941661,22/23,International,EM-Qualifikation,Portugal,Bosnien-Herzegowina,2023-10-16,5:0,5',1:0,Ibrahim Sehic,True
+Christiano Ronaldo,3941662,22/23,International,EM-Qualifikation,Portugal,Slowakei,2023-10-13,3:2,29',2:0,Martin Dúbravka,True
+Christiano Ronaldo,4138431,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Tai FC,2023-09-29,2:1,87',2:1,Victor Braga,True
+Christiano Ronaldo,4138411,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Shabab FC,2023-08-29,4:0,38',2:0,Seung-gyu Kim,True
+Christiano Ronaldo,4138411,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Shabab FC,2023-08-29,4:0,13',1:0,Seung-gyu Kim,True
+Christiano Ronaldo,4138411,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Shabab FC,2023-08-29,4:0,38',2:0,Seung-gyu Kim,True
+Christiano Ronaldo,4138411,23/24,Club,Saudi Pro League,Al-Nassr FC,Al-Shabab FC,2023-08-29,4:0,13',1:0,Seung-gyu Kim,True
+Christiano Ronaldo,4066486,22/23,Club,Saudi Pro League,Al-Nassr FC,Al-Tai FC,2023-05-16,2:0,52',1:0,Victor Braga,True
+Christiano Ronaldo,4066486,22/23,Club,Saudi Pro League,Al-Nassr FC,Al-Tai FC,2023-05-16,2:0,52',1:0,Victor Braga,True
+Christiano Ronaldo,4002769,22/23,Club,Saudi Pro League,Al-Nassr FC,Al-Adalah FC,2023-04-04,5:0,40',1:0,Milan Mijatovic,True
+Christiano Ronaldo,4002769,22/23,Club,Saudi Pro League,Al-Nassr FC,Al-Adalah FC,2023-04-04,5:0,40',1:0,Milan Mijatovic,True
+Christiano Ronaldo,3941666,22/23,International,EM-Qualifikation,Portugal,Liechtenstein,2023-03-23,4:0,51',3:0,Benjamin Büchel,True
+Christiano Ronaldo,3941666,22/23,International,EM-Qualifikation,Portugal,Liechtenstein,2023-03-23,4:0,51',3:0,Benjamin Büchel,True
+Christiano Ronaldo,4002742,22/23,Club,Saudi Pro League,Al-Nassr FC,Damac FC,2023-02-25,3:0,18',1:0,Moustapha Zeghba,True
+Christiano Ronaldo,4002742,22/23,Club,Saudi Pro League,Al-Nassr FC,Damac FC,2023-02-25,3:0,18',1:0,Moustapha Zeghba,True
+Christiano Ronaldo,4002722,22/23,Club,Saudi Pro League,Al-Nassr FC,Al-Wehda FC,2023-02-09,4:0,53',3:0,Abdulquddus Atiah,True
+Christiano Ronaldo,4002722,22/23,Club,Saudi Pro League,Al-Nassr FC,Al-Wehda FC,2023-02-09,4:0,53',3:0,Abdulquddus Atiah,True
+Christiano Ronaldo,3901022,22/23,Club,Saudi Pro League,Al-Nassr FC,Al-Fateh SC,2023-02-03,2:2,90',2:2,Jacob Rinne,True
+Christiano Ronaldo,3901022,22/23,Club,Saudi Pro League,Al-Nassr FC,Al-Fateh SC,2023-02-03,2:2,90',2:2,Jacob Rinne,True
+Christiano Ronaldo,3788848,21/22,International,Weltmeisterschaft,Portugal,Ghana,2022-11-24,3:2,65',1:0,Lawrence Ati Zigi,True
+Christiano Ronaldo,3788848,21/22,International,Weltmeisterschaft,Portugal,Ghana,2022-11-24,3:2,65',1:0,Lawrence Ati Zigi,True
+Christiano Ronaldo,3912589,22/23,Club,UEFA Europa League,Manchester United,FC Sheriff Tiraspol,2022-09-15,2:0,39',2:0,Maksym Koval,True
+Christiano Ronaldo,3912589,22/23,Club,UEFA Europa League,Manchester United,FC Sheriff Tiraspol,2022-09-15,2:0,39',2:0,Maksym Koval,True
+Christiano Ronaldo,3592219,21/22,Club,Premier League,Manchester United,FC Brentford,2022-05-02,3:0,61',2:0,David Raya,True
+Christiano Ronaldo,3592219,21/22,Club,Premier League,Manchester United,FC Brentford,2022-05-02,3:0,61',2:0,David Raya,True
+Christiano Ronaldo,3729276,21/22,Club,FA Cup,Manchester United,FC Middlesbrough,2022-02-04,8:9,20',0:0,Joe Lumley,False
+Christiano Ronaldo,3592080,21/22,Club,Premier League,Manchester United,Norwich City,2021-12-11,1:0,75',1:0,Tim Krul,True
+Christiano Ronaldo,3592080,21/22,Club,Premier League,Manchester United,Norwich City,2021-12-11,1:0,75',1:0,Tim Krul,True
+Christiano Ronaldo,3592134,21/22,Club,Premier League,Manchester United,FC Arsenal,2021-12-02,3:2,70',3:2,Aaron Ramsdale,True
+Christiano Ronaldo,3592134,21/22,Club,Premier League,Manchester United,FC Arsenal,2021-12-02,3:2,70',3:2,Aaron Ramsdale,True
+Christiano Ronaldo,3495505,20/21,International,WM-Qualifikation Europa,Portugal,Luxemburg,2021-10-12,5:0,13',2:0,Anthony Moris,True
+Christiano Ronaldo,3495505,20/21,International,WM-Qualifikation Europa,Portugal,Luxemburg,2021-10-12,5:0,8',1:0,Anthony Moris,True
+Christiano Ronaldo,3495505,20/21,International,WM-Qualifikation Europa,Portugal,Luxemburg,2021-10-12,5:0,8',1:0,Anthony Moris,True
+Christiano Ronaldo,3495505,20/21,International,WM-Qualifikation Europa,Portugal,Luxemburg,2021-10-12,5:0,13',2:0,Anthony Moris,True
+Christiano Ronaldo,3495246,20/21,International,WM-Qualifikation Europa,Portugal,Irland,2021-09-01,2:1,15',0:0,Gavin Bazunu,False
+Christiano Ronaldo,3287222,20/21,International,Europameisterschaft,Portugal,Frankreich,2021-06-23,2:2,30',1:0,Hugo Lloris,True
+Christiano Ronaldo,3287222,20/21,International,Europameisterschaft,Portugal,Frankreich,2021-06-23,2:2,60',2:2,Hugo Lloris,True
+Christiano Ronaldo,3486422,20/21,International,Europameisterschaft,Portugal,Ungarn,2021-06-15,3:0,87',2:0,Péter Gulácsi,True
+Christiano Ronaldo,3433549,20/21,Club,Serie A,Juventus Turin,Inter Mailand,2021-05-15,3:2,24',1:0,Samir Handanovič,False
+Christiano Ronaldo,3433521,20/21,Club,Serie A,Juventus Turin,Udinese Calcio,2021-05-02,2:1,83',1:1,Simone Scuffet,True
+Christiano Ronaldo,3433448,20/21,Club,Serie A,Juventus Turin,Cagliari Calcio,2021-03-14,3:1,25',2:0,Alessio Cragno,True
+Christiano Ronaldo,3512279,20/21,Club,Coppa Italia,Juventus Turin,Inter Mailand,2021-02-02,2:1,26',1:1,Samir Handanovič,True
+Christiano Ronaldo,3433299,20/21,Club,Serie A,Juventus Turin,Atalanta Bergamo,2020-12-16,1:1,61',1:1,Pierluigi Gollini,False
+Christiano Ronaldo,3433289,20/21,Club,Serie A,Juventus Turin,Genua CFC,2020-12-13,3:1,89',3:1,Mattia Perin,True
+Christiano Ronaldo,3433289,20/21,Club,Serie A,Juventus Turin,Genua CFC,2020-12-13,3:1,78',2:1,Mattia Perin,True
+Christiano Ronaldo,3461820,20/21,Club,UEFA Champions League,Juventus Turin,FC Barcelona,2020-12-08,3:0,52',3:0,Marc-André ter Stegen,True
+Christiano Ronaldo,3461820,20/21,Club,UEFA Champions League,Juventus Turin,FC Barcelona,2020-12-08,3:0,13',1:0,Marc-André ter Stegen,True
+Christiano Ronaldo,3433241,20/21,Club,Serie A,Juventus Turin,Spezia Calcio,2020-11-01,4:1,76',4:1,Ivan Provedel,True
+Christiano Ronaldo,3433200,20/21,Club,Serie A,Juventus Turin,AS Rom,2020-09-27,2:2,44',1:1,Antonio Mirante,True
+Christiano Ronaldo,3291940,19/20,Club,UEFA Champions League,Juventus Turin,Olympique Lyon,2020-08-07,2:1,43',1:1,Anthony Lopes,True
+Christiano Ronaldo,3229522,19/20,Club,Serie A,Juventus Turin,Sampdoria Genua,2020-07-26,2:0,89',2:0,Emil Audero,False
+Christiano Ronaldo,3229499,19/20,Club,Serie A,Juventus Turin,Lazio Rom,2020-07-20,2:1,51',1:0,Thomas Strakosha,True
+Christiano Ronaldo,3229476,19/20,Club,Serie A,Juventus Turin,Atalanta Bergamo,2020-07-11,2:2,55',1:1,Pierluigi Gollini,True
+Christiano Ronaldo,3229476,19/20,Club,Serie A,Juventus Turin,Atalanta Bergamo,2020-07-11,2:2,90',2:2,Pierluigi Gollini,True
+Christiano Ronaldo,3229442,19/20,Club,Serie A,Juventus Turin,US Lecce,2020-06-26,4:0,62',2:0,Gabriel,True
+Christiano Ronaldo,3229428,19/20,Club,Serie A,Juventus Turin,FC Bologna,2020-06-22,2:0,23',1:0,Lukasz Skorupski,True
+Christiano Ronaldo,3312134,19/20,Club,Coppa Italia,Juventus Turin,AC Mailand,2020-06-12,0:0,16',0:0,Gianluigi Donnarumma,False
+Christiano Ronaldo,3312132,19/20,Club,Coppa Italia,Juventus Turin,AC Mailand,2020-02-13,1:1,90',1:1,Gianluigi Donnarumma,True
+Christiano Ronaldo,3229377,19/20,Club,Serie A,Juventus Turin,AC Florenz,2020-02-02,3:0,80',2:0,Bartlomiej Dragowski,True
+Christiano Ronaldo,3229377,19/20,Club,Serie A,Juventus Turin,AC Florenz,2020-02-02,3:0,40',1:0,Bartlomiej Dragowski,True
+Christiano Ronaldo,3229352,19/20,Club,Serie A,Juventus Turin,AS Rom,2020-01-12,2:1,10',2:0,Pau López,True
+Christiano Ronaldo,3229340,19/20,Club,Serie A,Juventus Turin,Cagliari Calcio,2020-01-06,4:0,67',2:0,Robin Olsen,True
+Christiano Ronaldo,3229302,19/20,Club,Serie A,Juventus Turin,US Sassuolo,2019-12-01,2:2,68',2:2,Stefano Turati,True
+Christiano Ronaldo,3136927,18/19,International,EM-Qualifikation,Portugal,Litauen,2019-11-14,6:0,7',1:0,Ernestas Setkus,True
+Christiano Ronaldo,3229258,19/20,Club,Serie A,Juventus Turin,Genua CFC,2019-10-30,2:1,90',2:1,Andrei Radu,True
+Christiano Ronaldo,3136925,18/19,International,EM-Qualifikation,Portugal,Ukraine,2019-10-14,1:2,73',1:2,Andriy Pyatov,True
+Christiano Ronaldo,3229199,19/20,Club,Serie A,Juventus Turin,Hellas Verona,2019-09-21,2:1,49',2:1,Marco Silvestri,True
+Christiano Ronaldo,3136920,18/19,International,EM-Qualifikation,Portugal,Litauen,2019-09-10,5:1,7',1:0,Ernestas Setkus,True
+Christiano Ronaldo,3135814,18/19,Club,UEFA Champions League,Juventus Turin,Atlético Madrid,2019-03-12,3:0,86',3:0,Jan Oblak,True
+Christiano Ronaldo,3081237,18/19,Club,Serie A,Juventus Turin,Lazio Rom,2019-01-27,2:1,88',2:1,Thomas Strakosha,True
+Christiano Ronaldo,3081224,18/19,Club,Serie A,Juventus Turin,Chievo Verona,2019-01-21,3:0,52',2:0,Stefano Sorrentino,False
+Christiano Ronaldo,3081215,18/19,Club,Serie A,Juventus Turin,Sampdoria Genua,2018-12-29,2:1,65',2:1,Emil Audero,True
+Christiano Ronaldo,3081191,18/19,Club,Serie A,Juventus Turin,FC Turin,2018-12-15,1:0,70',1:0,Salvador Ichazo,True
+Christiano Ronaldo,3081164,18/19,Club,Serie A,Juventus Turin,AC Florenz,2018-12-01,3:0,79',3:0,Alban Lafont,True
+Christiano Ronaldo,3081054,18/19,Club,Serie A,Juventus Turin,FC Empoli,2018-10-27,2:1,54',1:1,Ivan Provedel,True
+Christiano Ronaldo,2977693,17/18,International,Weltmeisterschaft,Portugal,Iran,2018-06-25,1:1,53',1:0,Alireza Beiranvand,False
+Christiano Ronaldo,2977690,17/18,International,Weltmeisterschaft,Portugal,Spanien,2018-06-15,3:3,4',1:0,David de Gea,True
+Christiano Ronaldo,3018935,17/18,Club,UEFA Champions League,Real Madrid,Juventus Turin,2018-04-11,1:3,90',1:3,Gianluigi Buffon,True
+Christiano Ronaldo,2981997,17/18,Club,UEFA Champions League,Real Madrid,FC Paris Saint-Germain,2018-02-14,3:1,45',1:1,Alphonse Areola,True
+Christiano Ronaldo,2899758,17/18,Club,LaLiga,Real Madrid,FC Valencia,2018-01-27,4:1,38',2:0,Neto,True
+Christiano Ronaldo,2899758,17/18,Club,LaLiga,Real Madrid,FC Valencia,2018-01-27,4:1,16',1:0,Neto,True
+Christiano Ronaldo,2899693,17/18,Club,LaLiga,Real Madrid,FC Sevilla,2017-12-09,5:0,31',3:0,Sergio Rico,True
+Christiano Ronaldo,2899672,17/18,Club,LaLiga,Real Madrid,FC Málaga,2017-11-25,3:2,76',3:2,Roberto,False
+Christiano Ronaldo,2917404,17/18,Club,UEFA Champions League,Real Madrid,Tottenham Hotspur,2017-10-17,1:1,43',1:1,Hugo Lloris,True
+Christiano Ronaldo,2917371,17/18,Club,UEFA Champions League,Real Madrid,APOEL Nikosia,2017-09-13,3:0,51',2:0,Boy Waterman,True
+Christiano Ronaldo,2643509,16/17,International,WM-Qualifikation Europa,Portugal,Färöer,2017-08-31,5:1,29',2:0,Gunnar Nielsen,True
+Christiano Ronaldo,2852382,16/17,International,Confederations Cup,Portugal,Neuseeland,2017-06-24,4:0,33',1:0,Stefan Marinovic,True
+Christiano Ronaldo,2719055,16/17,Club,LaLiga,Real Madrid,FC Valencia,2017-04-29,2:1,57',1:0,Diego Alves,False
+Christiano Ronaldo,2718950,16/17,Club,LaLiga,Real Madrid,UD Las Palmas,2017-03-01,3:3,86',2:3,Javi Varas,True
+Christiano Ronaldo,2718939,16/17,Club,LaLiga,Real Madrid,FC Villarreal,2017-02-26,3:2,74',2:2,Andrés Fernández,True
+Christiano Ronaldo,2718886,16/17,Club,LaLiga,Real Madrid,FC Sevilla,2017-01-15,1:2,67',1:0,Sergio Rico,True
+Christiano Ronaldo,2806749,16/17,Club,FIFA Klub-WM,Real Madrid,Kashima Antlers,2016-12-18,4:2,60',2:2,Hitoshi Sogahata,True
+Christiano Ronaldo,2718833,16/17,Club,LaLiga,Real Madrid,Sporting Gijón,2016-11-26,2:1,5',1:0,Diego Mariño,True
+Christiano Ronaldo,2718823,16/17,Club,LaLiga,Real Madrid,Atlético Madrid,2016-11-19,3:0,71',2:0,Jan Oblak,True
+Christiano Ronaldo,2643501,16/17,International,WM-Qualifikation Europa,Portugal,Lettland,2016-11-13,4:1,28',1:0,Andris Vanins,True
+Christiano Ronaldo,2643501,16/17,International,WM-Qualifikation Europa,Portugal,Lettland,2016-11-13,4:1,59',1:0,Andris Vanins,False
+Christiano Ronaldo,2718802,16/17,Club,LaLiga,Real Madrid,Deportivo Alavés,2016-10-29,4:1,17',1:1,Fernando Pacheco,True
+Christiano Ronaldo,2718802,16/17,Club,LaLiga,Real Madrid,Deportivo Alavés,2016-10-29,4:1,79',2:1,Fernando Pacheco,False
+Christiano Ronaldo,2645657,15/16,International,Europameisterschaft,Portugal,Österreich,2016-06-18,0:0,79',0:0,Robert Almer,False
+Christiano Ronaldo,2676764,15/16,International,Freundschaftsspiele,Portugal,Bulgarien,2016-03-25,0:1,67',0:1,Vladislav Stoyanov,False
+Christiano Ronaldo,2594763,15/16,Club,LaLiga,Real Madrid,FC Sevilla,2016-03-20,4:0,58',1:0,Sergio Rico,False
+Christiano Ronaldo,2594735,15/16,Club,LaLiga,Real Madrid,UD Levante,2016-03-02,3:1,34',1:0,Diego Mariño,True
+Christiano Ronaldo,2594716,15/16,Club,LaLiga,Real Madrid,FC Málaga,2016-02-21,1:1,36',1:0,Carlos Kameni,False
+Christiano Ronaldo,2594687,15/16,Club,LaLiga,Real Madrid,Espanyol Barcelona,2016-01-31,6:0,12',2:0,Giedrius Arlauskis,True
+Christiano Ronaldo,2594631,15/16,Club,LaLiga,Real Madrid,Real Sociedad San Sebastián,2015-12-30,3:1,24',0:0,Gerónimo Rulli,False
+Christiano Ronaldo,2594631,15/16,Club,LaLiga,Real Madrid,Real Sociedad San Sebastián,2015-12-30,3:1,42',1:0,Gerónimo Rulli,True
+Christiano Ronaldo,2594621,15/16,Club,LaLiga,Real Madrid,Rayo Vallecano,2015-12-20,10:2,30',3:2,Yoel Rodríguez,True
+Christiano Ronaldo,2594592,15/16,Club,LaLiga,Real Madrid,SD Eibar,2015-11-29,2:0,82',2:0,Asier Riesgo,True
+Christiano Ronaldo,2618536,15/16,Club,UEFA Champions League,Real Madrid,Shakhtar Donetsk,2015-09-15,4:0,56',2:0,Andriy Pyatov,True
+Christiano Ronaldo,2618536,15/16,Club,UEFA Champions League,Real Madrid,Shakhtar Donetsk,2015-09-15,4:0,64',3:0,Andriy Pyatov,True
+Christiano Ronaldo,2594497,15/16,Club,LaLiga,Real Madrid,Espanyol Barcelona,2015-09-12,6:0,17',2:0,Pau López,True
+Christiano Ronaldo,2429471,14/15,International,EM-Qualifikation,Portugal,Armenien,2015-06-13,3:2,29',1:1,Roman Berezovskiy,True
+Christiano Ronaldo,2475556,14/15,Club,LaLiga,Real Madrid,FC Getafe,2015-05-23,7:3,34',3:2,Jordi Codina,True
+Christiano Ronaldo,2560718,14/15,Club,UEFA Champions League,Real Madrid,Juventus Turin,2015-05-13,1:1,23',1:0,Gianluigi Buffon,True
+Christiano Ronaldo,2475537,14/15,Club,LaLiga,Real Madrid,FC Valencia,2015-05-09,2:2,45',0:2,Diego Alves,False
+Christiano Ronaldo,2475499,14/15,Club,LaLiga,Real Madrid,FC Málaga,2015-04-18,3:1,67',1:0,Carlos Kameni,False
+Christiano Ronaldo,2475426,14/15,Club,LaLiga,Real Madrid,FC Villarreal,2015-03-01,1:1,52',1:0,Sergio Asenjo,True
+Christiano Ronaldo,2475347,14/15,Club,LaLiga,Real Madrid,FC Valencia,2015-01-04,1:2,14',1:0,Diego Alves,True
+Christiano Ronaldo,2495361,14/15,Club,UEFA Champions League,Real Madrid,Ludogorets Razgrad,2014-12-09,4:0,20',1:0,Vladislav Stoyanov,True
+Christiano Ronaldo,2475319,14/15,Club,LaLiga,Real Madrid,Celta Vigo,2014-12-06,3:0,36',1:0,Sergio Álvarez,True
+Christiano Ronaldo,2475299,14/15,Club,LaLiga,Real Madrid,SD Eibar,2014-11-22,4:0,83',4:0,Xabi Irureta,True
+Christiano Ronaldo,2475267,14/15,Club,LaLiga,Real Madrid,FC Barcelona,2014-10-25,3:1,35',1:1,Claudio Bravo,True
+Christiano Ronaldo,2475257,14/15,Club,LaLiga,Real Madrid,UD Levante,2014-10-18,5:0,13',1:0,Diego Mariño,True
+Christiano Ronaldo,2495305,14/15,Club,UEFA Champions League,Real Madrid,Ludogorets Razgrad,2014-10-01,2:1,10',0:1,Vladislav Stoyanov,False
+Christiano Ronaldo,2495305,14/15,Club,UEFA Champions League,Real Madrid,Ludogorets Razgrad,2014-10-01,2:1,25',1:1,Vladislav Stoyanov,True
+Christiano Ronaldo,2475225,14/15,Club,LaLiga,Real Madrid,FC Elche,2014-09-23,5:1,28',2:1,Manu Herrera,True
+Christiano Ronaldo,2475225,14/15,Club,LaLiga,Real Madrid,FC Elche,2014-09-23,5:1,80',4:1,Manu Herrera,True
+Christiano Ronaldo,2475204,14/15,Club,LaLiga,Real Madrid,Atlético Madrid,2014-09-13,1:2,25',1:1,Miguel Ángel Moyá,True
+Christiano Ronaldo,2456475,13/14,Club,UEFA Champions League,Real Madrid,Atlético Madrid,2014-05-24,4:1,120',4:1,Thibaut Courtois,True
+Christiano Ronaldo,2341314,13/14,Club,LaLiga,Real Madrid,FC Barcelona,2014-03-23,3:4,55',3:2,Víctor Valdés,True
+Christiano Ronaldo,2423575,13/14,Club,Copa del Rey,Real Madrid,Atlético Madrid,2014-02-11,2:0,6',1:0,Daniel Aranzubia,True
+Christiano Ronaldo,2423575,13/14,Club,Copa del Rey,Real Madrid,Atlético Madrid,2014-02-11,2:0,15',2:0,Daniel Aranzubia,True
+Christiano Ronaldo,2368478,13/14,Club,UEFA Champions League,Real Madrid,FC Kopenhagen,2013-12-10,2:0,90',2:0,Johan Sellberg-Wiland,False
+Christiano Ronaldo,2341218,13/14,Club,LaLiga,Real Madrid,Real Sociedad San Sebastián,2013-11-09,5:1,27',3:0,Claudio Bravo,True
+Christiano Ronaldo,2341139,13/14,Club,LaLiga,Real Madrid,FC Sevilla,2013-10-30,7:3,31',3:0,Beto,True
+Christiano Ronaldo,2368441,13/14,Club,UEFA Champions League,Real Madrid,Juventus Turin,2013-10-23,2:1,29',2:1,Gianluigi Buffon,True
+Christiano Ronaldo,2341153,13/14,Club,LaLiga,Real Madrid,FC Málaga,2013-10-19,2:0,90',2:0,Willy Caballero,True
+Christiano Ronaldo,2341189,13/14,Club,LaLiga,Real Madrid,FC Elche,2013-09-25,2:1,90',2:1,Manu Herrera,True
+Christiano Ronaldo,2341081,13/14,Club,LaLiga,Real Madrid,FC Getafe,2013-09-22,4:1,34',2:1,Miguel Ángel Moyá,True
+Christiano Ronaldo,2242976,12/13,Club,LaLiga,Real Madrid,FC Málaga,2013-05-08,6:2,22',1:1,Willy Caballero,False
+Christiano Ronaldo,2243154,12/13,Club,LaLiga,Real Madrid,Celta Vigo,2013-03-10,2:1,71',2:1,Javi Varas,True
+Christiano Ronaldo,2288676,12/13,Club,Copa del Rey,Real Madrid,FC Barcelona,2013-02-26,3:1,12',1:0,José Manuel Pinto,True
+Christiano Ronaldo,2243104,12/13,Club,LaLiga,Real Madrid,FC Getafe,2013-01-27,4:0,72',4:0,Miguel Ángel Moyá,True
+Christiano Ronaldo,2242854,12/13,Club,LaLiga,Real Madrid,Celta Vigo,2012-10-20,2:0,67',2:0,Sergio Álvarez,True
+Christiano Ronaldo,2242843,12/13,Club,LaLiga,Real Madrid,Deportivo La Coruna ,2012-09-30,5:1,83',5:1,Daniel Aranzubia,True
+Christiano Ronaldo,2242843,12/13,Club,LaLiga,Real Madrid,Deportivo La Coruna ,2012-09-30,5:1,22',1:1,Daniel Aranzubia,True
+Christiano Ronaldo,2242897,12/13,Club,LaLiga,Real Madrid,Rayo Vallecano,2012-09-24,2:0,70',2:0,Rubén Martínez,True
+Christiano Ronaldo,2207004,11/12,International,Freundschaftsspiele,Portugal,Türkei,2012-06-02,1:3,65',1:2,Volkan Demirel,False
+Christiano Ronaldo,1125585,11/12,Club,LaLiga,Real Madrid,FC Granada,2012-05-05,2:1,81',1:1,Júlio César,True
+Christiano Ronaldo,1125413,11/12,Club,LaLiga,Real Madrid,Athletic Bilbao,2012-05-02,3:0,12',0:0,Gorka Iraizoz,False
+Christiano Ronaldo,2194740,11/12,Club,UEFA Champions League,Real Madrid,FC Bayern München,2012-04-25,3:4,6',1:0,Manuel Neuer,True
+Christiano Ronaldo,1125537,11/12,Club,LaLiga,Real Madrid,Atlético Madrid,2012-04-11,4:1,82',3:1,Thibaut Courtois,True
+Christiano Ronaldo,1125451,11/12,Club,LaLiga,Real Madrid,UD Levante,2012-02-12,4:2,45',1:1,Gustavo Munúa,True
+Christiano Ronaldo,1125062,11/12,Club,LaLiga,Real Madrid,Athletic Bilbao,2012-01-22,4:1,67',3:1,Gorka Iraizoz,True
+Christiano Ronaldo,1125062,11/12,Club,LaLiga,Real Madrid,Athletic Bilbao,2012-01-22,4:1,46',2:1,Gorka Iraizoz,True
+Christiano Ronaldo,1125385,11/12,Club,LaLiga,Real Madrid,FC Sevilla,2011-12-17,6:2,86',5:1,Javi Varas,True
+Christiano Ronaldo,1125357,11/12,Club,LaLiga,Real Madrid,Atlético Madrid,2011-11-26,4:1,82',4:1,Sergio Asenjo,True
+Christiano Ronaldo,1125357,11/12,Club,LaLiga,Real Madrid,Atlético Madrid,2011-11-26,4:1,24',1:1,Sergio Asenjo,True
+Christiano Ronaldo,1125338,11/12,Club,LaLiga,Real Madrid,CA Osasuna,2011-11-06,7:1,55',4:1,Andrés Fernández,True
+Christiano Ronaldo,1141902,11/12,Club,UEFA Champions League,Real Madrid,Olympique Lyon,2011-11-02,2:0,69',2:0,Hugo Lloris,True
+Christiano Ronaldo,1125281,11/12,Club,LaLiga,Real Madrid,Rayo Vallecano,2011-09-24,6:2,84',6:2,Dani Giménez,True
+Christiano Ronaldo,1125281,11/12,Club,LaLiga,Real Madrid,Rayo Vallecano,2011-09-24,6:2,51',3:1,Dani Giménez,True
+Christiano Ronaldo,1125250,11/12,Club,LaLiga,Real Madrid,FC Getafe,2011-09-10,4:2,59',2:1,Miguel Ángel Moyá,True
+Christiano Ronaldo,1076900,10/11,International,EM-Qualifikation,Portugal,Zypern,2011-09-02,4:0,35',1:0,Antonis Georgallidis,True
+Christiano Ronaldo,1036423,10/11,Club,LaLiga,Real Madrid,FC Getafe,2011-05-10,4:0,90',4:0,Oscar Ustari,True
+Christiano Ronaldo,1036385,10/11,Club,LaLiga,Real Madrid,FC Barcelona,2011-04-16,1:1,82',1:1,Víctor Valdés,True
+Christiano Ronaldo,1036328,10/11,Club,LaLiga,Real Madrid,FC Málaga,2011-03-03,7:0,67',6:0,Willy Caballero,True
+Christiano Ronaldo,1036233,10/11,Club,LaLiga,Real Madrid,FC Getafe,2011-01-03,3:2,11',1:0,Jordi Codina,True
+Christiano Ronaldo,1050138,10/11,Club,UEFA Champions League,Real Madrid,Ajax Amsterdam,2010-11-23,4:0,81',4:0,Maarten Stekelenburg,True
+Christiano Ronaldo,1036186,10/11,Club,LaLiga,Real Madrid,Athletic Bilbao,2010-11-20,5:1,90',5:1,Gorka Iraizoz,True
+Christiano Ronaldo,1036148,10/11,Club,LaLiga,Real Madrid,Racing Santander,2010-10-23,6:1,55',5:0,Toño,True
+Christiano Ronaldo,1036138,10/11,Club,LaLiga,Real Madrid,FC Málaga,2010-10-16,4:1,50',3:0,Galatto,True
+Christiano Ronaldo,1036092,10/11,Club,LaLiga,Real Madrid,Espanyol Barcelona,2010-09-21,3:0,28',1:0,Carlos Kameni,True
+Christiano Ronaldo,957688,09/10,Club,LaLiga,Real Madrid,Athletic Bilbao,2010-05-08,5:1,21',1:0,Gorka Iraizoz,True
+Christiano Ronaldo,957596,09/10,Club,LaLiga,Real Madrid,Racing Santander,2010-04-04,2:0,23',1:0,Fabio Coltorti,True
+Christiano Ronaldo,957413,09/10,Club,LaLiga,Real Madrid,CD Teneriffa,2010-02-27,5:1,78',4:1,Sergio Aragoneses,True
+Christiano Ronaldo,957307,09/10,Club,LaLiga,Real Madrid,UD Almería,2009-12-05,4:2,82',3:2,Diego Alves,False
+Christiano Ronaldo,955779,09/10,Club,LaLiga,Real Madrid,Deportivo La Coruna ,2009-08-29,3:2,35',2:1,Daniel Aranzubia,True
+Christiano Ronaldo,940370,08/09,Club,Premier League,Manchester United,Tottenham Hotspur,2009-04-25,5:2,57',1:2,Heurelho Gomes,True
+Christiano Ronaldo,936034,08/09,Club,Premier League,Manchester United,FC Liverpool,2009-03-14,1:4,22',1:0,Pepe Reina,True
+Christiano Ronaldo,934865,08/09,International,Freundschaftsspiele,Portugal,Finnland,2009-02-11,1:0,78',1:0,Niki Mäenpää,True
+Christiano Ronaldo,934260,08/09,Club,Premier League,Manchester United,FC Everton,2009-01-31,1:0,43',1:0,Tim Howard,True
+Christiano Ronaldo,933826,08/09,Club,EFL Cup,Manchester United,Derby County,2009-01-20,4:2,89',4:1,Roy Carroll,True
+Christiano Ronaldo,923959,08/09,Club,Premier League,Manchester United,Bolton Wanderers,2008-09-27,2:0,59',1:0,Jussi Jääskeläinen,True
+Christiano Ronaldo,81860,07/08,Club,Premier League,Manchester United,Wigan Athletic,2008-05-11,2:0,32',1:0,Chris Kirkland,True
+Christiano Ronaldo,90882,07/08,Club,UEFA Champions League,Manchester United,FC Barcelona,2008-04-23,0:0,3',0:0,Víctor Valdés,False
+Christiano Ronaldo,81816,07/08,Club,Premier League,Manchester United,FC Arsenal,2008-04-13,2:1,53',1:1,Jens Lehmann,True
+Christiano Ronaldo,88672,07/08,Club,FA Cup,Manchester United,Tottenham Hotspur,2008-01-27,3:1,69',2:1,Radek Cerny,True
+Christiano Ronaldo,81679,07/08,Club,Premier League,Manchester United,West Ham United,2007-12-29,1:2,66',1:0,Rob Green,False
+Christiano Ronaldo,81657,07/08,Club,Premier League,Manchester United,FC Everton,2007-12-23,2:1,87',2:1,Tim Howard,True
+Christiano Ronaldo,81646,07/08,Club,Premier League,Manchester United,Derby County,2007-12-08,4:1,90',4:1,Stephen Bywater,True
+Christiano Ronaldo,83352,07/08,Club,UEFA Champions League,Manchester United,Dynamo Kyiv,2007-10-23,4:2,68',4:1,Oleksandr Shovkovskyi,True
+Christiano Ronaldo,55801,06/07,Club,Premier League,Manchester United,Manchester City,2007-05-05,1:0,34',1:0,Andreas Isaksson,True
+Christiano Ronaldo,67530,06/07,Club,FA Cup,Manchester United,FC Middlesbrough,2007-03-19,1:0,76',1:0,Mark Schwarzer,True
+Christiano Ronaldo,67381,06/07,Club,FA Cup,Manchester United,FC Middlesbrough,2007-03-10,2:2,68',2:2,Mark Schwarzer,True
+Christiano Ronaldo,55693,06/07,Club,Premier League,Manchester United,Tottenham Hotspur,2007-02-03,4:0,45',1:0,Paul Robinson,True
+Christiano Ronaldo,55683,06/07,Club,Premier League,Manchester United,FC Watford,2007-01-31,4:0,12',1:0,Richard Lee,True
+Christiano Ronaldo,55630,06/07,Club,Premier League,Manchester United,Wigan Athletic,2006-12-26,3:1,50',2:0,Chris Kirkland,False
+Christiano Ronaldo,2372139,06/07,International,Freundschaftsspiele,Portugal,Dänemark,2006-09-01,2:4,58',1:2,Thomas Sörensen,False
+Christiano Ronaldo,49327,05/06,International,Weltmeisterschaft,Portugal,Iran,2006-06-17,2:0,80',2:0,Ebrahim Mirzapour,True
+Christiano Ronaldo,2365810,05/06,Club,EFL Cup,Manchester United,West Bromwich Albion,2005-11-30,3:1,12',1:1,Russell Hoult,True
