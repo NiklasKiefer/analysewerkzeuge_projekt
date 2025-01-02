@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import random
 
 st.set_page_config(page_title="Messi vs Ronaldo", page_icon="⚽")
 
@@ -47,6 +48,18 @@ for section in sections:
 ###############################################################################
 
 ## Goal types
+# create unique colors for pie chart
+temp = club_goals["goal_type"].value_counts().reset_index()
+types = temp['goal_type'].tolist()
+
+pie_colors = { }
+
+for type in types:
+    color = "#{:06x}".format(random.randint(0, 0xFFFFFF))
+    pie_colors[type] = color
+
+pie_colors["Andere"] = color = "#{:06x}".format(random.randint(0, 0xFFFFFF))
+
 # Calculate club goal types for Ronaldo
 ronaldo_types = club_goals[club_goals["player_name"] == cr]['goal_type'].value_counts().reset_index()
 below_threshold = ronaldo_types[ronaldo_types['count'] < 20]
@@ -56,10 +69,11 @@ below_aggregated = pd.DataFrame({
     'count': [below_threshold['count'].sum()]
 })
 ronaldo_types = pd.concat([above_threshold, below_aggregated], ignore_index=True)
+ronaldo_colors = [pie_colors[gt] for gt in ronaldo_types["goal_type"]]
 
 fig_cr, ax_cr = plt.subplots()
 fig_cr.patch.set_facecolor('none') 
-wedges, texts, autotexts = ax_cr.pie(ronaldo_types["count"], labels=ronaldo_types["goal_type"], autopct='%1.1f%%', startangle=90)
+wedges, texts, autotexts = ax_cr.pie(ronaldo_types["count"], labels=ronaldo_types["goal_type"], colors=ronaldo_colors, autopct='%1.1f%%', startangle=90)
 ax_cr.set_title('Club Goal Types Distribution for Christiano Ronaldo', color='black')
 for text in texts:  # Labels
     text.set_color('black') 
@@ -75,10 +89,11 @@ below_aggregated = pd.DataFrame({
     'count': [below_threshold['count'].sum()]
 })
 messi_types = pd.concat([above_threshold, below_aggregated], ignore_index=True)
+messi_colors = [pie_colors[gt] for gt in messi_types["goal_type"]]
 
 fig_lm, ax_lm = plt.subplots()
 fig_lm.patch.set_facecolor('none') 
-wedges, texts, autotexts = ax_lm.pie(messi_types["count"], labels=messi_types["goal_type"], autopct='%1.1f%%', startangle=90)
+wedges, texts, autotexts = ax_lm.pie(messi_types["count"], labels=messi_types["goal_type"], colors=messi_colors, autopct='%1.1f%%', startangle=90)
 ax_lm.set_title('Club Goal Types Distribution for Lionel Messi', color='black')
 for text in texts:  # Labels
     text.set_color('black')  # Change this to your preferred color
@@ -215,10 +230,12 @@ ronaldo_competitions = ronaldo_competitions.set_index('competition')
 ronaldo_competitions = ronaldo_competitions.sort_values(by='count', ascending=False)
 
 # amount of penalties per competition type
-messi_comp_types = messi_pen_scored.groupby("competition_type").size().reset_index(name='count')
-messi_comp_types = messi_comp_types.set_index('competition_type')
-ronaldo_comp_types = ronaldo_pen_scored.groupby("competition_type").size().reset_index(name='count')
-ronaldo_comp_types = ronaldo_comp_types.set_index('competition_type')
+messi_comp_types = messi_pen_scored.groupby("competition").size().reset_index(name='count')
+messi_comp_types = messi_comp_types.head(10)
+messi_comp_types = messi_comp_types.set_index('competition')
+ronaldo_comp_types = ronaldo_pen_scored.groupby("competition").size().reset_index(name='count')
+ronaldo_comp_types = ronaldo_comp_types.head(10)
+ronaldo_comp_types = ronaldo_comp_types.set_index('competition')
 
 #<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>#
 #<<<<<<<<<<<<<<<<<<<<< Display Data for Penalties >>>>>>>>>>>>>>>>>>>>>#
@@ -256,17 +273,16 @@ with col2:
     st.write(ronaldo_competitions)
 
 # display penalty per competition type
-st.write("Abschließend werfen wir einen Blick auf die Verteilung der erzielten Elfmeter in Club- und internationalen Wettbewerben. Dabei wird deutlich, dass Messi auf internationaler Ebene ein Tor mehr als Ronaldo erzielt hat, jedoch deutlich hinter Ronaldo liegt, wenn es um die Treffer in Clubwettbewerben geht.")
 col1, col2 = st.columns(2)
 with col1:
-    st.write("Messi Scored Penalties Club vs International")
+    st.write("Messi Top 10 Competition by Penalty Scored")
     st.bar_chart(messi_comp_types)
 with col2:
-    st.write("Ronaldo Scored Penalties Club vs International")
+    st.write("Messi Top 10 Competition by Penalty Scored")
     st.bar_chart(ronaldo_comp_types)
 
 # display total penalty stats
-st.write("Und nun zur entscheidenden Frage dieser Kategorie: Wer ist der bessere Elfmeterschütze? Ein Blick auf die Zahlen zeigt, dass Cristiano Ronaldo deutlich mehr Elfmeter ausgeführt hat als Lionel Messi und dabei die gleiche Anzahl an Fehlversuchen aufweist. Dadurch erzielt Ronaldo eine höhere Trefferquote als sein Rivale. Zudem hat er auch eine größere Anzahl verwandelter Elfmeter auf seinem Konto. Damit geht diese Runde eindeutig an Ronaldo!")
+st.write("Damit kommen wir schon zur entscheidenden Frage dieser Kategorie: Wer ist der bessere Elfmeterschütze? Ein Blick auf die Zahlen zeigt, dass Cristiano Ronaldo deutlich mehr Elfmeter ausgeführt hat als Lionel Messi und dabei die gleiche Anzahl an Fehlversuchen aufweist. Dadurch erzielt Ronaldo eine höhere Trefferquote als sein Rivale. Zudem hat er auch eine größere Anzahl verwandelter Elfmeter auf seinem Konto. Damit geht diese Runde eindeutig an Ronaldo!")
 col1, col2 = st.columns(2)
 with col1:
     st.metric(label="Total Penalties", value=f"{len(messi_pen_total)} Penalties")
