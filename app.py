@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import altair as alt
 
 st.set_page_config(page_title="Messi vs Ronaldo", page_icon="⚽")
 
@@ -61,11 +60,11 @@ ronaldo_types = pd.concat([above_threshold, below_aggregated], ignore_index=True
 fig_cr, ax_cr = plt.subplots()
 fig_cr.patch.set_facecolor('none') 
 wedges, texts, autotexts = ax_cr.pie(ronaldo_types["count"], labels=ronaldo_types["goal_type"], autopct='%1.1f%%', startangle=90)
-ax_cr.set_title('Club Goal Types Distribution for Christiano Ronaldo', color='white')
+ax_cr.set_title('Club Goal Types Distribution for Christiano Ronaldo', color='black')
 for text in texts:  # Labels
-    text.set_color('white')  # Change this to your preferred color
+    text.set_color('black') 
 for autotext in autotexts:  # Percentages
-    autotext.set_color('white')  # Change this to your preferred color
+    autotext.set_color('white') 
 
 # Calculate club goal types for Messi
 messi_types = club_goals[club_goals["player_name"] == lm]['goal_type'].value_counts().reset_index()
@@ -80,9 +79,9 @@ messi_types = pd.concat([above_threshold, below_aggregated], ignore_index=True)
 fig_lm, ax_lm = plt.subplots()
 fig_lm.patch.set_facecolor('none') 
 wedges, texts, autotexts = ax_lm.pie(messi_types["count"], labels=messi_types["goal_type"], autopct='%1.1f%%', startangle=90)
-ax_lm.set_title('Club Goal Types Distribution for Lionel Messi', color='white')
+ax_lm.set_title('Club Goal Types Distribution for Lionel Messi', color='black')
 for text in texts:  # Labels
-    text.set_color('white')  # Change this to your preferred color
+    text.set_color('black')  # Change this to your preferred color
 for autotext in autotexts:  # Percentages
     autotext.set_color('white')  # Change this to your preferred color
 
@@ -610,7 +609,6 @@ ax.set_ylabel("Player Name")
 ax.set_title("Players with Most Goal Assist in 21st Century")
 # Streamlit Display
 st.pyplot(fig)
-
 
 # Finish
 st.write("Man könnte diese Analyse noch unendlich fortsetzen, doch die wesentliche Erkenntnis sollte bereits klar sein: Eine endgültige Antwort darauf, wer von Messi und Ronaldo der Bessere ist, lässt sich nicht eindeutig geben.")
