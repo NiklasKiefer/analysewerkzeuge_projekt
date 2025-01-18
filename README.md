@@ -11,7 +11,7 @@ Für dieses Projekt wurden folgende Libraries verwendet, um die Daten zu scrapen
 - Matplotlib
 - BeautifulSoup
 - Selenium
-- 
+
 Im **Pipfile** sind die Libraries nochmal gelistet und können direkt mit **pipenv** installiert werden.
 
 ## Datasets
